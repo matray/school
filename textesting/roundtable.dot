@@ -1,0 +1,6 @@
+digraph {
+	"King Arthur" -> {
+		"Sir Bedevere", "Sir Lancelot"
+	}
+	"Sir Bedevere" -> "Sir Lancelot" [constraint=false]
+}

@@ -1,0 +1,6 @@
+Probability for Engineers: R.D. Yates and D.J. Goodman - Probability and Stochastic Process: A Friendly Introduction for Electrical and Computer Engineers - Wiley
+Engineering Design - Practical Engineering Design M. Bystrom & B. Eisenstein, CRC Press, 2005
+Digital System Projects - J. Bhasker, A VHDL PRimer, Englewood Cliffs, NJ: Prentice Hall, 1995
+“Computer Networking”  by James F. Kurose and Keith W. Ross (6th  Edition)
+                             Addison Wesley (2010)   ISBN: 0-13-285620-1
+
