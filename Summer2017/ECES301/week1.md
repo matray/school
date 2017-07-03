@@ -76,7 +76,7 @@ $$
 
 # Purpose of this class
 
-* Decomposing a signall
+* Decomposing a signal
 * Look at examples
 
 # QUIZ:
@@ -84,3 +84,5 @@ $$
 * Explain what linear and time invariant mean
 * Look over testing examples for time-invariance and linear testing examples
 
+# Recitation 1
+* *  
