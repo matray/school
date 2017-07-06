@@ -51,3 +51,23 @@ header-includes:
 * Any function convolved around the delta function is itself
 * $=conv(V_{in} * \delta(t)) - conv(V_{in} * h_C (t))$
 * $V_{in} * conv(\dealta(t) - h_C(t))$
+
+## Using Convolution with Time-Invariant Systems
+* conv(A,B) = conv(B,A)
+* Flip, shift, and integrate
+* There will be a circuit on the midterm? Should be obvious which one you need to flip, shift, and integrate 
+* Associative property: $x(y) \rightarrow |h_1(t)| \rightarrow |h_2(t)| \rightarrow y(t)$
+* $y(t) = conv(x_1(t), h_1(t), h_2(t)$
+
+## Memory circuits
+* Does this RC circuit have memory or not? (Page 54), yeah
+* Page 55, no
+* BIBO =  Bounded In, Bounded Out
+* If finite, a system is stable, the area just has to be finite, it can stretch for infinity
+
+## Stability
+* Accumulator example if inherently unstable because it is time dependent
+* Discrete Example 2 is a trick question, if a>= 1 it is unstable, if it is between 0 and 1 it is a convergent series
+* When less than one, Sum=1/1-a
+* Product rule derivative will be on the test
+* Review recitation notes and do homework 1
