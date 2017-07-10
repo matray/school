@@ -1,0 +1,961 @@
+time 1496936809
+new [description:"Contact Information Assurance Specialists" due:"1496894400" entry:"1496936809" modified:"1496936809" status:"pending" uuid:"5f36bff0-3d19-4e78-b065-dbafef969084"]
+---
+time 1496936821
+new [description:"Contact Nuix" due:"1496894400" entry:"1496936821" modified:"1496936821" status:"pending" uuid:"f53b614d-9d88-44f4-8dc8-2bc0621e39ac"]
+---
+time 1496936834
+new [description:"Lab 7 Rewrite" due:"1496894400" entry:"1496936834" modified:"1496936834" status:"pending" uuid:"4419c24f-4288-4951-913c-ff8291b5193e"]
+---
+time 1496936846
+new [description:"Lab 9" due:"1496894400" entry:"1496936846" modified:"1496936846" status:"pending" uuid:"6951a7ad-6486-4924-98c1-bfe53edf678d"]
+---
+time 1496936861
+new [description:"Contact david on Lab 8 Grade" due:"1496894400" entry:"1496936861" modified:"1496936861" status:"pending" uuid:"c224c46e-36ff-43aa-81d4-4371441b618c"]
+---
+time 1496936943
+new [description:"Buy new shirts and pants" due:"1497067200" entry:"1496936943" modified:"1496936943" status:"pending" uuid:"3f4c8c59-c76e-42c5-bcf6-dcd006205cac"]
+---
+time 1496936980
+new [description:"Figure out coop interviews" due:"1496980800" entry:"1496936980" modified:"1496936980" status:"pending" uuid:"cb4e323b-8ee1-49d4-bd77-2e99f174f4f1"]
+---
+time 1498481151
+old [description:"Contact Nuix" due:"1496894400" entry:"1496936821" modified:"1496936821" status:"pending" uuid:"f53b614d-9d88-44f4-8dc8-2bc0621e39ac"]
+new [description:"Contact Nuix" due:"1496894400" end:"1498481151" entry:"1496936821" modified:"1498481151" status:"completed" uuid:"f53b614d-9d88-44f4-8dc8-2bc0621e39ac"]
+---
+time 1498481167
+old [description:"Lab 9" due:"1496894400" entry:"1496936846" modified:"1496936846" status:"pending" uuid:"6951a7ad-6486-4924-98c1-bfe53edf678d"]
+new [description:"Lab 9" due:"1496894400" end:"1498481167" entry:"1496936846" modified:"1498481167" status:"completed" uuid:"6951a7ad-6486-4924-98c1-bfe53edf678d"]
+---
+time 1498481172
+old [description:"Lab 7 Rewrite" due:"1496894400" entry:"1496936834" modified:"1496936834" status:"pending" uuid:"4419c24f-4288-4951-913c-ff8291b5193e"]
+new [description:"Lab 7 Rewrite" due:"1496894400" end:"1498481172" entry:"1496936834" modified:"1498481172" status:"completed" uuid:"4419c24f-4288-4951-913c-ff8291b5193e"]
+---
+time 1498481180
+old [description:"Contact Information Assurance Specialists" due:"1496894400" entry:"1496936809" modified:"1496936809" status:"pending" uuid:"5f36bff0-3d19-4e78-b065-dbafef969084"]
+new [description:"Contact Information Assurance Specialists" due:"1496894400" end:"1498481180" entry:"1496936809" modified:"1498481180" status:"completed" uuid:"5f36bff0-3d19-4e78-b065-dbafef969084"]
+---
+time 1498481192
+new [description:"Get textbooks for classes" entry:"1498481192" modified:"1498481192" status:"pending" uuid:"85205cfc-6bf8-495b-a7ea-0ec79261b51c"]
+---
+time 1498481213
+new [description:"Change out .vimrc" entry:"1498481213" modified:"1498481213" status:"pending" uuid:"3afa5eab-a6b0-4361-b5d8-9dffe19d7759"]
+---
+time 1498481290
+new [description:"Renew MATLAB license" entry:"1498481290" modified:"1498481290" status:"pending" uuid:"d213d7be-d0e9-49a5-b9ad-ffa7370139fd"]
+---
+time 1498494116
+new [description:"Watch ACCT-110 lecture" entry:"1498494116" modified:"1498494116" status:"pending" uuid:"1f312ac8-2230-4480-9507-4a196c0097ee"]
+---
+time 1498494125
+new [description:"ACCT-110 homework" entry:"1498494125" modified:"1498494125" status:"pending" uuid:"caf534ae-0bb5-46d1-819f-34d92fa0dc53"]
+---
+time 1498494134
+old [description:"Change out .vimrc" entry:"1498481213" modified:"1498481213" status:"pending" uuid:"3afa5eab-a6b0-4361-b5d8-9dffe19d7759"]
+new [description:"Change out .vimrc" end:"1498494134" entry:"1498481213" modified:"1498494134" status:"completed" uuid:"3afa5eab-a6b0-4361-b5d8-9dffe19d7759"]
+---
+time 1498494155
+new [description:"Read ECES301 textbook" entry:"1498494155" modified:"1498494155" status:"pending" uuid:"fd10e2de-db6b-4f56-a1bc-8fe12d68f697"]
+---
+time 1498504083
+new [description:"CS260 Reading and prep work" entry:"1498504083" modified:"1498504083" status:"pending" uuid:"244ef3aa-0d14-4a86-bef6-78ad15ca902c"]
+---
+time 1498504095
+new [description:"ECEC355 group work" entry:"1498504095" modified:"1498504095" status:"pending" uuid:"0bfa25c5-761d-4e5e-91fb-947cff435852"]
+---
+time 1498504101
+old [description:"Contact david on Lab 8 Grade" due:"1496894400" entry:"1496936861" modified:"1496936861" status:"pending" uuid:"c224c46e-36ff-43aa-81d4-4371441b618c"]
+new [description:"Contact david on Lab 8 Grade" due:"1496894400" end:"1498504101" entry:"1496936861" modified:"1498504101" status:"completed" uuid:"c224c46e-36ff-43aa-81d4-4371441b618c"]
+---
+time 1498504113
+old [description:"Renew MATLAB license" entry:"1498481290" modified:"1498481290" status:"pending" uuid:"d213d7be-d0e9-49a5-b9ad-ffa7370139fd"]
+new [description:"Renew MATLAB license" end:"1498504113" entry:"1498481290" modified:"1498504113" status:"completed" uuid:"d213d7be-d0e9-49a5-b9ad-ffa7370139fd"]
+---
+time 1498504259
+new [description:"Swap ECEL302 spot to be with Charles" entry:"1498504259" modified:"1498504259" status:"pending" uuid:"7319f818-32cc-47e2-96fc-87a737aeadb6"]
+---
+time 1498504470
+new [description:"BUDGET" entry:"1498504470" modified:"1498504470" status:"pending" uuid:"6d582c2a-26da-4943-bff4-93f981dec60f"]
+---
+time 1498504474
+new [description:"FITNESS" entry:"1498504474" modified:"1498504474" status:"pending" uuid:"dcba6462-ebf7-4ead-bb68-c2ac3e730a74"]
+---
+time 1498506185
+new [description:"Pay bills!" entry:"1498506185" modified:"1498506185" status:"pending" uuid:"4930e67e-11c1-4ef4-a0b6-c2802a1bb2b8"]
+---
+time 1498506199
+old [description:"Pay bills!" entry:"1498506185" modified:"1498506185" status:"pending" uuid:"4930e67e-11c1-4ef4-a0b6-c2802a1bb2b8"]
+new [description:"Pay bills!" due:"1498449600" entry:"1498506185" modified:"1498506199" status:"pending" uuid:"4930e67e-11c1-4ef4-a0b6-c2802a1bb2b8"]
+---
+time 1498659365
+old [description:"Figure out coop interviews" due:"1496980800" entry:"1496936980" modified:"1496936980" status:"pending" uuid:"cb4e323b-8ee1-49d4-bd77-2e99f174f4f1"]
+new [description:"Figure out coop interviews" due:"1496980800" end:"1498659365" entry:"1496936980" modified:"1498659365" status:"completed" uuid:"cb4e323b-8ee1-49d4-bd77-2e99f174f4f1"]
+---
+time 1498678432
+new [description:"Plan out ECEC355 Group HW" entry:"1498678432" modified:"1498678432" status:"pending" uuid:"182be2c9-bec3-4837-aa85-1a265fcd0eee"]
+---
+time 1498678436
+new [description:"Plan out ECEC355 Group Assignment 1" entry:"1498678436" modified:"1498678436" status:"pending" uuid:"b6898755-a832-4ba6-98a7-10e533723e78"]
+---
+time 1498678447
+new [description:"CS260 Start project 1" entry:"1498678447" modified:"1498678447" status:"pending" uuid:"5bfa2f06-f498-47d7-a670-938d7cc834a9"]
+---
+time 1498678467
+new [description:"ECES301 take textbook notes" entry:"1498678467" modified:"1498678467" status:"pending" uuid:"2dd72767-cec9-4165-8148-59f7c84934de"]
+---
+time 1498678473
+new [description:"CS260 take textbook notes" entry:"1498678473" modified:"1498678473" status:"pending" uuid:"29a73e17-e1ea-4424-b31a-ae31fcdceaf1"]
+---
+time 1499090390
+new [description:"EGMT404 Discussion Week 1" entry:"1499090390" modified:"1499090390" status:"pending" uuid:"02de6c04-1858-4cd5-9dea-bb52acffe00c"]
+---
+time 1499105355
+old [description:"Buy new shirts and pants" due:"1497067200" entry:"1496936943" modified:"1496936943" status:"pending" uuid:"3f4c8c59-c76e-42c5-bcf6-dcd006205cac"]
+new [annotation_1499105344:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Buy new shirts and pants" due:"1497067200" end:"1499105344" entry:"1496936943" modified:"1499105355" status:"completed" uuid:"3f4c8c59-c76e-42c5-bcf6-dcd006205cac"]
+---
+time 1499105357
+old [description:"Get textbooks for classes" entry:"1498481192" modified:"1498481192" status:"pending" uuid:"85205cfc-6bf8-495b-a7ea-0ec79261b51c"]
+new [annotation_1499105355:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Get textbooks for classes" end:"1499105355" entry:"1498481192" modified:"1499105357" status:"completed" uuid:"85205cfc-6bf8-495b-a7ea-0ec79261b51c"]
+---
+time 1499105357
+old [description:"Watch ACCT-110 lecture" entry:"1498494116" modified:"1498494116" status:"pending" uuid:"1f312ac8-2230-4480-9507-4a196c0097ee"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Watch ACCT-110 lecture" end:"1499105357" entry:"1498494116" modified:"1499105357" status:"completed" uuid:"1f312ac8-2230-4480-9507-4a196c0097ee"]
+---
+time 1499105357
+old [description:"ACCT-110 homework" entry:"1498494125" modified:"1498494125" status:"pending" uuid:"caf534ae-0bb5-46d1-819f-34d92fa0dc53"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"ACCT-110 homework" end:"1499105357" entry:"1498494125" modified:"1499105357" status:"completed" uuid:"caf534ae-0bb5-46d1-819f-34d92fa0dc53"]
+---
+time 1499105357
+old [description:"Read ECES301 textbook" entry:"1498494155" modified:"1498494155" status:"pending" uuid:"fd10e2de-db6b-4f56-a1bc-8fe12d68f697"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Read ECES301 textbook" end:"1499105357" entry:"1498494155" modified:"1499105357" status:"completed" uuid:"fd10e2de-db6b-4f56-a1bc-8fe12d68f697"]
+---
+time 1499105357
+old [description:"CS260 Reading and prep work" entry:"1498504083" modified:"1498504083" status:"pending" uuid:"244ef3aa-0d14-4a86-bef6-78ad15ca902c"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"CS260 Reading and prep work" end:"1499105357" entry:"1498504083" modified:"1499105357" status:"completed" uuid:"244ef3aa-0d14-4a86-bef6-78ad15ca902c"]
+---
+time 1499105357
+old [description:"ECEC355 group work" entry:"1498504095" modified:"1498504095" status:"pending" uuid:"0bfa25c5-761d-4e5e-91fb-947cff435852"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"ECEC355 group work" end:"1499105357" entry:"1498504095" modified:"1499105357" status:"completed" uuid:"0bfa25c5-761d-4e5e-91fb-947cff435852"]
+---
+time 1499105357
+old [description:"Swap ECEL302 spot to be with Charles" entry:"1498504259" modified:"1498504259" status:"pending" uuid:"7319f818-32cc-47e2-96fc-87a737aeadb6"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Swap ECEL302 spot to be with Charles" end:"1499105357" entry:"1498504259" modified:"1499105357" status:"completed" uuid:"7319f818-32cc-47e2-96fc-87a737aeadb6"]
+---
+time 1499105357
+old [description:"BUDGET" entry:"1498504470" modified:"1498504470" status:"pending" uuid:"6d582c2a-26da-4943-bff4-93f981dec60f"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"BUDGET" end:"1499105357" entry:"1498504470" modified:"1499105357" status:"completed" uuid:"6d582c2a-26da-4943-bff4-93f981dec60f"]
+---
+time 1499105357
+old [description:"FITNESS" entry:"1498504474" modified:"1498504474" status:"pending" uuid:"dcba6462-ebf7-4ead-bb68-c2ac3e730a74"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"FITNESS" end:"1499105357" entry:"1498504474" modified:"1499105357" status:"completed" uuid:"dcba6462-ebf7-4ead-bb68-c2ac3e730a74"]
+---
+time 1499105357
+old [description:"Pay bills!" due:"1498449600" entry:"1498506185" modified:"1498506199" status:"pending" uuid:"4930e67e-11c1-4ef4-a0b6-c2802a1bb2b8"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Pay bills!" due:"1498449600" end:"1499105357" entry:"1498506185" modified:"1499105357" status:"completed" uuid:"4930e67e-11c1-4ef4-a0b6-c2802a1bb2b8"]
+---
+time 1499105357
+old [description:"Plan out ECEC355 Group HW" entry:"1498678432" modified:"1498678432" status:"pending" uuid:"182be2c9-bec3-4837-aa85-1a265fcd0eee"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Plan out ECEC355 Group HW" end:"1499105357" entry:"1498678432" modified:"1499105357" status:"completed" uuid:"182be2c9-bec3-4837-aa85-1a265fcd0eee"]
+---
+time 1499105357
+old [description:"Plan out ECEC355 Group Assignment 1" entry:"1498678436" modified:"1498678436" status:"pending" uuid:"b6898755-a832-4ba6-98a7-10e533723e78"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"Plan out ECEC355 Group Assignment 1" end:"1499105357" entry:"1498678436" modified:"1499105357" status:"completed" uuid:"b6898755-a832-4ba6-98a7-10e533723e78"]
+---
+time 1499105357
+old [description:"CS260 Start project 1" entry:"1498678447" modified:"1498678447" status:"pending" uuid:"5bfa2f06-f498-47d7-a670-938d7cc834a9"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"CS260 Start project 1" end:"1499105357" entry:"1498678447" modified:"1499105357" status:"completed" uuid:"5bfa2f06-f498-47d7-a670-938d7cc834a9"]
+---
+time 1499105357
+old [description:"ECES301 take textbook notes" entry:"1498678467" modified:"1498678467" status:"pending" uuid:"2dd72767-cec9-4165-8148-59f7c84934de"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"ECES301 take textbook notes" end:"1499105357" entry:"1498678467" modified:"1499105357" status:"completed" uuid:"2dd72767-cec9-4165-8148-59f7c84934de"]
+---
+time 1499105357
+old [description:"CS260 take textbook notes" entry:"1498678473" modified:"1498678473" status:"pending" uuid:"29a73e17-e1ea-4424-b31a-ae31fcdceaf1"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"CS260 take textbook notes" end:"1499105357" entry:"1498678473" modified:"1499105357" status:"completed" uuid:"29a73e17-e1ea-4424-b31a-ae31fcdceaf1"]
+---
+time 1499105357
+old [description:"EGMT404 Discussion Week 1" entry:"1499090390" modified:"1499090390" status:"pending" uuid:"02de6c04-1858-4cd5-9dea-bb52acffe00c"]
+new [annotation_1499105357:"Desktop Documents Downloads Mail Music Pictures Public Scripts Templates Videos" description:"EGMT404 Discussion Week 1" end:"1499105357" entry:"1499090390" modified:"1499105357" status:"completed" uuid:"02de6c04-1858-4cd5-9dea-bb52acffe00c"]
+---
+time 1499105658
+new [description:"Credit HW 1.1" due:"1499400000" entry:"1499105658" modified:"1499105658" project:"School.ECEC355" status:"pending" uuid:"64717aee-2734-49bd-a05a-a51f52ea6910"]
+---
+time 1499105670
+new [description:"Credit HW 1.2" due:"1499400000" entry:"1499105670" modified:"1499105670" project:"School.ECEC355" status:"pending" uuid:"2edc944d-1be7-4308-9c33-13c2287a1902"]
+---
+time 1499105674
+new [description:"Credit HW 1.3" due:"1499400000" entry:"1499105674" modified:"1499105674" project:"School.ECEC355" status:"pending" uuid:"ddb0969d-1a4d-4881-9705-63f5858a76d5"]
+---
+time 1499105677
+new [description:"Credit HW 1.4" due:"1499400000" entry:"1499105677" modified:"1499105677" project:"School.ECEC355" status:"pending" uuid:"25e263de-66a3-49aa-9a66-908758e59e29"]
+---
+time 1499105683
+new [description:"Credit HW 1 Submission" due:"1499400000" entry:"1499105683" modified:"1499105683" project:"School.ECEC355" status:"pending" uuid:"1752971b-04b6-4b54-9e61-cca17c617326"]
+---
+time 1499105738
+new [description:"AND2+NOR32" due:"1499227200" entry:"1499105738" modified:"1499105738" project:"School.ECEC355" status:"pending" uuid:"04e9083f-7c0e-46ef-be72-03e56dcabdd5"]
+---
+time 1499105744
+new [description:"MUX5" due:"1499227200" entry:"1499105744" modified:"1499105744" project:"School.ECEC355" status:"pending" uuid:"3bf1fb38-c111-472e-8070-7042724b99c6"]
+---
+time 1499105746
+new [description:"MUX32" due:"1499227200" entry:"1499105746" modified:"1499105746" project:"School.ECEC355" status:"pending" uuid:"c53c419d-a48c-4966-82b5-9395ebbd63e9"]
+---
+time 1499105755
+new [description:"SignExtend" due:"1499227200" entry:"1499105755" modified:"1499105755" project:"School.ECEC355" status:"pending" uuid:"ba0ca67f-cd6a-405d-95d0-ee12fecddc5f"]
+---
+time 1499105764
+new [description:"ShiftLeft2" due:"1499227200" entry:"1499105764" modified:"1499105764" project:"School.ECEC355" status:"pending" uuid:"f582cb5f-8921-4ebd-87e6-f2f5c5ab90ac"]
+---
+time 1499105769
+new [description:"ShiftLeft2Jump" due:"1499227200" entry:"1499105769" modified:"1499105769" project:"School.ECEC355" status:"pending" uuid:"e5e55a07-d9ca-4cb0-af29-0836f9ce4a73"]
+---
+time 1499105777
+new [description:"PC" due:"1499227200" entry:"1499105777" modified:"1499105777" project:"School.ECEC355" status:"pending" uuid:"010265d3-a4c9-4264-9806-483e56dccdc6"]
+---
+time 1499105790
+new [description:"Term Part 1 Test Bench" due:"1499227200" entry:"1499105790" modified:"1499105790" project:"School.ECEC355" status:"pending" uuid:"929a006a-d751-45ab-9cb2-4c9a4fc76f3b"]
+---
+time 1499105796
+new [description:"Term Part 1 Submission" due:"1499227200" entry:"1499105796" modified:"1499105796" project:"School.ECEC355" status:"pending" uuid:"288fd001-e397-4cfb-bbe2-4c59edea77f7"]
+---
+time 1499105812
+new [description:"Quiz 1" due:"1499832000" entry:"1499105812" modified:"1499105812" project:"School.ECEC355" status:"pending" uuid:"8d4dc72a-9f82-4767-a0c2-08ee36f71319"]
+---
+time 1499105821
+new [description:"ALU 1 Bit" due:"1500436800" entry:"1499105821" modified:"1499105821" project:"School.ECEC355" status:"pending" uuid:"2b79e397-a23d-4877-a095-ca8452f86652"]
+---
+time 1499105825
+new [description:"ALU 32 Bit" due:"1500436800" entry:"1499105825" modified:"1499105825" project:"School.ECEC355" status:"pending" uuid:"aa2f5aa7-99ea-4e0f-a9d6-bcebe1ed994c"]
+---
+time 1499105834
+new [description:"Term Part 2 Test Bench" due:"1500436800" entry:"1499105834" modified:"1499105834" project:"School.ECEC355" status:"pending" uuid:"52019f4b-bb70-4de1-9920-caa786f6b048"]
+---
+time 1499105840
+new [description:"Term Part 2 Submission" due:"1500436800" entry:"1499105840" modified:"1499105840" project:"School.ECEC355" status:"pending" uuid:"b3c0d71e-a7dc-46a0-870f-3fecd29470ad"]
+---
+time 1499105861
+new [description:"Credit HW 2.1" due:"1500609600" entry:"1499105861" modified:"1499105861" project:"School.ECEC355" status:"pending" uuid:"de6e9620-3e70-47ef-bfc6-3e286426207c"]
+---
+time 1499105864
+new [description:"Credit HW 2.2" due:"1500609600" entry:"1499105864" modified:"1499105864" project:"School.ECEC355" status:"pending" uuid:"d3284e31-ab95-4a35-ba43-2a1fea0d6799"]
+---
+time 1499105866
+new [description:"Credit HW 2.3" due:"1500609600" entry:"1499105866" modified:"1499105866" project:"School.ECEC355" status:"pending" uuid:"b074d2af-2c44-4e6a-b00f-1e4ee5297b19"]
+---
+time 1499105869
+new [description:"Credit HW 2.4" due:"1500609600" entry:"1499105869" modified:"1499105869" project:"School.ECEC355" status:"pending" uuid:"c7064bc5-ada3-42b6-988b-01eb2204031c"]
+---
+time 1499105882
+new [description:"Credit HW 2 Submission" due:"1500609600" entry:"1499105882" modified:"1499105882" project:"School.ECEC355" status:"pending" uuid:"075c88c1-fba3-4e01-94d6-dc766a863d3f"]
+---
+time 1499105897
+new [description:"Midterm 1" due:"1500868800" entry:"1499105897" modified:"1499105897" project:"School.ECEC355" status:"pending" uuid:"c92aae15-55db-4e59-933c-009eafcdd1c2"]
+---
+time 1499105910
+new [description:"Registers" due:"1501646400" entry:"1499105910" modified:"1499105910" project:"School.ECEC355" status:"pending" uuid:"fe87ed77-36c0-4a31-81b5-8ef53271714c"]
+---
+time 1499105921
+new [description:"Instruction Memory" due:"1501646400" entry:"1499105921" modified:"1499105921" project:"School.ECEC355" status:"pending" uuid:"7f35cca6-a812-46a9-9c6c-12c0aab43b8a"]
+---
+time 1499105932
+new [description:"Data Memory" due:"1501646400" entry:"1499105932" modified:"1499105932" project:"School.ECEC355" status:"pending" uuid:"88cc7585-3280-47f6-a43c-a53fe349b5ce"]
+---
+time 1499105947
+new [description:"Term Part 3 Test Bench" due:"1501646400" entry:"1499105947" modified:"1499105947" project:"School.ECEC355" status:"pending" uuid:"9d3e00d3-3fed-4572-ab6e-a332b0585b38"]
+---
+time 1499105953
+new [description:"Term Part 3 Submission" due:"1501646400" entry:"1499105953" modified:"1499105953" project:"School.ECEC355" status:"pending" uuid:"45538ba7-37c2-41d1-afed-5c1a1a668163"]
+---
+time 1499105970
+new [description:"Credit HW 3.1" due:"1501819200" entry:"1499105970" modified:"1499105970" project:"School.ECEC355" status:"pending" uuid:"17d577a0-bd1b-4c59-82ee-7585f7317960"]
+---
+time 1499105975
+new [description:"Credit HW 3.2" due:"1501819200" entry:"1499105975" modified:"1499105975" project:"School.ECEC355" status:"pending" uuid:"02bdf709-76de-483d-9931-ce229ca993ff"]
+---
+time 1499105978
+new [description:"Credit HW 3.3" due:"1501819200" entry:"1499105978" modified:"1499105978" project:"School.ECEC355" status:"pending" uuid:"3e004df6-5e5e-41a5-96cc-24d00ad5510c"]
+---
+time 1499105980
+new [description:"Credit HW 3.4" due:"1501819200" entry:"1499105980" modified:"1499105980" project:"School.ECEC355" status:"pending" uuid:"164f218e-f8c0-48f0-a8ef-ce194778cd37"]
+---
+time 1499105986
+new [description:"Credit HW 3 Submission" due:"1501819200" entry:"1499105986" modified:"1499105986" project:"School.ECEC355" status:"pending" uuid:"83bbd821-0947-4782-82d9-f20f5ec82db5"]
+---
+time 1499106009
+new [description:"ALU Control" due:"1502856000" entry:"1499106009" modified:"1499106009" project:"School.ECEC355" status:"pending" uuid:"4e5de774-1bcf-42a1-982e-a0dab4fb2dd5"]
+---
+time 1499106013
+new [description:"Main Control" due:"1502856000" entry:"1499106013" modified:"1499106013" project:"School.ECEC355" status:"pending" uuid:"8f82f5d5-800e-4a19-b050-119160c658a0"]
+---
+time 1499106038
+new [description:"Term Part 4 Test Bench" due:"1502856000" entry:"1499106038" modified:"1499106038" project:"School.ECEC355" status:"pending" uuid:"26e24ebc-b8a4-4555-9611-d3ad56f15e9c"]
+---
+time 1499106047
+new [description:"Term Part 4 Submission" due:"1502856000" entry:"1499106047" modified:"1499106047" project:"School.ECEC355" status:"pending" uuid:"4a85d3e0-0dc6-4817-bfc1-09cf6dfe156a"]
+---
+time 1499106059
+new [description:"Credit HW 4.1" due:"1503028800" entry:"1499106059" modified:"1499106059" project:"School.ECEC355" status:"pending" uuid:"f5d18dfa-4ffe-4611-9d2a-9f353e1cfb9d"]
+---
+time 1499106061
+new [description:"Credit HW 4.2" due:"1503028800" entry:"1499106061" modified:"1499106061" project:"School.ECEC355" status:"pending" uuid:"e6914f7f-05ed-4dd9-bf85-96bec1525bfc"]
+---
+time 1499106064
+new [description:"Credit HW 4.3" due:"1503028800" entry:"1499106064" modified:"1499106064" project:"School.ECEC355" status:"pending" uuid:"258189fe-cf40-426f-b03b-a915267990c5"]
+---
+time 1499106067
+new [description:"Credit HW 4.4" due:"1503028800" entry:"1499106067" modified:"1499106067" project:"School.ECEC355" status:"pending" uuid:"e86c4c36-4e0b-478b-b246-8fcfa4b03790"]
+---
+time 1499106074
+new [description:"Credit HW Submission" due:"1503028800" entry:"1499106074" modified:"1499106074" project:"School.ECEC355" status:"pending" uuid:"59330b3a-6cd6-4ccf-b135-c8a0d2b2ab25"]
+---
+time 1499106083
+new [description:"Midterm 2" due:"1503288000" entry:"1499106083" modified:"1499106083" project:"School.ECEC355" status:"pending" uuid:"7b1112c0-fcf1-4359-9e7b-f5e24ceb488a"]
+---
+time 1499106096
+new [description:"Quiz 2" due:"1504065600" entry:"1499106096" modified:"1499106096" project:"School.ECEC355" status:"pending" uuid:"1c703fcb-d018-4054-b594-15a9ec7c18db"]
+---
+time 1499106113
+new [description:"Entire CPU" due:"1504065600" entry:"1499106113" modified:"1499106113" project:"School.ECEC355" status:"pending" uuid:"458468f5-9969-46ea-8265-2affe30fad31"]
+---
+time 1499106122
+new [description:"Term Part 5 Test Bench" due:"1504065600" entry:"1499106122" modified:"1499106122" project:"School.ECEC355" status:"pending" uuid:"6b6043c1-288f-4289-bbb6-3c1760939726"]
+---
+time 1499106130
+new [description:"Term Part 5 Submission" due:"1504065600" entry:"1499106130" modified:"1499106130" project:"School.ECEC355" status:"pending" uuid:"46ab9413-b1d3-4aa1-98e6-e00fbfae32d5"]
+---
+time 1499106243
+new [description:"Quiz 2" due:"1499659200" entry:"1499106243" modified:"1499106243" project:"School.CS260" status:"pending" uuid:"d3ec2017-5357-4b67-8ad1-219398ac5e47"]
+---
+time 1499106250
+new [description:"Quiz 3" due:"1500264000" entry:"1499106250" modified:"1499106250" project:"School.CS260" status:"pending" uuid:"b0c45eaa-2866-4d6a-bcea-b6c7ea7af3e0"]
+---
+time 1499106260
+new [description:"Test 1" due:"1500868800" entry:"1499106260" modified:"1499106260" project:"School.CS260" status:"pending" uuid:"cd94855a-1ec4-4f23-9209-af01f663251e"]
+---
+time 1499106284
+new [description:"Assignment 1" due:"1501819200" entry:"1499106284" modified:"1499106284" project:"School.CS260" status:"pending" uuid:"01c6bfed-d5e7-425f-a75c-757e510f4982"]
+---
+time 1499106289
+new [description:"Assignment 2" due:"1503028800" entry:"1499106289" modified:"1499106289" project:"School.CS260" status:"pending" uuid:"607886ab-d6c8-4e76-8bb6-e4f569b4ce25"]
+---
+time 1499106296
+new [description:"Assignment 3" due:"1504238400" entry:"1499106296" modified:"1499106296" project:"School.CS260" status:"pending" uuid:"2c139536-6388-48ea-b7c7-40f32fe54b2d"]
+---
+time 1499106348
+new [description:"Quiz 4" due:"1500868800" entry:"1499106348" modified:"1499106348" project:"School.CS260" status:"pending" uuid:"5015cfe5-df7a-49ca-987e-1919066bd9a0"]
+---
+time 1499106459
+old [description:"Quiz 4" due:"1500868800" entry:"1499106348" modified:"1499106348" project:"School.CS260" status:"pending" uuid:"5015cfe5-df7a-49ca-987e-1919066bd9a0"]
+new [description:"Quiz 4" due:"1501473600" entry:"1499106348" modified:"1499106459" project:"School.CS260" status:"pending" uuid:"5015cfe5-df7a-49ca-987e-1919066bd9a0"]
+---
+time 1499106482
+new [description:"Quiz 5" due:"1502078400" entry:"1499106482" modified:"1499106482" project:"School.CS260" status:"pending" uuid:"11ea9107-8394-4664-85ef-2ec91b54ed41"]
+---
+time 1499106486
+new [description:"Quiz 6" due:"1502683200" entry:"1499106486" modified:"1499106486" project:"School.CS260" status:"pending" uuid:"b6b04676-8055-4b0f-a508-8ebe27fc1531"]
+---
+time 1499106494
+new [description:"Test 2" due:"1503288000" entry:"1499106494" modified:"1499106494" project:"School.CS260" status:"pending" uuid:"6a0cf4bb-bf95-4634-bbeb-205a7130ad42"]
+---
+time 1499106512
+new [description:"Quiz 7" due:"1503892800" entry:"1499106512" modified:"1499106512" project:"School.CS260" status:"pending" uuid:"c903603c-89a2-4bbe-8747-944d40164667"]
+---
+time 1499106529
+new [description:"Test 3" due:"1504238400" entry:"1499106529" modified:"1499106529" project:"School.CS260" status:"pending" uuid:"d091c228-ce5d-4505-a4a0-c08302be09ee"]
+---
+time 1499106593
+new [description:"Week 1 Reading" due:"1498449600" entry:"1499106593" modified:"1499106593" project:"School.CS260" status:"pending" uuid:"3aa5cb90-6003-4588-84cd-5dde7c40006d"]
+---
+time 1499106601
+new [description:"Week 2 Reading" due:"1499054400" entry:"1499106601" modified:"1499106601" project:"School.CS260" status:"pending" uuid:"69de6f9c-67b3-48c4-ba0e-70f109c6ced7"]
+---
+time 1499106606
+new [description:"Week 3 Reading" due:"1499659200" entry:"1499106606" modified:"1499106606" project:"School.CS260" status:"pending" uuid:"4f1494f2-36f9-4d72-bad6-86b1ef1b3bf9"]
+---
+time 1499106613
+new [description:"Week 4 Reading" due:"1500264000" entry:"1499106613" modified:"1499106613" project:"School.CS260" status:"pending" uuid:"ce94832a-c595-478d-a0c1-ba09c18a665a"]
+---
+time 1499106623
+new [description:"Week 5 Reading" due:"1500868800" entry:"1499106623" modified:"1499106623" project:"School.CS260" status:"pending" uuid:"7b12dd4c-4ff0-41d7-9009-958c850e3744"]
+---
+time 1499106628
+new [description:"Week 6 Reading" due:"1501473600" entry:"1499106628" modified:"1499106628" project:"School.CS260" status:"pending" uuid:"64773fe7-8940-451b-bf43-ed20253165bc"]
+---
+time 1499106639
+new [description:"Week 7 Reading" due:"1502078400" entry:"1499106639" modified:"1499106639" project:"School.CS260" status:"pending" uuid:"eb4ca2ea-c783-4855-8d67-10115e17e559"]
+---
+time 1499106645
+new [description:"Week 8 Reading" due:"1502683200" entry:"1499106645" modified:"1499106645" project:"School.CS260" status:"pending" uuid:"afa2a90f-8fcf-4850-a776-19cd002931de"]
+---
+time 1499106652
+new [description:"Week 9 Reading" due:"1503288000" entry:"1499106652" modified:"1499106652" project:"School.CS260" status:"pending" uuid:"9acfbbb5-0238-4326-95f5-9cc4dcae6e24"]
+---
+time 1499106659
+new [description:"Week 10 Reading" due:"1503892800" entry:"1499106659" modified:"1499106659" project:"School.CS260" status:"pending" uuid:"a980b217-9d40-4836-9e00-f03184265b77"]
+---
+time 1499106862
+new [description:"Lab 1a" due:"1499400000" entry:"1499106862" modified:"1499106862" project:"School.ECEL302" status:"pending" uuid:"dcf976bd-29c3-43eb-89ea-5e5e138cc2ea"]
+---
+time 1499106868
+new [description:"Lab 1b" due:"1500004800" entry:"1499106868" modified:"1499106868" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+---
+time 1499106875
+new [description:"Lab 2" due:"1500609600" entry:"1499106875" modified:"1499106875" project:"School.ECEL302" status:"pending" uuid:"4248f77d-620e-4a03-a44a-d6c976495a55"]
+---
+time 1499106879
+new [description:"Lab 3" due:"1501214400" entry:"1499106879" modified:"1499106879" project:"School.ECEL302" status:"pending" uuid:"85da4c04-f34d-4b92-a87d-986c1d863d92"]
+---
+time 1499106888
+new [description:"Lab 4" due:"1501819200" entry:"1499106888" modified:"1499106888" project:"School.ECEL302" status:"pending" uuid:"8182e3ec-6b4b-46db-a8b8-9c057e2e3f26"]
+---
+time 1499106901
+new [description:"Lab 5" due:"1502424000" entry:"1499106901" modified:"1499106901" project:"School.ECEL302" status:"pending" uuid:"8f828441-3c77-4c55-aa3f-f93360e07192"]
+---
+time 1499106905
+new [description:"Lab 6" due:"1503028800" entry:"1499106905" modified:"1499106905" project:"School.ECEL302" status:"pending" uuid:"a337cd79-b178-47ab-9b7e-db09c51650d1"]
+---
+time 1499106911
+new [description:"Lab 7" due:"1503633600" entry:"1499106911" modified:"1499106911" project:"School.ECEL302" status:"pending" uuid:"29cb756b-e2d3-4c7a-8ec5-40522ed972de"]
+---
+time 1499106919
+new [description:"Lab 8" due:"1504238400" entry:"1499106919" modified:"1499106919" project:"School.ECEL302" status:"pending" uuid:"98cd2ac0-dc8b-4a71-afd6-de203ddc7eb4"]
+---
+time 1499107033
+new [description:"HW 1" due:"1499227200" entry:"1499107033" modified:"1499107033" project:"School.ECES301" status:"pending" uuid:"6521d6bb-3177-4607-a8f7-4d78c21d09e7"]
+---
+time 1499107036
+new [description:"Project 1" due:"1499227200" entry:"1499107036" modified:"1499107036" project:"School.ECES301" status:"pending" uuid:"98d20ef5-d902-4e54-9450-1e0661e614f5"]
+---
+time 1499107047
+new [description:"HW 2" due:"1499832000" entry:"1499107047" modified:"1499107047" project:"School.ECES301" status:"pending" uuid:"c58133ac-6bff-44d6-928c-bf265621bd8a"]
+---
+time 1499107052
+new [description:"HW 3" due:"1500436800" entry:"1499107052" modified:"1499107052" project:"School.ECES301" status:"pending" uuid:"8b18ceb8-6bb4-440d-8ba6-230ee5e15686"]
+---
+time 1499107056
+new [description:"Project 2" due:"1500436800" entry:"1499107056" modified:"1499107056" project:"School.ECES301" status:"pending" uuid:"b81dba04-0abc-4662-814f-015a298e35fa"]
+---
+time 1499107064
+new [description:"HW 4" due:"1501041600" entry:"1499107064" modified:"1499107064" project:"School.ECES301" status:"pending" uuid:"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"]
+---
+time 1499107089
+new [description:"HW 5" due:"1501646400" entry:"1499107089" modified:"1499107089" project:"School.ECES301" status:"pending" uuid:"568e6daf-6b35-4233-bf78-6f23b13bedaa"]
+---
+time 1499107095
+new [description:"Project 3" due:"1501646400" entry:"1499107095" modified:"1499107095" project:"School.ECES301" status:"pending" uuid:"a5009748-acd7-4fd4-8ff0-0b18b1459c7c"]
+---
+time 1499107101
+new [description:"Project 4" due:"1502251200" entry:"1499107101" modified:"1499107101" project:"School.ECES301" status:"pending" uuid:"5bfcb754-0fa8-4816-b708-ea180686ed6c"]
+---
+time 1499107105
+new [description:"HW 6" due:"1502251200" entry:"1499107105" modified:"1499107105" project:"School.ECES301" status:"pending" uuid:"ea369001-09ba-4ede-9d7c-b2fbc3659058"]
+---
+time 1499107112
+new [description:"HW 7" due:"1502856000" entry:"1499107112" modified:"1499107112" project:"School.ECES301" status:"pending" uuid:"f696b14b-6191-4845-9831-031a5209a444"]
+---
+time 1499107116
+new [description:"Project 5" due:"1502856000" entry:"1499107116" modified:"1499107116" project:"School.ECES301" status:"pending" uuid:"c2f201d5-2ac3-484b-af58-8ffff9f22e2f"]
+---
+time 1499107122
+new [description:"Project 6" due:"1503460800" entry:"1499107122" modified:"1499107122" project:"School.ECES301" status:"pending" uuid:"d124237b-d0f0-44f9-972b-f337afb19416"]
+---
+time 1499107131
+new [description:"HW 8" due:"1503460800" entry:"1499107131" modified:"1499107131" project:"School.ECES301" status:"pending" uuid:"6cb62569-0c94-4892-86fc-104b498e0e4c"]
+---
+time 1499107139
+new [description:"HW 9" due:"1504065600" entry:"1499107139" modified:"1499107139" project:"School.ECES301" status:"pending" uuid:"fcd7a753-b315-41f0-9e3c-d39de5b30ebf"]
+---
+time 1499107186
+new [description:"Midterm 1" due:"1500436800" entry:"1499107186" modified:"1499107186" project:"School.ECES301" status:"pending" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
+---
+time 1499107197
+new [description:"Midterm 2" due:"1502856000" entry:"1499107197" modified:"1499107197" project:"School.ECES301" status:"pending" uuid:"06763ffe-bf93-4c87-8382-3512a74be78f"]
+---
+time 1499107382
+new [description:"Week 1 Reading" due:"1498449600" entry:"1499107382" modified:"1499107382" project:"School.ECES301" status:"pending" uuid:"3bd6dc48-d355-4529-9d4c-5e29c7e3836d"]
+---
+time 1499107390
+new [description:"Week 2 Reading" due:"1499054400" entry:"1499107390" modified:"1499107390" project:"School.ECES301" status:"pending" uuid:"f1d4ff36-05b1-47b7-9db7-abb3f426ef07"]
+---
+time 1499107396
+new [description:"Week 3 Reading" due:"1499659200" entry:"1499107396" modified:"1499107396" project:"School.ECES301" status:"pending" uuid:"3f1c4592-2269-4fe6-b3c7-2e15503365ae"]
+---
+time 1499107400
+new [description:"Week 4 Reading" due:"1500264000" entry:"1499107400" modified:"1499107400" project:"School.ECES301" status:"pending" uuid:"9f28aa4b-c9d8-41c0-88e1-f5f45f7e304c"]
+---
+time 1499107406
+new [description:"Week 5 Reading" due:"1500868800" entry:"1499107406" modified:"1499107406" project:"School.ECES301" status:"pending" uuid:"d7fa0612-c567-4c27-b971-163a248e09d8"]
+---
+time 1499107412
+new [description:"Week 6 Reading" due:"1501473600" entry:"1499107412" modified:"1499107412" project:"School.ECES301" status:"pending" uuid:"87869daa-e437-4403-b547-c7ea3d181737"]
+---
+time 1499107422
+new [description:"Week 7 Reading" due:"1502078400" entry:"1499107422" modified:"1499107422" project:"School.ECES301" status:"pending" uuid:"d797fb84-1ad0-40f0-8600-1b1d9cc3fc41"]
+---
+time 1499107428
+new [description:"Week 8 Reading" due:"1502683200" entry:"1499107428" modified:"1499107428" project:"School.ECES301" status:"pending" uuid:"9a47a714-5769-4041-a45d-7265d4239c30"]
+---
+time 1499107435
+new [description:"Week 9 Reading" due:"1503288000" entry:"1499107435" modified:"1499107435" project:"School.ECES301" status:"pending" uuid:"92c0e0b1-50f9-4215-a583-bb16e487fa64"]
+---
+time 1499107440
+new [description:"Week 10 Reading" due:"1503892800" entry:"1499107440" modified:"1499107440" project:"School.ECES301" status:"pending" uuid:"a16e2643-b6d2-463a-8f28-51b753e6b871"]
+---
+time 1499107483
+new [description:"Week 1 Reading" due:"1498449600" entry:"1499107483" modified:"1499107483" project:"School.EGMT404" status:"pending" uuid:"b642ceeb-2ec5-4860-b7ea-63fccd0b6945"]
+---
+time 1499107494
+new [description:"Week 2 Reading" due:"1499054400" entry:"1499107494" modified:"1499107494" project:"School.EGMT404" status:"pending" uuid:"205bf961-22f7-4837-97ee-f4139acacf0c"]
+---
+time 1499107506
+new [description:"Week 3 Reading" due:"1499659200" entry:"1499107506" modified:"1499107506" project:"School.EGMT404" status:"pending" uuid:"7227f0f9-bb4f-4884-adaa-63c81ee4a57a"]
+---
+time 1499107516
+new [description:"Week 4 Reading" due:"1500264000" entry:"1499107516" modified:"1499107516" project:"School.EGMT404" status:"pending" uuid:"2fb0456d-9c3a-49c9-b113-62ab834ea391"]
+---
+time 1499107527
+new [description:"Week 5 Reading" due:"1500868800" entry:"1499107527" modified:"1499107527" project:"School.EGMT404" status:"pending" uuid:"4048a400-9ad2-4729-9937-a81fa5c98089"]
+---
+time 1499107536
+new [description:"Week 6 Reading" due:"1501473600" entry:"1499107536" modified:"1499107536" project:"School.EGMT404" status:"pending" uuid:"b951d234-4ad3-4118-b571-7739c70c1111"]
+---
+time 1499107551
+new [description:"Week 7 Reading" due:"1502078400" entry:"1499107551" modified:"1499107551" project:"School.EGMT404" status:"pending" uuid:"a34cd6b5-799b-4f54-93ab-ed5be238f543"]
+---
+time 1499107577
+new [description:"Week 8 Reading" due:"1502683200" entry:"1499107577" modified:"1499107577" project:"School.EGMT404" status:"pending" uuid:"0902cccf-38cf-43d0-a48b-7f3865cd2217"]
+---
+time 1499107585
+new [description:"Week 9 Reading" due:"1503288000" entry:"1499107585" modified:"1499107585" project:"School.EGMT404" status:"pending" uuid:"5c8736b0-1f5f-4c6a-a3ce-d85a586792c6"]
+---
+time 1499107593
+new [description:"Week 10 Reading" due:"1503892800" entry:"1499107593" modified:"1499107593" project:"School.EGMT404" status:"pending" uuid:"7ecdf47a-962b-4858-a59c-8c78fef12fc4"]
+---
+time 1499107712
+new [description:"Assignment 1.1" due:"1498622400" entry:"1499107712" modified:"1499107712" project:"School.EGMT404" status:"pending" uuid:"c6d82916-afc9-40bf-a4c5-cf7ddb896189"]
+---
+time 1499107715
+new [description:"Assignment 1.2" due:"1498622400" entry:"1499107715" modified:"1499107715" project:"School.EGMT404" status:"pending" uuid:"3e7d2033-bd99-43bd-b3fe-507e597acd9e"]
+---
+time 1499107721
+new [description:"Practice Journal" due:"1498622400" entry:"1499107721" modified:"1499107721" project:"School.EGMT404" status:"pending" uuid:"16ddeb2f-6a56-4c68-afc8-358843c96532"]
+---
+time 1499107732
+new [description:"Introduction Post" due:"1498622400" entry:"1499107732" modified:"1499107732" project:"School.EGMT404" status:"pending" uuid:"137b27d7-8b13-49bb-a2a8-3b6ec442557e"]
+---
+time 1499107753
+new [description:"Week 2 Post" due:"1499227200" entry:"1499107753" modified:"1499107753" project:"School.EGMT404" status:"pending" uuid:"5b407c20-2729-4100-a405-5a76fc15c46e"]
+---
+time 1499107764
+new [description:"Assignment 2.1 - Feasibility Report" due:"1499227200" entry:"1499107764" modified:"1499107764" project:"School.EGMT404" status:"pending" uuid:"4d4252af-aa30-4624-89bf-81f1ef56eee9"]
+---
+time 1499107775
+new [description:"Journal 1" due:"1499832000" entry:"1499107775" modified:"1499107775" project:"School.EGMT404" status:"pending" uuid:"dd89f378-3c0a-45b0-8acb-233e9a813556"]
+---
+time 1499107786
+new [description:"Assignment 3.1 - Annotated Bibliography" due:"1499832000" entry:"1499107786" modified:"1499107786" project:"School.EGMT404" status:"pending" uuid:"51df1e07-e92f-417b-9200-f1a7ff4bc1a9"]
+---
+time 1499107801
+new [description:"Week 3 Post" due:"1500436800" entry:"1499107801" modified:"1499107801" project:"School.EGMT404" status:"pending" uuid:"89894050-689c-4055-ac57-347ef9445f3e"]
+---
+time 1499107859
+old [description:"Week 3 Post" due:"1500436800" entry:"1499107801" modified:"1499107801" project:"School.EGMT404" status:"pending" uuid:"89894050-689c-4055-ac57-347ef9445f3e"]
+new [description:"Week 3 Post" due:"1499832000" entry:"1499107801" modified:"1499107859" project:"School.EGMT404" status:"pending" uuid:"89894050-689c-4055-ac57-347ef9445f3e"]
+---
+time 1499107883
+new [description:"Week 4 Post" due:"1500436800" entry:"1499107883" modified:"1499107883" project:"School.EGMT404" status:"pending" uuid:"97c9325d-9a8d-4061-b75b-876d8e50655a"]
+---
+time 1499107909
+new [description:"Assignment 4.1 - Abstract" due:"1500436800" entry:"1499107909" modified:"1499107909" project:"School.EGMT404" status:"pending" uuid:"82203c55-c895-47f6-81af-add22229bace"]
+---
+time 1499107918
+new [description:"Assignment 4.1 - Abstract and Executive Summary" due:"1500436800" entry:"1499107918" modified:"1499107918" project:"School.EGMT404" status:"pending" uuid:"64bf01a5-1e87-44dc-91a4-d15784da032a"]
+---
+time 1499107959
+new [description:"Week 5 Post" due:"1501041600" entry:"1499107959" modified:"1499107959" project:"School.EGMT404" status:"pending" uuid:"3cb02e20-8c8a-4000-945e-aded5b0db421"]
+---
+time 1499107964
+new [description:"Journal 2" due:"1501041600" entry:"1499107964" modified:"1499107964" project:"School.EGMT404" status:"pending" uuid:"f3a807a2-cf86-462c-87c4-c41e3ff74e5d"]
+---
+time 1499107974
+new [description:"Assignment 5.1 - LinkedIn Messages" due:"1501041600" entry:"1499107974" modified:"1499107974" project:"School.EGMT404" status:"pending" uuid:"a32545f1-c270-4f31-a1ad-5f75b5c4f7c4"]
+---
+time 1499108007
+new [description:"Midterm" due:"1501646400" entry:"1499108007" modified:"1499108007" project:"School.EGMT404" status:"pending" uuid:"1e96734e-a354-44c3-aaaa-475e6eaa8491"]
+---
+time 1499108011
+new [description:"Week 6 Post" due:"1501646400" entry:"1499108011" modified:"1499108011" project:"School.EGMT404" status:"pending" uuid:"67c38301-cd3a-401c-98a9-07fcb4799ba2"]
+---
+time 1499108024
+new [description:"Assignment 6.1 - Project Proposal" due:"1501646400" entry:"1499108024" modified:"1499108024" project:"School.EGMT404" status:"pending" uuid:"5cfb9330-a6f5-46aa-beef-9d7aa7831c41"]
+---
+time 1499108044
+new [description:"Week 7 Post" due:"1502251200" entry:"1499108044" modified:"1499108044" project:"School.EGMT404" status:"pending" uuid:"6a767302-ec83-453e-b1b0-a7afb0a0ecee"]
+---
+time 1499108049
+new [description:"Journal 3" due:"1502251200" entry:"1499108049" modified:"1499108049" project:"School.EGMT404" status:"pending" uuid:"b7e8ff75-eec7-4a8d-a9f1-52b349bef094"]
+---
+time 1499108065
+new [description:"Assignment 7 - Collaborate or YouTube Presentation" due:"1502251200" entry:"1499108065" modified:"1499108065" project:"School.EGMT404" status:"pending" uuid:"ed78eb6e-6134-4941-9a46-35604dd3ef0a"]
+---
+time 1499108078
+new [description:"Week 8 Post" due:"1502856000" entry:"1499108078" modified:"1499108078" project:"School.EGMT404" status:"pending" uuid:"f1cd2f15-77b8-4f54-927f-1f0db7567848"]
+---
+time 1499108142
+old [description:"Assignment 7 - Collaborate or YouTube Presentation" due:"1502251200" entry:"1499108065" modified:"1499108065" project:"School.EGMT404" status:"pending" uuid:"ed78eb6e-6134-4941-9a46-35604dd3ef0a"]
+new [description:"Assignment 7 - Collaborate or YouTube Presentation" due:"1502683200" entry:"1499108065" modified:"1499108142" project:"School.EGMT404" status:"pending" uuid:"ed78eb6e-6134-4941-9a46-35604dd3ef0a"]
+---
+time 1499108164
+old [description:"Assignment 7 - Collaborate or YouTube Presentation" due:"1502683200" entry:"1499108065" modified:"1499108142" project:"School.EGMT404" status:"pending" uuid:"ed78eb6e-6134-4941-9a46-35604dd3ef0a"]
+new [description:"Assignment 7 - Collaborate or YouTube Presentation" due:"1502856000" entry:"1499108065" modified:"1499108164" project:"School.EGMT404" status:"pending" uuid:"ed78eb6e-6134-4941-9a46-35604dd3ef0a"]
+---
+time 1499108190
+new [description:"Assignment 7.1 - Presentation Aids" due:"1502251200" entry:"1499108190" modified:"1499108190" project:"School.EGMT404" status:"pending" uuid:"c7f75d52-6f0a-4c22-8f3b-5b30ba4ff843"]
+---
+time 1499108206
+new [description:"Journal 4" due:"1503460800" entry:"1499108206" modified:"1499108206" project:"School.EGMT404" status:"pending" uuid:"63339d7e-c786-4c8f-bea5-27f4416f847c"]
+---
+time 1499108212
+new [description:"Week 9 Post" due:"1503460800" entry:"1499108212" modified:"1499108212" project:"School.EGMT404" status:"pending" uuid:"de6ce615-5d0a-4465-8059-2c4a602dba71"]
+---
+time 1499108229
+new [description:"Assignment 9.1 - Team Progress Report" due:"1503460800" entry:"1499108229" modified:"1499108229" project:"School.EGMT404" status:"pending" uuid:"5d2e223d-9d04-413c-8dd3-36616b0a05a9"]
+---
+time 1499108240
+new [description:"Final Exam" due:"1504065600" entry:"1499108240" modified:"1499108240" project:"School.EGMT404" status:"pending" uuid:"88c337c8-a835-4d08-8bf5-ddf7df9fc9bc"]
+---
+time 1499108245
+new [description:"Oral Presentation" due:"1504065600" entry:"1499108245" modified:"1499108245" project:"School.EGMT404" status:"pending" uuid:"b2d6f7cb-7de5-48a0-8982-23637a45d893"]
+---
+time 1499108253
+new [description:"Assignment 10.1 - Team Proposal" due:"1504065600" entry:"1499108253" modified:"1499108253" project:"School.EGMT404" status:"pending" uuid:"d2296fb3-3a85-40a8-aa74-b950c1c61636"]
+---
+time 1499108263
+new [description:"Week 10 Post" due:"1504065600" entry:"1499108263" modified:"1499108263" project:"School.EGMT404" status:"pending" uuid:"162dd864-89c0-4b22-926d-e4d8f8aaaa8d"]
+---
+time 1499108458
+new [description:"Live Lecture!" due:"1502078400" entry:"1499108458" modified:"1499108458" project:"School.EGMT404" status:"pending" uuid:"17546b48-237a-47d8-a56a-7f2b2a717d3c"]
+---
+time 1499108480
+new [description:"Live Lecture!" due:"1503892800" entry:"1499108480" modified:"1499108480" project:"School.EGMT404" status:"pending" uuid:"5030bf68-1ad0-4823-a6e2-98ebdc49fb6b"]
+---
+time 1499109019
+new [description:"Week 1 Reading\/Lecture" due:"1498708800" entry:"1499109019" modified:"1499109019" project:"School.ACCT110" status:"pending" uuid:"e12aeb7e-71fb-4dda-88d3-64abdefb68b4"]
+---
+time 1499109030
+new [description:"Week 1 Post" due:"1498708800" entry:"1499109030" modified:"1499109030" project:"School.ACCT110" status:"pending" uuid:"90062baf-4a98-45dd-9e4b-f8b497a77c20"]
+---
+time 1499109043
+new [description:"Week 1 Connect HW" due:"1498708800" entry:"1499109043" modified:"1499109043" project:"School.ACCT110" status:"pending" uuid:"b8a6ddd9-7059-440a-8d23-c7d5afc65b10"]
+---
+time 1499109057
+new [description:"Week 2 Reading\/Lecture" due:"1499313600" entry:"1499109057" modified:"1499109057" project:"School.ACCT110" status:"pending" uuid:"66416da3-28cb-4a7e-ab52-81197cb5ba3f"]
+---
+time 1499109065
+new [description:"Week 2 Post" due:"1499313600" entry:"1499109065" modified:"1499109065" project:"School.ACCT110" status:"pending" uuid:"ff0c5bdb-c168-4597-9173-b444423f0fd7"]
+---
+time 1499109070
+new [description:"Week 2 Connect HW" due:"1499313600" entry:"1499109070" modified:"1499109070" project:"School.ACCT110" status:"pending" uuid:"9c5f4dcf-4ae5-4e74-82df-bfddb8e623b7"]
+---
+time 1499109086
+new [description:"Week 3 Reading\/Lecture" due:"1499918400" entry:"1499109086" modified:"1499109086" project:"School.ACCT110" status:"pending" uuid:"fd11c5a1-94dd-4e4f-8398-82e513b4e2c7"]
+---
+time 1499109093
+new [description:"Week 3 Post" due:"1499918400" entry:"1499109093" modified:"1499109093" project:"School.ACCT110" status:"pending" uuid:"ff587d63-bbdd-4ada-bd56-d6045f2ad518"]
+---
+time 1499109098
+new [description:"Week 3 Connect HW" due:"1499918400" entry:"1499109098" modified:"1499109098" project:"School.ACCT110" status:"pending" uuid:"b86cf28c-625b-43cd-b9c6-82e330cff8bf"]
+---
+time 1499109115
+new [description:"Week 4 Reading\/Lecture" due:"1500523200" entry:"1499109115" modified:"1499109115" project:"School.ACCT110" status:"pending" uuid:"350d1193-af5c-44b5-a13d-305b7b56c308"]
+---
+time 1499109118
+new [description:"Week 4 Post" due:"1500523200" entry:"1499109118" modified:"1499109118" project:"School.ACCT110" status:"pending" uuid:"9728b3a1-e39c-4fe8-951c-79a903740424"]
+---
+time 1499109121
+new [description:"Week 4 Connect HW" due:"1500523200" entry:"1499109121" modified:"1499109121" project:"School.ACCT110" status:"pending" uuid:"58b6fb7f-ac0c-4d46-987a-eaed5bb12c1b"]
+---
+time 1499109138
+new [description:"Inventory Costing Project Start" due:"1500523200" entry:"1499109138" modified:"1499109138" project:"School.ACCT110" status:"pending" uuid:"d25dc760-af80-4874-b0a8-6b28b9676923"]
+---
+time 1499109149
+new [description:"Week 5 Reading\/Lecture" due:"1501128000" entry:"1499109149" modified:"1499109149" project:"School.ACCT110" status:"pending" uuid:"6b78e145-5170-4f14-9ef6-b12c686ed4f6"]
+---
+time 1499109152
+new [description:"Week 5 Post" due:"1501128000" entry:"1499109152" modified:"1499109152" project:"School.ACCT110" status:"pending" uuid:"dff594a9-5d5d-441c-876d-8b93683f751e"]
+---
+time 1499109155
+new [description:"Week 5 Connect HW" due:"1501128000" entry:"1499109155" modified:"1499109155" project:"School.ACCT110" status:"pending" uuid:"6c6b5f34-72c5-4e64-9b97-59fa93e63f01"]
+---
+time 1499109165
+new [description:"Week 5 Inventory Costing Project Due" due:"1501128000" entry:"1499109165" modified:"1499109165" project:"School.ACCT110" status:"pending" uuid:"c165e525-8cce-4ce5-aad4-b282fd692f32"]
+---
+time 1499109300
+new [description:"Exam 1" due:"1501387200" entry:"1499109300" modified:"1499109300" project:"School.ACCT110" status:"pending" uuid:"1e6c6601-826c-48b2-8d3f-0cc2699dea52"]
+---
+time 1499109320
+new [description:"Week 6 Reading\/Lecture" due:"1501732800" entry:"1499109320" modified:"1499109320" project:"School.ACCT110" status:"pending" uuid:"0bf78c88-b79f-4684-8ec5-c32aa53ce4f4"]
+---
+time 1499109322
+new [description:"Week 6 Post" due:"1501732800" entry:"1499109322" modified:"1499109322" project:"School.ACCT110" status:"pending" uuid:"c8815240-42df-46aa-83f8-4f1743aed3dc"]
+---
+time 1499109326
+new [description:"Week 6 Connect HW" due:"1501732800" entry:"1499109326" modified:"1499109326" project:"School.ACCT110" status:"pending" uuid:"c716ee65-1f39-4a7e-a077-0f1d2138d537"]
+---
+time 1499109340
+new [description:"Week 7 Connect HW" due:"1502337600" entry:"1499109340" modified:"1499109340" project:"School.ACCT110" status:"pending" uuid:"0e27555b-32f6-402c-9746-524c0df6bc5f"]
+---
+time 1499109346
+new [description:"Week 7 Reading\/Lecture" due:"1502337600" entry:"1499109346" modified:"1499109346" project:"School.ACCT110" status:"pending" uuid:"be6200e8-4d7b-4360-b870-ed2fb6aef694"]
+---
+time 1499109349
+new [description:"Week 7 Post" due:"1502337600" entry:"1499109349" modified:"1499109349" project:"School.ACCT110" status:"pending" uuid:"a7f55782-9091-45c1-b1c4-a7ee7164c121"]
+---
+time 1499109358
+new [description:"Ethics Project Due" due:"1502337600" entry:"1499109358" modified:"1499109358" project:"School.ACCT110" status:"pending" uuid:"ada2c881-7df6-43d9-a9cd-46aeb70d1363"]
+---
+time 1499109370
+new [description:"Week 8 Reading\/Lecture" due:"1502942400" entry:"1499109370" modified:"1499109370" project:"School.ACCT110" status:"pending" uuid:"b9efed8a-d1ba-47c1-87a6-f45ca1363f14"]
+---
+time 1499109373
+new [description:"Week 8 Post" due:"1502942400" entry:"1499109373" modified:"1499109373" project:"School.ACCT110" status:"pending" uuid:"eae8a8d7-4cf7-47f4-a956-8b074e5e40c3"]
+---
+time 1499109380
+new [description:"Week 8 Connect HW" due:"1502942400" entry:"1499109380" modified:"1499109380" project:"School.ACCT110" status:"pending" uuid:"a2da682c-379f-4096-bd1e-a60bd4111254"]
+---
+time 1499109388
+new [description:"Week 9 Connect HW" due:"1503547200" entry:"1499109388" modified:"1499109388" project:"School.ACCT110" status:"pending" uuid:"cb9f7b0c-11cd-431c-a52a-9e6abb7aff4b"]
+---
+time 1499109393
+new [description:"Week 9 Posts" due:"1503547200" entry:"1499109393" modified:"1499109393" project:"School.ACCT110" status:"pending" uuid:"ff3633a4-b890-475e-b665-6726a11367f3"]
+---
+time 1499109398
+new [description:"Week 9 Reading\/Lecture" due:"1503547200" entry:"1499109398" modified:"1499109398" project:"School.ACCT110" status:"pending" uuid:"dc50a184-79e7-45c2-92ac-e754054a5c08"]
+---
+time 1499109424
+new [description:"Week 10 Final REview Project" due:"1504152000" entry:"1499109424" modified:"1499109424" project:"School.ACCT110" status:"pending" uuid:"ebcde30d-ce81-498f-8746-ef8a3b67097a"]
+---
+time 1499109428
+new [description:"Week 10 Final Review Project" due:"1504152000" entry:"1499109428" modified:"1499109428" project:"School.ACCT110" status:"pending" uuid:"038c4401-566c-4fba-a641-24d60a25a468"]
+---
+time 1499109437
+old [description:"Week 10 Final REview Project" due:"1504152000" entry:"1499109424" modified:"1499109424" project:"School.ACCT110" status:"pending" uuid:"ebcde30d-ce81-498f-8746-ef8a3b67097a"]
+new [description:"Week 10 Final REview Project" due:"1504152000" end:"1499109437" entry:"1499109424" modified:"1499109437" project:"School.ACCT110" status:"completed" uuid:"ebcde30d-ce81-498f-8746-ef8a3b67097a"]
+---
+time 1499109452
+new [description:"Exam 2" due:"1503806400" entry:"1499109452" modified:"1499109452" project:"School.ACCT110" status:"pending" uuid:"383e3e13-ac55-43ba-9bc3-1912324b8109"]
+---
+time 1499109519
+new [description:"Catch up on reading material" due:"1499140800" entry:"1499109519" modified:"1499109519" project:"School.ECEC355" status:"pending" uuid:"d8e6f3f4-6511-464c-9fc3-3c69431e8cc4"]
+---
+time 1499110326
+new [description:"Respond to Haley E-mail" due:"1499140800" entry:"1499110326" modified:"1499110326" project:"School.Other" status:"pending" uuid:"1cd2515c-5ded-4cb0-9585-edd21f913860"]
+---
+time 1499123759
+old [description:"Week 1 Reading" due:"1498449600" entry:"1499106593" modified:"1499106593" project:"School.CS260" status:"pending" uuid:"3aa5cb90-6003-4588-84cd-5dde7c40006d"]
+new [description:"Week 1 Reading" due:"1498449600" entry:"1499106593" modified:"1499123759" project:"School.CS260" start:"1499123759" status:"pending" uuid:"3aa5cb90-6003-4588-84cd-5dde7c40006d"]
+---
+time 1499123771
+old [description:"Week 1 Reading" due:"1498449600" entry:"1499107483" modified:"1499107483" project:"School.EGMT404" status:"pending" uuid:"b642ceeb-2ec5-4860-b7ea-63fccd0b6945"]
+new [description:"Week 1 Reading" due:"1498449600" entry:"1499107483" modified:"1499123771" project:"School.EGMT404" start:"1499123771" status:"pending" uuid:"b642ceeb-2ec5-4860-b7ea-63fccd0b6945"]
+---
+time 1499124543
+old [description:"Week 1 Reading" due:"1498449600" entry:"1499107382" modified:"1499107382" project:"School.ECES301" status:"pending" uuid:"3bd6dc48-d355-4529-9d4c-5e29c7e3836d"]
+new [description:"Week 1 Reading" due:"1498449600" end:"1499124543" entry:"1499107382" modified:"1499124543" project:"School.ECES301" status:"completed" uuid:"3bd6dc48-d355-4529-9d4c-5e29c7e3836d"]
+---
+time 1499124554
+old [description:"Assignment 1.2" due:"1498622400" entry:"1499107715" modified:"1499107715" project:"School.EGMT404" status:"pending" uuid:"3e7d2033-bd99-43bd-b3fe-507e597acd9e"]
+new [description:"Assignment 1.2" due:"1498622400" end:"1499124554" entry:"1499107715" modified:"1499124554" project:"School.EGMT404" status:"completed" uuid:"3e7d2033-bd99-43bd-b3fe-507e597acd9e"]
+---
+time 1499124557
+old [description:"Assignment 1.1" due:"1498622400" entry:"1499107712" modified:"1499107712" project:"School.EGMT404" status:"pending" uuid:"c6d82916-afc9-40bf-a4c5-cf7ddb896189"]
+new [description:"Assignment 1.1" due:"1498622400" entry:"1499107712" modified:"1499124557" project:"School.EGMT404" start:"1499124557" status:"pending" uuid:"c6d82916-afc9-40bf-a4c5-cf7ddb896189"]
+---
+time 1499124569
+old [description:"Introduction Post" due:"1498622400" entry:"1499107732" modified:"1499107732" project:"School.EGMT404" status:"pending" uuid:"137b27d7-8b13-49bb-a2a8-3b6ec442557e"]
+new [description:"Introduction Post" due:"1498622400" end:"1499124569" entry:"1499107732" modified:"1499124569" project:"School.EGMT404" status:"completed" uuid:"137b27d7-8b13-49bb-a2a8-3b6ec442557e"]
+---
+time 1499124915
+new [description:"Brush up on week 1 reading" due:"1499227200" entry:"1499124915" modified:"1499124915" project:"School.ECES301" status:"pending" uuid:"bf602a0b-3692-44b1-af9f-0b62dc0b537b"]
+---
+time 1499142052
+old [description:"Practice Journal" due:"1498622400" entry:"1499107721" modified:"1499107721" project:"School.EGMT404" status:"pending" uuid:"16ddeb2f-6a56-4c68-afc8-358843c96532"]
+new [description:"Practice Journal" due:"1498622400" end:"1499142052" entry:"1499107721" modified:"1499142052" project:"School.EGMT404" status:"completed" uuid:"16ddeb2f-6a56-4c68-afc8-358843c96532"]
+---
+time 1499142060
+old [description:"Assignment 1.1" due:"1498622400" entry:"1499107712" modified:"1499124557" project:"School.EGMT404" start:"1499124557" status:"pending" uuid:"c6d82916-afc9-40bf-a4c5-cf7ddb896189"]
+new [description:"Assignment 1.1" due:"1498622400" end:"1499142060" entry:"1499107712" modified:"1499142060" project:"School.EGMT404" status:"completed" uuid:"c6d82916-afc9-40bf-a4c5-cf7ddb896189"]
+---
+time 1499142066
+old [description:"Week 1 Reading" due:"1498449600" entry:"1499107483" modified:"1499123771" project:"School.EGMT404" start:"1499123771" status:"pending" uuid:"b642ceeb-2ec5-4860-b7ea-63fccd0b6945"]
+new [description:"Week 1 Reading" due:"1498449600" end:"1499142066" entry:"1499107483" modified:"1499142066" project:"School.EGMT404" status:"completed" uuid:"b642ceeb-2ec5-4860-b7ea-63fccd0b6945"]
+---
+time 1499267124
+old [description:"AND2+NOR32" due:"1499227200" entry:"1499105738" modified:"1499105738" project:"School.ECEC355" status:"pending" uuid:"04e9083f-7c0e-46ef-be72-03e56dcabdd5"]
+new [description:"AND2+NOR32" due:"1499227200" end:"1499267124" entry:"1499105738" modified:"1499267124" project:"School.ECEC355" status:"completed" uuid:"04e9083f-7c0e-46ef-be72-03e56dcabdd5"]
+---
+time 1499267151
+old [description:"MUX5" due:"1499227200" entry:"1499105744" modified:"1499105744" project:"School.ECEC355" status:"pending" uuid:"3bf1fb38-c111-472e-8070-7042724b99c6"]
+new [description:"MUX5" due:"1499227200" end:"1499267147" entry:"1499105744" modified:"1499267151" project:"School.ECEC355" status:"completed" uuid:"3bf1fb38-c111-472e-8070-7042724b99c6"]
+---
+time 1499267152
+old [description:"MUX32" due:"1499227200" entry:"1499105746" modified:"1499105746" project:"School.ECEC355" status:"pending" uuid:"c53c419d-a48c-4966-82b5-9395ebbd63e9"]
+new [description:"MUX32" due:"1499227200" end:"1499267151" entry:"1499105746" modified:"1499267152" project:"School.ECEC355" status:"completed" uuid:"c53c419d-a48c-4966-82b5-9395ebbd63e9"]
+---
+time 1499267152
+old [description:"SignExtend" due:"1499227200" entry:"1499105755" modified:"1499105755" project:"School.ECEC355" status:"pending" uuid:"ba0ca67f-cd6a-405d-95d0-ee12fecddc5f"]
+new [description:"SignExtend" due:"1499227200" end:"1499267152" entry:"1499105755" modified:"1499267152" project:"School.ECEC355" status:"completed" uuid:"ba0ca67f-cd6a-405d-95d0-ee12fecddc5f"]
+---
+time 1499267153
+old [description:"ShiftLeft2" due:"1499227200" entry:"1499105764" modified:"1499105764" project:"School.ECEC355" status:"pending" uuid:"f582cb5f-8921-4ebd-87e6-f2f5c5ab90ac"]
+new [description:"ShiftLeft2" due:"1499227200" end:"1499267152" entry:"1499105764" modified:"1499267153" project:"School.ECEC355" status:"completed" uuid:"f582cb5f-8921-4ebd-87e6-f2f5c5ab90ac"]
+---
+time 1499267153
+old [description:"ShiftLeft2Jump" due:"1499227200" entry:"1499105769" modified:"1499105769" project:"School.ECEC355" status:"pending" uuid:"e5e55a07-d9ca-4cb0-af29-0836f9ce4a73"]
+new [description:"ShiftLeft2Jump" due:"1499227200" end:"1499267153" entry:"1499105769" modified:"1499267153" project:"School.ECEC355" status:"completed" uuid:"e5e55a07-d9ca-4cb0-af29-0836f9ce4a73"]
+---
+time 1499267154
+old [description:"PC" due:"1499227200" entry:"1499105777" modified:"1499105777" project:"School.ECEC355" status:"pending" uuid:"010265d3-a4c9-4264-9806-483e56dccdc6"]
+new [description:"PC" due:"1499227200" end:"1499267153" entry:"1499105777" modified:"1499267154" project:"School.ECEC355" status:"completed" uuid:"010265d3-a4c9-4264-9806-483e56dccdc6"]
+---
+time 1499267155
+old [description:"Term Part 1 Test Bench" due:"1499227200" entry:"1499105790" modified:"1499105790" project:"School.ECEC355" status:"pending" uuid:"929a006a-d751-45ab-9cb2-4c9a4fc76f3b"]
+new [description:"Term Part 1 Test Bench" due:"1499227200" end:"1499267154" entry:"1499105790" modified:"1499267155" project:"School.ECEC355" status:"completed" uuid:"929a006a-d751-45ab-9cb2-4c9a4fc76f3b"]
+---
+time 1499267170
+old [description:"Catch up on reading material" due:"1499140800" entry:"1499109519" modified:"1499109519" project:"School.ECEC355" status:"pending" uuid:"d8e6f3f4-6511-464c-9fc3-3c69431e8cc4"]
+new [description:"Catch up on reading material" due:"1499140800" end:"1499267170" entry:"1499109519" modified:"1499267170" project:"School.ECEC355" status:"completed" uuid:"d8e6f3f4-6511-464c-9fc3-3c69431e8cc4"]
+---
+time 1499267476
+old [description:"Week 1 Reading" due:"1498449600" entry:"1499106593" modified:"1499123759" project:"School.CS260" start:"1499123759" status:"pending" uuid:"3aa5cb90-6003-4588-84cd-5dde7c40006d"]
+new [description:"Week 1 Reading" due:"1498449600" end:"1499267476" entry:"1499106593" modified:"1499267476" project:"School.CS260" status:"completed" uuid:"3aa5cb90-6003-4588-84cd-5dde7c40006d"]
+---
+time 1499274260
+old [description:"Lab 1b" due:"1500004800" entry:"1499106868" modified:"1499106868" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+new [description:"2017-07-21" entry:"1499106868" modified:"1499274260" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+---
+time 1499274278
+old [description:"2017-07-21" entry:"1499106868" modified:"1499274260" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+new [description:"Lab 1b" due:"1500609600" entry:"1499106868" modified:"1499274278" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+---
+time 1499274294
+old [description:"Lab 2" due:"1500609600" entry:"1499106875" modified:"1499106875" project:"School.ECEL302" status:"pending" uuid:"4248f77d-620e-4a03-a44a-d6c976495a55"]
+new [description:"Lab 2" due:"1501214400" entry:"1499106875" modified:"1499274294" project:"School.ECEL302" status:"pending" uuid:"4248f77d-620e-4a03-a44a-d6c976495a55"]
+---
+time 1499274303
+old [description:"Lab 3" due:"1501214400" entry:"1499106879" modified:"1499106879" project:"School.ECEL302" status:"pending" uuid:"85da4c04-f34d-4b92-a87d-986c1d863d92"]
+new [description:"Lab 3" due:"1501819200" entry:"1499106879" modified:"1499274303" project:"School.ECEL302" status:"pending" uuid:"85da4c04-f34d-4b92-a87d-986c1d863d92"]
+---
+time 1499274311
+old [description:"Lab 4" due:"1501819200" entry:"1499106888" modified:"1499106888" project:"School.ECEL302" status:"pending" uuid:"8182e3ec-6b4b-46db-a8b8-9c057e2e3f26"]
+new [description:"Lab 4" due:"1502424000" entry:"1499106888" modified:"1499274311" project:"School.ECEL302" status:"pending" uuid:"8182e3ec-6b4b-46db-a8b8-9c057e2e3f26"]
+---
+time 1499274338
+old [description:"Lab 5" due:"1502424000" entry:"1499106901" modified:"1499106901" project:"School.ECEL302" status:"pending" uuid:"8f828441-3c77-4c55-aa3f-f93360e07192"]
+new [description:"Lab 5" due:"1503028800" entry:"1499106901" modified:"1499274338" project:"School.ECEL302" status:"pending" uuid:"8f828441-3c77-4c55-aa3f-f93360e07192"]
+---
+time 1499274348
+old [description:"Lab 6" due:"1503028800" entry:"1499106905" modified:"1499106905" project:"School.ECEL302" status:"pending" uuid:"a337cd79-b178-47ab-9b7e-db09c51650d1"]
+new [description:"Lab 6" due:"1503633600" entry:"1499106905" modified:"1499274348" project:"School.ECEL302" status:"pending" uuid:"a337cd79-b178-47ab-9b7e-db09c51650d1"]
+---
+time 1499274356
+old [description:"Lab 7" due:"1503633600" entry:"1499106911" modified:"1499106911" project:"School.ECEL302" status:"pending" uuid:"29cb756b-e2d3-4c7a-8ec5-40522ed972de"]
+new [description:"Lab 7" due:"1504238400" entry:"1499106911" modified:"1499274356" project:"School.ECEL302" status:"pending" uuid:"29cb756b-e2d3-4c7a-8ec5-40522ed972de"]
+---
+time 1499274364
+old [description:"Lab 8" due:"1504238400" entry:"1499106919" modified:"1499106919" project:"School.ECEL302" status:"pending" uuid:"98cd2ac0-dc8b-4a71-afd6-de203ddc7eb4"]
+new [description:"Lab 8" due:"1504843200" entry:"1499106919" modified:"1499274364" project:"School.ECEL302" status:"pending" uuid:"98cd2ac0-dc8b-4a71-afd6-de203ddc7eb4"]
+---
+time 1499293334
+old [description:"Respond to Haley E-mail" due:"1499140800" entry:"1499110326" modified:"1499110326" project:"School.Other" status:"pending" uuid:"1cd2515c-5ded-4cb0-9585-edd21f913860"]
+new [description:"Respond to Haley E-mail" due:"1499140800" end:"1499293334" entry:"1499110326" modified:"1499293334" project:"School.Other" status:"completed" uuid:"1cd2515c-5ded-4cb0-9585-edd21f913860"]
+---
+time 1499293485
+old [description:"Term Part 1 Submission" due:"1499227200" entry:"1499105796" modified:"1499105796" project:"School.ECEC355" status:"pending" uuid:"288fd001-e397-4cfb-bbe2-4c59edea77f7"]
+new [description:"Term Part 1 Submission" due:"1499227200" end:"1499293485" entry:"1499105796" modified:"1499293485" project:"School.ECEC355" status:"completed" uuid:"288fd001-e397-4cfb-bbe2-4c59edea77f7"]
+---
+time 1499394057
+old [description:"Project 1" due:"1499227200" entry:"1499107036" modified:"1499107036" project:"School.ECES301" status:"pending" uuid:"98d20ef5-d902-4e54-9450-1e0661e614f5"]
+new [description:"Project 1" due:"1499227200" entry:"1499107036" modified:"1499394057" project:"School.ECES301" start:"1499394057" status:"pending" uuid:"98d20ef5-d902-4e54-9450-1e0661e614f5"]
+---
+time 1499398277
+old [description:"Week 2 Post" due:"1499227200" entry:"1499107753" modified:"1499107753" project:"School.EGMT404" status:"pending" uuid:"5b407c20-2729-4100-a405-5a76fc15c46e"]
+new [description:"Week 2 Post" due:"1499227200" end:"1499398277" entry:"1499107753" modified:"1499398277" project:"School.EGMT404" status:"completed" uuid:"5b407c20-2729-4100-a405-5a76fc15c46e"]
+---
+time 1499399717
+old [description:"Project 1" due:"1499227200" entry:"1499107036" modified:"1499394057" project:"School.ECES301" start:"1499394057" status:"pending" uuid:"98d20ef5-d902-4e54-9450-1e0661e614f5"]
+new [description:"Project 1" due:"1499227200" end:"1499399717" entry:"1499107036" modified:"1499399717" project:"School.ECES301" status:"completed" uuid:"98d20ef5-d902-4e54-9450-1e0661e614f5"]
+---
+time 1499400641
+old [description:"Brush up on week 1 reading" due:"1499227200" entry:"1499124915" modified:"1499124915" project:"School.ECES301" status:"pending" uuid:"bf602a0b-3692-44b1-af9f-0b62dc0b537b"]
+new [description:"Brush up on week 1 reading" due:"1499227200" end:"1499400641" entry:"1499124915" modified:"1499400641" project:"School.ECES301" status:"completed" uuid:"bf602a0b-3692-44b1-af9f-0b62dc0b537b"]
+---
+time 1499405041
+old [description:"Week 1 Reading\/Lecture" due:"1498708800" entry:"1499109019" modified:"1499109019" project:"School.ACCT110" status:"pending" uuid:"e12aeb7e-71fb-4dda-88d3-64abdefb68b4"]
+new [description:"Week 1 Reading\/Lecture" due:"1499572800" entry:"1499109019" modified:"1499405041" project:"School.ACCT110" status:"pending" uuid:"e12aeb7e-71fb-4dda-88d3-64abdefb68b4"]
+---
+time 1499405044
+old [description:"Week 1 Post" due:"1498708800" entry:"1499109030" modified:"1499109030" project:"School.ACCT110" status:"pending" uuid:"90062baf-4a98-45dd-9e4b-f8b497a77c20"]
+new [description:"Week 1 Post" due:"1499572800" entry:"1499109030" modified:"1499405044" project:"School.ACCT110" status:"pending" uuid:"90062baf-4a98-45dd-9e4b-f8b497a77c20"]
+---
+time 1499405053
+old [description:"Week 1 Connect HW" due:"1498708800" entry:"1499109043" modified:"1499109043" project:"School.ACCT110" status:"pending" uuid:"b8a6ddd9-7059-440a-8d23-c7d5afc65b10"]
+new [description:"Week 1 Connect HW" due:"1499572800" entry:"1499109043" modified:"1499405053" project:"School.ACCT110" status:"pending" uuid:"b8a6ddd9-7059-440a-8d23-c7d5afc65b10"]
+---
+time 1499405063
+old [description:"Week 2 Reading" due:"1499054400" entry:"1499106601" modified:"1499106601" project:"School.CS260" status:"pending" uuid:"69de6f9c-67b3-48c4-ba0e-70f109c6ced7"]
+new [description:"Week 2 Reading" due:"1499572800" entry:"1499106601" modified:"1499405063" project:"School.CS260" status:"pending" uuid:"69de6f9c-67b3-48c4-ba0e-70f109c6ced7"]
+---
+time 1499405071
+old [description:"Week 2 Reading" due:"1499054400" entry:"1499107390" modified:"1499107390" project:"School.ECES301" status:"pending" uuid:"f1d4ff36-05b1-47b7-9db7-abb3f426ef07"]
+new [description:"Week 2 Reading" due:"1499572800" entry:"1499107390" modified:"1499405071" project:"School.ECES301" status:"pending" uuid:"f1d4ff36-05b1-47b7-9db7-abb3f426ef07"]
+---
+time 1499405088
+old [description:"Week 2 Reading" due:"1499054400" entry:"1499107494" modified:"1499107494" project:"School.EGMT404" status:"pending" uuid:"205bf961-22f7-4837-97ee-f4139acacf0c"]
+new [description:"Week 2 Reading" due:"1499572800" entry:"1499107494" modified:"1499405088" project:"School.EGMT404" status:"pending" uuid:"205bf961-22f7-4837-97ee-f4139acacf0c"]
+---
+time 1499405100
+old [description:"Week 2 Reading\/Lecture" due:"1499313600" entry:"1499109057" modified:"1499109057" project:"School.ACCT110" status:"pending" uuid:"66416da3-28cb-4a7e-ab52-81197cb5ba3f"]
+new [description:"Week 2 Reading\/Lecture" due:"1499572800" entry:"1499109057" modified:"1499405100" project:"School.ACCT110" status:"pending" uuid:"66416da3-28cb-4a7e-ab52-81197cb5ba3f"]
+---
+time 1499405104
+old [description:"Week 2 Post" due:"1499313600" entry:"1499109065" modified:"1499109065" project:"School.ACCT110" status:"pending" uuid:"ff0c5bdb-c168-4597-9173-b444423f0fd7"]
+new [description:"Week 2 Post" due:"1499572800" entry:"1499109065" modified:"1499405104" project:"School.ACCT110" status:"pending" uuid:"ff0c5bdb-c168-4597-9173-b444423f0fd7"]
+---
+time 1499405106
+old [description:"Week 2 Connect HW" due:"1499313600" entry:"1499109070" modified:"1499109070" project:"School.ACCT110" status:"pending" uuid:"9c5f4dcf-4ae5-4e74-82df-bfddb8e623b7"]
+new [description:"Week 2 Connect HW" due:"1499572800" entry:"1499109070" modified:"1499405106" project:"School.ACCT110" status:"pending" uuid:"9c5f4dcf-4ae5-4e74-82df-bfddb8e623b7"]
+---
+time 1499405152
+old [description:"Assignment 2.1 - Feasibility Report" due:"1499227200" entry:"1499107764" modified:"1499107764" project:"School.EGMT404" status:"pending" uuid:"4d4252af-aa30-4624-89bf-81f1ef56eee9"]
+new [description:"Assignment 2.1 - Feasibility Report" due:"1499572800" entry:"1499107764" modified:"1499405152" project:"School.EGMT404" status:"pending" uuid:"4d4252af-aa30-4624-89bf-81f1ef56eee9"]
+---
+time 1499432127
+old [description:"HW 1" due:"1499227200" entry:"1499107033" modified:"1499107033" project:"School.ECES301" status:"pending" uuid:"6521d6bb-3177-4607-a8f7-4d78c21d09e7"]
+new [description:"HW 1" due:"1499227200" end:"1499432127" entry:"1499107033" modified:"1499432127" project:"School.ECES301" status:"completed" uuid:"6521d6bb-3177-4607-a8f7-4d78c21d09e7"]
+---
+time 1499448039
+old [description:"Credit HW 1.1" due:"1499400000" entry:"1499105658" modified:"1499105658" project:"School.ECEC355" status:"pending" uuid:"64717aee-2734-49bd-a05a-a51f52ea6910"]
+new [description:"Credit HW 1.1" due:"1499400000" end:"1499448037" entry:"1499105658" modified:"1499448039" project:"School.ECEC355" status:"completed" uuid:"64717aee-2734-49bd-a05a-a51f52ea6910"]
+---
+time 1499448040
+old [description:"Credit HW 1.2" due:"1499400000" entry:"1499105670" modified:"1499105670" project:"School.ECEC355" status:"pending" uuid:"2edc944d-1be7-4308-9c33-13c2287a1902"]
+new [description:"Credit HW 1.2" due:"1499400000" end:"1499448039" entry:"1499105670" modified:"1499448040" project:"School.ECEC355" status:"completed" uuid:"2edc944d-1be7-4308-9c33-13c2287a1902"]
+---
+time 1499448041
+old [description:"Credit HW 1.3" due:"1499400000" entry:"1499105674" modified:"1499105674" project:"School.ECEC355" status:"pending" uuid:"ddb0969d-1a4d-4881-9705-63f5858a76d5"]
+new [description:"Credit HW 1.3" due:"1499400000" end:"1499448040" entry:"1499105674" modified:"1499448041" project:"School.ECEC355" status:"completed" uuid:"ddb0969d-1a4d-4881-9705-63f5858a76d5"]
+---
+time 1499448042
+old [description:"Credit HW 1.4" due:"1499400000" entry:"1499105677" modified:"1499105677" project:"School.ECEC355" status:"pending" uuid:"25e263de-66a3-49aa-9a66-908758e59e29"]
+new [description:"Credit HW 1.4" due:"1499400000" end:"1499448041" entry:"1499105677" modified:"1499448042" project:"School.ECEC355" status:"completed" uuid:"25e263de-66a3-49aa-9a66-908758e59e29"]
+---
+time 1499448043
+old [description:"Credit HW 1 Submission" due:"1499400000" entry:"1499105683" modified:"1499105683" project:"School.ECEC355" status:"pending" uuid:"1752971b-04b6-4b54-9e61-cca17c617326"]
+new [description:"Credit HW 1 Submission" due:"1499400000" end:"1499448042" entry:"1499105683" modified:"1499448043" project:"School.ECEC355" status:"completed" uuid:"1752971b-04b6-4b54-9e61-cca17c617326"]
+---
+time 1499448048
+old [description:"Lab 1a" due:"1499400000" entry:"1499106862" modified:"1499106862" project:"School.ECEL302" status:"pending" uuid:"dcf976bd-29c3-43eb-89ea-5e5e138cc2ea"]
+new [description:"Lab 1a" due:"1499400000" end:"1499448048" entry:"1499106862" modified:"1499448048" project:"School.ECEL302" status:"completed" uuid:"dcf976bd-29c3-43eb-89ea-5e5e138cc2ea"]
+---
