@@ -1,0 +1,8 @@
+input_time = -5:0.01:5;
+ramp=@(t) t.*(t>=0);
+u=@(t) t>=0;
+desired_output = 5*ramp(input_time)-5*u(input_time-1)-5*ramp(input_time-2)-5*u(input_time-2);
+plot(input_time, desired_output, 'LineWidth', 2);
+ylim([-0.1 5.1]);
+title('Problem 3');
+grid on;

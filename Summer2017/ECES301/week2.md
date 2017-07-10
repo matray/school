@@ -71,3 +71,6 @@ header-includes:
 * When less than one, Sum=1/1-a
 * Product rule derivative will be on the test
 * Review recitation notes and do homework 1
+
+# Recitation
+*
