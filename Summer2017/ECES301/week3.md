@@ -60,9 +60,9 @@ header-includes:
 * A=5
 * Purely even
 * Coefficients must be conjugrate symmetric
-* $\frac{1}{10}\int_{-2}^{8} x(t)e^{-jk\omega_0 t} dt$
+* $\frac{1}{10} \int_{-2}^{8} x(t)e^{-jk\omega_0 t} dt$
 * could also go from -2 to 2 because it is zero elsewhere, then you can do
-* $\frac{1}{10} \int_{-2}^{2} 5e^{-jk\omega_0 t} dt
+* $\frac{1}{10} \int_{-2}^{2} 5e^{-jk\omega_0 t} dt$
 * $a_k = \frac{1}{2} \int_{-2}^{2} e^{-jk\omega_0 t} dt$
 * $a_0 = \frac{1}{2} \int_{-2}^{2} 1 dt = 2$
 * $a_k = \frac{1}{T} \int_{0}^{T} x(t)e^{-jk\omega_0 t} dt$
@@ -74,3 +74,24 @@ header-includes:
 * Full workout is on page 36
 * Know L'Hopital's rule?
 * Read about the sync function
+
+# Recitation
+* Go over notes basically, know linear algebra! That's gonna get ya
+* u1 = [2 1 1]
+* u2 = [-3 2 4]
+* u3 = [1 -1 2]
+* v = [3 1 2]
+* couldn't solve on quiz
+
+# Midterm Studying
+*  Consider: $x(t) = \delta(t+2) - \delta(t-2)$
+* Find  $y(t) = \int_{-\infty}^{t} x(\tau)d\tau$. Remind students that
+* integration is linear and that $\int_{-\infty}^{t} \delta(\tau)d\tau =  u(t)$
+
+$$
+y(t) = \int_{-\infty}^{t} x(\tau)d\tau
+$$
+
+* look in notes for full breakdown
+* Look at circuit examples that use KVL
+
