@@ -1131,3 +1131,19 @@ time 1500317362
 old [description:"Midterm 1" due:"1500436800" entry:"1499107186" modified:"1499107186" project:"School.ECES301" status:"pending" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
 new [description:"Midterm 1" due:"1500436800" entry:"1499107186" modified:"1500317362" priority:"H" project:"School.ECES301" status:"pending" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
 ---
+time 1500483612
+old [description:"ALU 1 Bit" due:"1500436800" entry:"1499105821" modified:"1500317362" priority:"H" project:"School.ECEC355" status:"pending" uuid:"2b79e397-a23d-4877-a095-ca8452f86652"]
+new [description:"ALU 1 Bit" due:"1500436800" end:"1500483607" entry:"1499105821" modified:"1500483612" priority:"H" project:"School.ECEC355" status:"completed" uuid:"2b79e397-a23d-4877-a095-ca8452f86652"]
+---
+time 1500483612
+old [description:"ALU 32 Bit" due:"1500436800" entry:"1499105825" modified:"1500317362" priority:"H" project:"School.ECEC355" status:"pending" uuid:"aa2f5aa7-99ea-4e0f-a9d6-bcebe1ed994c"]
+new [description:"ALU 32 Bit" due:"1500436800" end:"1500483612" entry:"1499105825" modified:"1500483612" priority:"H" project:"School.ECEC355" status:"completed" uuid:"aa2f5aa7-99ea-4e0f-a9d6-bcebe1ed994c"]
+---
+time 1500483612
+old [description:"Term Part 2 Test Bench" due:"1500436800" entry:"1499105834" modified:"1500317362" priority:"H" project:"School.ECEC355" status:"pending" uuid:"52019f4b-bb70-4de1-9920-caa786f6b048"]
+new [description:"Term Part 2 Test Bench" due:"1500436800" end:"1500483612" entry:"1499105834" modified:"1500483612" priority:"H" project:"School.ECEC355" status:"completed" uuid:"52019f4b-bb70-4de1-9920-caa786f6b048"]
+---
+time 1500483628
+old [description:"Midterm 1" due:"1500436800" entry:"1499107186" modified:"1500317362" priority:"H" project:"School.ECES301" status:"pending" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
+new [description:"Midterm 1" due:"1500436800" end:"1500483628" entry:"1499107186" modified:"1500483628" priority:"H" project:"School.ECES301" status:"completed" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
+---
