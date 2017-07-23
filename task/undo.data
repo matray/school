@@ -1147,3 +1147,35 @@ time 1500483628
 old [description:"Midterm 1" due:"1500436800" entry:"1499107186" modified:"1500317362" priority:"H" project:"School.ECES301" status:"pending" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
 new [description:"Midterm 1" due:"1500436800" end:"1500483628" entry:"1499107186" modified:"1500483628" priority:"H" project:"School.ECES301" status:"completed" uuid:"7f030f70-24a7-4fbe-badf-2532defa22ee"]
 ---
+time 1500617230
+old [description:"Week 2 Reading" due:"1499572800" entry:"1499106601" modified:"1500040867" priority:"L" project:"School.CS260" status:"pending" uuid:"69de6f9c-67b3-48c4-ba0e-70f109c6ced7"]
+new [description:"Week 2 Reading" due:"1499572800" end:"1500617228" entry:"1499106601" modified:"1500617230" priority:"L" project:"School.CS260" status:"completed" uuid:"69de6f9c-67b3-48c4-ba0e-70f109c6ced7"]
+---
+time 1500617230
+old [description:"Week 3 Reading" due:"1499659200" entry:"1499106606" modified:"1500040898" priority:"L" project:"School.CS260" status:"pending" uuid:"4f1494f2-36f9-4d72-bad6-86b1ef1b3bf9"]
+new [description:"Week 3 Reading" due:"1499659200" end:"1500617230" entry:"1499106606" modified:"1500617230" priority:"L" project:"School.CS260" status:"completed" uuid:"4f1494f2-36f9-4d72-bad6-86b1ef1b3bf9"]
+---
+time 1500617230
+old [description:"Week 4 Reading" due:"1500264000" entry:"1499106613" modified:"1500317300" priority:"L" project:"School.CS260" status:"pending" uuid:"ce94832a-c595-478d-a0c1-ba09c18a665a"]
+new [description:"Week 4 Reading" due:"1500264000" end:"1500617230" entry:"1499106613" modified:"1500617230" priority:"L" project:"School.CS260" status:"completed" uuid:"ce94832a-c595-478d-a0c1-ba09c18a665a"]
+---
+time 1500617230
+old [description:"Week 2 Reading" due:"1499572800" entry:"1499107390" modified:"1500040898" priority:"L" project:"School.ECES301" status:"pending" uuid:"f1d4ff36-05b1-47b7-9db7-abb3f426ef07"]
+new [description:"Week 2 Reading" due:"1499572800" end:"1500617230" entry:"1499107390" modified:"1500617230" priority:"L" project:"School.ECES301" status:"completed" uuid:"f1d4ff36-05b1-47b7-9db7-abb3f426ef07"]
+---
+time 1500617230
+old [description:"Week 3 Reading" due:"1499659200" entry:"1499107396" modified:"1500040898" priority:"L" project:"School.ECES301" status:"pending" uuid:"3f1c4592-2269-4fe6-b3c7-2e15503365ae"]
+new [description:"Week 3 Reading" due:"1499659200" end:"1500617230" entry:"1499107396" modified:"1500617230" priority:"L" project:"School.ECES301" status:"completed" uuid:"3f1c4592-2269-4fe6-b3c7-2e15503365ae"]
+---
+time 1500617230
+old [description:"Week 4 Reading" due:"1500264000" entry:"1499107400" modified:"1500317320" priority:"L" project:"School.ECES301" status:"pending" uuid:"9f28aa4b-c9d8-41c0-88e1-f5f45f7e304c"]
+new [description:"Week 4 Reading" due:"1500264000" end:"1500617230" entry:"1499107400" modified:"1500617230" priority:"L" project:"School.ECES301" status:"completed" uuid:"9f28aa4b-c9d8-41c0-88e1-f5f45f7e304c"]
+---
+time 1500617230
+old [description:"Week 3 Reading" due:"1499659200" entry:"1499107506" modified:"1500040898" priority:"L" project:"School.EGMT404" status:"pending" uuid:"7227f0f9-bb4f-4884-adaa-63c81ee4a57a"]
+new [description:"Week 3 Reading" due:"1499659200" end:"1500617230" entry:"1499107506" modified:"1500617230" priority:"L" project:"School.EGMT404" status:"completed" uuid:"7227f0f9-bb4f-4884-adaa-63c81ee4a57a"]
+---
+time 1500617230
+old [description:"Week 4 Reading" due:"1500264000" entry:"1499107516" modified:"1500317320" priority:"L" project:"School.EGMT404" status:"pending" uuid:"2fb0456d-9c3a-49c9-b113-62ab834ea391"]
+new [description:"Week 4 Reading" due:"1500264000" end:"1500617230" entry:"1499107516" modified:"1500617230" priority:"L" project:"School.EGMT404" status:"completed" uuid:"2fb0456d-9c3a-49c9-b113-62ab834ea391"]
+---
