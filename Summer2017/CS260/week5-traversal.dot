@@ -1,0 +1,18 @@
+digraph G {
+	node [shape=record, height=.1];
+	node0 [label="a_head"];
+	node1 [label="b_head"];
+	node2 [label="c_head"];
+	node01 [label="<f0> a_1 | <f1> next"];
+	node02 [label="<f0> a_2 | <f1> next"];
+	node11 [label="<f0> b_1 | <f1> next"];
+	node12 [label="<f0> b_2 | <f1> next"];
+	node21 [label="<f0> c_1 | <f1> next"];
+	node22 [label="<f0> c_2 | <f1> next"];
+	"node0" -> "node01":f0;
+	"node01":f1 -> "node02":f0;
+	"node1" -> "node11":f0;
+	"node11":f1 -> "node12":f0;
+	"node2" -> "node21":f0;
+	"node21":f1 -> "node22":f0;
+}

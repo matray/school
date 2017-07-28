@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 [description:"Midterm 1" due:"1500868800" entry:"1499105897" modified:"1499105897" project:"School.ECEC355" status:"pending" uuid:"c92aae15-55db-4e59-933c-009eafcdd1c2"]
+=======
+>>>>>>> probably_merge_conflicts
 [description:"Registers" due:"1501646400" entry:"1499105910" modified:"1499105910" project:"School.ECEC355" status:"pending" uuid:"fe87ed77-36c0-4a31-81b5-8ef53271714c"]
 [description:"Instruction Memory" due:"1501646400" entry:"1499105921" modified:"1499105921" project:"School.ECEC355" status:"pending" uuid:"7f35cca6-a812-46a9-9c6c-12c0aab43b8a"]
 [description:"Data Memory" due:"1501646400" entry:"1499105932" modified:"1499105932" project:"School.ECEC355" status:"pending" uuid:"88cc7585-3280-47f6-a43c-a53fe349b5ce"]
@@ -23,7 +26,6 @@
 [description:"Entire CPU" due:"1504065600" entry:"1499106113" modified:"1499106113" project:"School.ECEC355" status:"pending" uuid:"458468f5-9969-46ea-8265-2affe30fad31"]
 [description:"Term Part 5 Test Bench" due:"1504065600" entry:"1499106122" modified:"1499106122" project:"School.ECEC355" status:"pending" uuid:"6b6043c1-288f-4289-bbb6-3c1760939726"]
 [description:"Term Part 5 Submission" due:"1504065600" entry:"1499106130" modified:"1499106130" project:"School.ECEC355" status:"pending" uuid:"46ab9413-b1d3-4aa1-98e6-e00fbfae32d5"]
-[description:"Test 1" due:"1500868800" entry:"1499106260" modified:"1499106260" project:"School.CS260" status:"pending" uuid:"cd94855a-1ec4-4f23-9209-af01f663251e"]
 [description:"Assignment 1" due:"1501819200" entry:"1499106284" modified:"1499106284" project:"School.CS260" status:"pending" uuid:"01c6bfed-d5e7-425f-a75c-757e510f4982"]
 [description:"Assignment 2" due:"1503028800" entry:"1499106289" modified:"1499106289" project:"School.CS260" status:"pending" uuid:"607886ab-d6c8-4e76-8bb6-e4f569b4ce25"]
 [description:"Assignment 3" due:"1504238400" entry:"1499106296" modified:"1499106296" project:"School.CS260" status:"pending" uuid:"2c139536-6388-48ea-b7c7-40f32fe54b2d"]
@@ -38,15 +40,19 @@
 [description:"Week 8 Reading" due:"1502683200" entry:"1499106645" modified:"1499106645" project:"School.CS260" status:"pending" uuid:"afa2a90f-8fcf-4850-a776-19cd002931de"]
 [description:"Week 9 Reading" due:"1503288000" entry:"1499106652" modified:"1499106652" project:"School.CS260" status:"pending" uuid:"9acfbbb5-0238-4326-95f5-9cc4dcae6e24"]
 [description:"Week 10 Reading" due:"1503892800" entry:"1499106659" modified:"1499106659" project:"School.CS260" status:"pending" uuid:"a980b217-9d40-4836-9e00-f03184265b77"]
-[description:"Lab 1b" due:"1500609600" entry:"1499106868" modified:"1499274278" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
-[description:"Lab 2" due:"1501214400" entry:"1499106875" modified:"1499274294" project:"School.ECEL302" status:"pending" uuid:"4248f77d-620e-4a03-a44a-d6c976495a55"]
+[description:"Lab 1b" due:"1500609600" entry:"1499106868" modified:"1501094337" priority:"M" project:"School.ECEL302" status:"pending" uuid:"f280daa8-9f8a-488e-8184-79cd1d921ee8"]
+[description:"Lab 2" due:"1501214400" entry:"1499106875" modified:"1501094337" priority:"M" project:"School.ECEL302" status:"pending" uuid:"4248f77d-620e-4a03-a44a-d6c976495a55"]
 [description:"Lab 3" due:"1501819200" entry:"1499106879" modified:"1499274303" project:"School.ECEL302" status:"pending" uuid:"85da4c04-f34d-4b92-a87d-986c1d863d92"]
 [description:"Lab 4" due:"1502424000" entry:"1499106888" modified:"1499274311" project:"School.ECEL302" status:"pending" uuid:"8182e3ec-6b4b-46db-a8b8-9c057e2e3f26"]
 [description:"Lab 5" due:"1503028800" entry:"1499106901" modified:"1499274338" project:"School.ECEL302" status:"pending" uuid:"8f828441-3c77-4c55-aa3f-f93360e07192"]
 [description:"Lab 6" due:"1503633600" entry:"1499106905" modified:"1499274348" project:"School.ECEL302" status:"pending" uuid:"a337cd79-b178-47ab-9b7e-db09c51650d1"]
 [description:"Lab 7" due:"1504238400" entry:"1499106911" modified:"1499274356" project:"School.ECEL302" status:"pending" uuid:"29cb756b-e2d3-4c7a-8ec5-40522ed972de"]
 [description:"Lab 8" due:"1504843200" entry:"1499106919" modified:"1499274364" project:"School.ECEL302" status:"pending" uuid:"98cd2ac0-dc8b-4a71-afd6-de203ddc7eb4"]
+<<<<<<< HEAD
 [description:"HW 4" due:"1501041600" entry:"1499107064" modified:"1499107064" project:"School.ECES301" status:"pending" uuid:"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"]
+=======
+[description:"HW 4" due:"1501041600" entry:"1499107064" modified:"1501094355" priority:"M" project:"School.ECES301" status:"pending" uuid:"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"]
+>>>>>>> probably_merge_conflicts
 [description:"HW 5" due:"1501646400" entry:"1499107089" modified:"1499107089" project:"School.ECES301" status:"pending" uuid:"568e6daf-6b35-4233-bf78-6f23b13bedaa"]
 [description:"Project 3" due:"1501646400" entry:"1499107095" modified:"1499107095" project:"School.ECES301" status:"pending" uuid:"a5009748-acd7-4fd4-8ff0-0b18b1459c7c"]
 [description:"Project 4" due:"1502251200" entry:"1499107101" modified:"1499107101" project:"School.ECES301" status:"pending" uuid:"5bfcb754-0fa8-4816-b708-ea180686ed6c"]
@@ -57,13 +63,11 @@
 [description:"HW 8" due:"1503460800" entry:"1499107131" modified:"1499107131" project:"School.ECES301" status:"pending" uuid:"6cb62569-0c94-4892-86fc-104b498e0e4c"]
 [description:"HW 9" due:"1504065600" entry:"1499107139" modified:"1499107139" project:"School.ECES301" status:"pending" uuid:"fcd7a753-b315-41f0-9e3c-d39de5b30ebf"]
 [description:"Midterm 2" due:"1502856000" entry:"1499107197" modified:"1499107197" project:"School.ECES301" status:"pending" uuid:"06763ffe-bf93-4c87-8382-3512a74be78f"]
-[description:"Week 5 Reading" due:"1500868800" entry:"1499107406" modified:"1499107406" project:"School.ECES301" status:"pending" uuid:"d7fa0612-c567-4c27-b971-163a248e09d8"]
 [description:"Week 6 Reading" due:"1501473600" entry:"1499107412" modified:"1499107412" project:"School.ECES301" status:"pending" uuid:"87869daa-e437-4403-b547-c7ea3d181737"]
 [description:"Week 7 Reading" due:"1502078400" entry:"1499107422" modified:"1499107422" project:"School.ECES301" status:"pending" uuid:"d797fb84-1ad0-40f0-8600-1b1d9cc3fc41"]
 [description:"Week 8 Reading" due:"1502683200" entry:"1499107428" modified:"1499107428" project:"School.ECES301" status:"pending" uuid:"9a47a714-5769-4041-a45d-7265d4239c30"]
 [description:"Week 9 Reading" due:"1503288000" entry:"1499107435" modified:"1499107435" project:"School.ECES301" status:"pending" uuid:"92c0e0b1-50f9-4215-a583-bb16e487fa64"]
 [description:"Week 10 Reading" due:"1503892800" entry:"1499107440" modified:"1499107440" project:"School.ECES301" status:"pending" uuid:"a16e2643-b6d2-463a-8f28-51b753e6b871"]
-[description:"Week 5 Reading" due:"1500868800" entry:"1499107527" modified:"1499107527" project:"School.EGMT404" status:"pending" uuid:"4048a400-9ad2-4729-9937-a81fa5c98089"]
 [description:"Week 6 Reading" due:"1501473600" entry:"1499107536" modified:"1499107536" project:"School.EGMT404" status:"pending" uuid:"b951d234-4ad3-4118-b571-7739c70c1111"]
 [description:"Week 7 Reading" due:"1502078400" entry:"1499107551" modified:"1499107551" project:"School.EGMT404" status:"pending" uuid:"a34cd6b5-799b-4f54-93ab-ed5be238f543"]
 [description:"Week 8 Reading" due:"1502683200" entry:"1499107577" modified:"1499107577" project:"School.EGMT404" status:"pending" uuid:"0902cccf-38cf-43d0-a48b-7f3865cd2217"]
@@ -120,3 +124,5 @@
 [description:"Make midterm revisions" due:"1500782400" entry:"1500857324" priority:"H" project:"School.ECES301" status:"pending" uuid:"3be01659-da17-41ad-b6eb-3a37bad96b5a"]
 [description:"Email professor on online presentation time" due:"1500782400" entry:"1500863163" priority:"H" project:"EGMT404" status:"pending" uuid:"7273819c-d11e-4218-b70d-622b0d1270c8"]
 [description:"Respond to offer letter with SIG" entry:"1500869022" modified:"1500885777" priority:"H" project:"School.Other" status:"pending" uuid:"437b2bd6-ddc2-4d29-a0b7-6cd133f00fa0"]
+[description:"Email professor!" due:"1501041600" entry:"1501094298" modified:"1501094314" priority:"H" project:"School.EGMT404" status:"pending" uuid:"23760c34-6d39-41b8-a7b9-63d1edaf1642"]
+[description:"Pay bills" due:"1501041600" entry:"1501094369" modified:"1501094369" priority:"H" project:"Other" status:"pending" uuid:"8e3ef5d4-09e5-4450-a603-9bb96f9b3dbf"]
