@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 [description:"Midterm 1" due:"1500868800" entry:"1499105897" modified:"1499105897" project:"School.ECEC355" status:"pending" uuid:"c92aae15-55db-4e59-933c-009eafcdd1c2"]
-=======
->>>>>>> probably_merge_conflicts
 [description:"Registers" due:"1501646400" entry:"1499105910" modified:"1499105910" project:"School.ECEC355" status:"pending" uuid:"fe87ed77-36c0-4a31-81b5-8ef53271714c"]
 [description:"Instruction Memory" due:"1501646400" entry:"1499105921" modified:"1499105921" project:"School.ECEC355" status:"pending" uuid:"7f35cca6-a812-46a9-9c6c-12c0aab43b8a"]
 [description:"Data Memory" due:"1501646400" entry:"1499105932" modified:"1499105932" project:"School.ECEC355" status:"pending" uuid:"88cc7585-3280-47f6-a43c-a53fe349b5ce"]
@@ -48,11 +45,7 @@
 [description:"Lab 6" due:"1503633600" entry:"1499106905" modified:"1499274348" project:"School.ECEL302" status:"pending" uuid:"a337cd79-b178-47ab-9b7e-db09c51650d1"]
 [description:"Lab 7" due:"1504238400" entry:"1499106911" modified:"1499274356" project:"School.ECEL302" status:"pending" uuid:"29cb756b-e2d3-4c7a-8ec5-40522ed972de"]
 [description:"Lab 8" due:"1504843200" entry:"1499106919" modified:"1499274364" project:"School.ECEL302" status:"pending" uuid:"98cd2ac0-dc8b-4a71-afd6-de203ddc7eb4"]
-<<<<<<< HEAD
-[description:"HW 4" due:"1501041600" entry:"1499107064" modified:"1499107064" project:"School.ECES301" status:"pending" uuid:"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"]
-=======
 [description:"HW 4" due:"1501041600" entry:"1499107064" modified:"1501094355" priority:"M" project:"School.ECES301" status:"pending" uuid:"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"]
->>>>>>> probably_merge_conflicts
 [description:"HW 5" due:"1501646400" entry:"1499107089" modified:"1499107089" project:"School.ECES301" status:"pending" uuid:"568e6daf-6b35-4233-bf78-6f23b13bedaa"]
 [description:"Project 3" due:"1501646400" entry:"1499107095" modified:"1499107095" project:"School.ECES301" status:"pending" uuid:"a5009748-acd7-4fd4-8ff0-0b18b1459c7c"]
 [description:"Project 4" due:"1502251200" entry:"1499107101" modified:"1499107101" project:"School.ECES301" status:"pending" uuid:"5bfcb754-0fa8-4816-b708-ea180686ed6c"]
