@@ -1256,3 +1256,15 @@ time 1500885825
 old [description:"Week 4 Post" due:"1500523200" entry:"1499109118" modified:"1499109118" project:"School.ACCT110" status:"pending" uuid:"9728b3a1-e39c-4fe8-951c-79a903740424"]
 new [description:"Week 4 Post" due:"1500523200" end:"1500885825" entry:"1499109118" modified:"1500885825" project:"School.ACCT110" status:"completed" uuid:"9728b3a1-e39c-4fe8-951c-79a903740424"]
 ---
+time 1501203857
+old [description:"Midterm 1" due:"1500868800" entry:"1499105897" modified:"1499105897" project:"School.ECEC355" status:"pending" uuid:"c92aae15-55db-4e59-933c-009eafcdd1c2"]
+new [description:"Midterm 1" due:"1500868800" end:"1501203855" entry:"1499105897" modified:"1501203857" project:"School.ECEC355" status:"completed" uuid:"c92aae15-55db-4e59-933c-009eafcdd1c2"]
+---
+time 1501203857
+old [description:"Week 5 Post" due:"1501041600" entry:"1499107959" modified:"1499107959" project:"School.EGMT404" status:"pending" uuid:"3cb02e20-8c8a-4000-945e-aded5b0db421"]
+new [description:"Week 5 Post" due:"1501041600" end:"1501203857" entry:"1499107959" modified:"1501203857" project:"School.EGMT404" status:"completed" uuid:"3cb02e20-8c8a-4000-945e-aded5b0db421"]
+---
+time 1501203857
+old [description:"Make midterm revisions" due:"1500782400" entry:"1500857324" priority:"H" project:"School.ECES301" status:"pending" uuid:"3be01659-da17-41ad-b6eb-3a37bad96b5a"]
+new [description:"Make midterm revisions" due:"1500782400" end:"1501203857" entry:"1500857324" modified:"1501203857" priority:"H" project:"School.ECES301" status:"completed" uuid:"3be01659-da17-41ad-b6eb-3a37bad96b5a"]
+---

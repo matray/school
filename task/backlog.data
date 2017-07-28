@@ -368,3 +368,6 @@
 {"description":"Lab 2","due":"20170728T040000Z","entry":"20170703T183435Z","modified":"20170726T183857Z","priority":"M","project":"School.ECEL302","status":"pending","uuid":"4248f77d-620e-4a03-a44a-d6c976495a55"}
 {"description":"HW 4","due":"20170726T040000Z","entry":"20170703T183744Z","modified":"20170726T183915Z","priority":"M","project":"School.ECES301","status":"pending","uuid":"5644bf4e-f6bc-415f-9711-6fe6c3beaa66"}
 {"description":"Pay bills","due":"20170726T040000Z","entry":"20170726T183929Z","modified":"20170726T183929Z","priority":"H","project":"Other","status":"pending","uuid":"8e3ef5d4-09e5-4450-a603-9bb96f9b3dbf"}
+{"description":"Midterm 1","due":"20170724T040000Z","end":"20170728T010415Z","entry":"20170703T181817Z","modified":"20170728T010417Z","project":"School.ECEC355","status":"completed","uuid":"c92aae15-55db-4e59-933c-009eafcdd1c2"}
+{"description":"Week 5 Post","due":"20170726T040000Z","end":"20170728T010417Z","entry":"20170703T185239Z","modified":"20170728T010417Z","project":"School.EGMT404","status":"completed","uuid":"3cb02e20-8c8a-4000-945e-aded5b0db421"}
+{"description":"Make midterm revisions","due":"20170723T040000Z","end":"20170728T010417Z","entry":"20170724T004844Z","modified":"20170728T010417Z","priority":"H","project":"School.ECES301","status":"completed","uuid":"3be01659-da17-41ad-b6eb-3a37bad96b5a"}
