@@ -128,3 +128,8 @@ $$
 $$
 V_R = 1.21\cos(\frac{\pi}{10} t - 4.4) + 0.42 \cos(\frac{3\pi}{10} t -4.6) + 0.25 \cos(\frac{5\pi}{10} t-4.65)
 $$
+
+# Recitation
+
+## Fourier Series
+* 

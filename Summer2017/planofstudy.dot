@@ -1,0 +1,53 @@
+digraph G{
+
+	"CIVC 101";
+	"ENGL 101" -> "ENGL 102";
+	"ENGL 102" -> "ENGL 103";
+	"PHIL 315";
+	"UNIV 101";
+	"CHEM 101" -> "CHEM 102";
+	"CHEM 102" -> "BIO 141";
+	"ENGR 103" -> "ECE 200";
+	"PHYS 101" -> "PHYS 102";
+	"PHYS 102" -> "ECE 201";
+	"ECE 203";
+	"ENGR 121" -> "ENGR 122";
+	"ENGR 100";
+	"ENGR 101" -> "ENGR 102";
+	"ENGR 102" -> "ENGR 103";
+	"ENGR 103" -> "ENGR 201";
+	"ENGR 201" -> "ENGR 202";
+	"CHEM 102" -> "ENGR 220";
+	"MATH 122" -> "ENGR 220";
+	"MATH 122" -> "ENGR 231";
+	"ENGR 121" -> "ENGR 231";
+	"ENGR 231" -> "ENGR 232";
+	"MATH 121" -> "MATH 122";
+	"MATH 122" -> "MATH 200";
+	"PHYS 102" -> "PHYS 201";
+	"CS 265" -> "CS 260";
+	"ECEC 301" -> "CS 265";
+	"ENGR 202" -> "ECE 361";
+	"ENGR 231" -> "ECE 361";
+	"ECE 391" -> "ECE 491";
+	"ECE 491" -> "ECE 492";
+	"ECE 492" -> "ECE 493";
+	"ECE 203" -> "ECEC 301";
+	"ECE 203" -> "ECEC 302";
+	"ECE 200" -> "ECEC 302";
+	"ECE 200" -> "ECEC 304";
+	"ECE 203" -> "ECEC 304";
+	"CS 265" -> "ECEC 353";
+	"ECE 200" -> "ECEC 355";
+	"ECEC 302" -> "ECEC 355";
+	"ECE 203" -> "ECEC 357";
+	"ECE 200" -> "ECEL 301";
+	"ECE 201" -> "ECEL 301";
+	"ENGR 103" -> "ECEL 301";
+	"ECEL 301" -> "ECEL 302";
+	"ECEL 302" -> "ECEL 303";
+	"ENGR 232" -> "ECES 301";
+	"ECE 201" -> "ECES 301";
+	"ECE 200" -> "MATH 221";
+	
+}
