@@ -1,0 +1,2417 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2019-01-10 19:42 EST
+Nmap scan report for n3-1-2.dhcp.drexel.edu (10.250.1.2)
+Host is up (0.035s latency).
+Nmap scan report for n3-1-41.dhcp.drexel.edu (10.250.1.41)
+Host is up (0.053s latency).
+Nmap scan report for n3-1-81.dhcp.drexel.edu (10.250.1.81)
+Host is up (0.015s latency).
+Nmap scan report for n3-1-104.dhcp.drexel.edu (10.250.1.104)
+Host is up (0.023s latency).
+Nmap scan report for n3-1-113.dhcp.drexel.edu (10.250.1.113)
+Host is up (0.022s latency).
+Nmap scan report for n3-1-114.dhcp.drexel.edu (10.250.1.114)
+Host is up (0.067s latency).
+Nmap scan report for n3-1-149.dhcp.drexel.edu (10.250.1.149)
+Host is up (0.12s latency).
+Nmap scan report for n3-1-186.dhcp.drexel.edu (10.250.1.186)
+Host is up (0.11s latency).
+Nmap scan report for n3-2-26.dhcp.drexel.edu (10.250.2.26)
+Host is up (0.044s latency).
+Nmap scan report for n3-2-50.dhcp.drexel.edu (10.250.2.50)
+Host is up (0.041s latency).
+Nmap scan report for n3-2-74.dhcp.drexel.edu (10.250.2.74)
+Host is up (0.094s latency).
+Nmap scan report for n3-2-134.dhcp.drexel.edu (10.250.2.134)
+Host is up (0.11s latency).
+Nmap scan report for n3-2-145.dhcp.drexel.edu (10.250.2.145)
+Host is up (0.10s latency).
+Nmap scan report for n3-2-159.dhcp.drexel.edu (10.250.2.159)
+Host is up (0.0097s latency).
+Nmap scan report for n3-2-163.dhcp.drexel.edu (10.250.2.163)
+Host is up (0.099s latency).
+Nmap scan report for n3-2-170.dhcp.drexel.edu (10.250.2.170)
+Host is up (0.030s latency).
+Nmap scan report for n3-2-172.dhcp.drexel.edu (10.250.2.172)
+Host is up (0.097s latency).
+Nmap scan report for n3-2-174.dhcp.drexel.edu (10.250.2.174)
+Host is up (0.014s latency).
+Nmap scan report for n3-2-191.dhcp.drexel.edu (10.250.2.191)
+Host is up (0.070s latency).
+Nmap scan report for n3-2-192.dhcp.drexel.edu (10.250.2.192)
+Host is up (0.27s latency).
+Nmap scan report for n3-2-205.dhcp.drexel.edu (10.250.2.205)
+Host is up (0.082s latency).
+Nmap scan report for n3-3-14.dhcp.drexel.edu (10.250.3.14)
+Host is up (0.094s latency).
+Nmap scan report for n3-3-43.dhcp.drexel.edu (10.250.3.43)
+Host is up (0.010s latency).
+Nmap scan report for n3-3-59.dhcp.drexel.edu (10.250.3.59)
+Host is up (0.0068s latency).
+Nmap scan report for n3-3-76.dhcp.drexel.edu (10.250.3.76)
+Host is up (0.12s latency).
+Nmap scan report for n3-3-92.dhcp.drexel.edu (10.250.3.92)
+Host is up (0.10s latency).
+Nmap scan report for n3-3-121.dhcp.drexel.edu (10.250.3.121)
+Host is up (0.19s latency).
+Nmap scan report for n3-3-135.dhcp.drexel.edu (10.250.3.135)
+Host is up (0.15s latency).
+Nmap scan report for n3-3-144.dhcp.drexel.edu (10.250.3.144)
+Host is up (0.029s latency).
+Nmap scan report for n3-3-161.dhcp.drexel.edu (10.250.3.161)
+Host is up (0.081s latency).
+Nmap scan report for n3-3-172.dhcp.drexel.edu (10.250.3.172)
+Host is up (0.12s latency).
+Nmap scan report for n3-3-252.dhcp.drexel.edu (10.250.3.252)
+Host is up (0.092s latency).
+Nmap scan report for n3-4-74.dhcp.drexel.edu (10.250.4.74)
+Host is up (0.039s latency).
+Nmap scan report for n3-4-116.dhcp.drexel.edu (10.250.4.116)
+Host is up (0.013s latency).
+Nmap scan report for n3-4-123.dhcp.drexel.edu (10.250.4.123)
+Host is up (0.053s latency).
+Nmap scan report for n3-4-129.dhcp.drexel.edu (10.250.4.129)
+Host is up (0.0094s latency).
+Nmap scan report for n3-4-136.dhcp.drexel.edu (10.250.4.136)
+Host is up (0.036s latency).
+Nmap scan report for n3-4-147.dhcp.drexel.edu (10.250.4.147)
+Host is up (0.043s latency).
+Nmap scan report for n3-4-173.dhcp.drexel.edu (10.250.4.173)
+Host is up (0.12s latency).
+Nmap scan report for n3-4-250.dhcp.drexel.edu (10.250.4.250)
+Host is up (0.12s latency).
+Nmap scan report for n3-5-36.dhcp.drexel.edu (10.250.5.36)
+Host is up (0.019s latency).
+Nmap scan report for n3-5-88.dhcp.drexel.edu (10.250.5.88)
+Host is up (0.043s latency).
+Nmap scan report for n3-5-131.dhcp.drexel.edu (10.250.5.131)
+Host is up (0.081s latency).
+Nmap scan report for n3-5-146.dhcp.drexel.edu (10.250.5.146)
+Host is up (0.10s latency).
+Nmap scan report for n3-5-151.dhcp.drexel.edu (10.250.5.151)
+Host is up (0.028s latency).
+Nmap scan report for n3-5-161.dhcp.drexel.edu (10.250.5.161)
+Host is up (0.012s latency).
+Nmap scan report for n3-5-182.dhcp.drexel.edu (10.250.5.182)
+Host is up (0.013s latency).
+Nmap scan report for n3-5-198.dhcp.drexel.edu (10.250.5.198)
+Host is up (0.014s latency).
+Nmap scan report for n3-5-242.dhcp.drexel.edu (10.250.5.242)
+Host is up (0.0072s latency).
+Nmap scan report for n3-5-244.dhcp.drexel.edu (10.250.5.244)
+Host is up (0.12s latency).
+Nmap scan report for n3-5-245.dhcp.drexel.edu (10.250.5.245)
+Host is up (0.013s latency).
+Nmap scan report for n3-5-251.dhcp.drexel.edu (10.250.5.251)
+Host is up (0.034s latency).
+Nmap scan report for n3-6-4.dhcp.drexel.edu (10.250.6.4)
+Host is up (0.049s latency).
+Nmap scan report for n3-6-13.dhcp.drexel.edu (10.250.6.13)
+Host is up (0.013s latency).
+Nmap scan report for n3-6-18.dhcp.drexel.edu (10.250.6.18)
+Host is up (0.019s latency).
+Nmap scan report for n3-6-38.dhcp.drexel.edu (10.250.6.38)
+Host is up (0.035s latency).
+Nmap scan report for n3-6-41.dhcp.drexel.edu (10.250.6.41)
+Host is up (0.031s latency).
+Nmap scan report for n3-6-45.dhcp.drexel.edu (10.250.6.45)
+Host is up (0.11s latency).
+Nmap scan report for n3-6-69.dhcp.drexel.edu (10.250.6.69)
+Host is up (0.11s latency).
+Nmap scan report for n3-6-97.dhcp.drexel.edu (10.250.6.97)
+Host is up (0.11s latency).
+Nmap scan report for n3-6-123.dhcp.drexel.edu (10.250.6.123)
+Host is up (0.16s latency).
+Nmap scan report for n3-6-139.dhcp.drexel.edu (10.250.6.139)
+Host is up (0.016s latency).
+Nmap scan report for n3-6-157.dhcp.drexel.edu (10.250.6.157)
+Host is up (0.048s latency).
+Nmap scan report for n3-6-169.dhcp.drexel.edu (10.250.6.169)
+Host is up (0.013s latency).
+Nmap scan report for n3-6-173.dhcp.drexel.edu (10.250.6.173)
+Host is up (0.11s latency).
+Nmap scan report for n3-6-198.dhcp.drexel.edu (10.250.6.198)
+Host is up (0.010s latency).
+Nmap scan report for n3-6-202.dhcp.drexel.edu (10.250.6.202)
+Host is up (0.039s latency).
+Nmap scan report for n3-6-211.dhcp.drexel.edu (10.250.6.211)
+Host is up (0.073s latency).
+Nmap scan report for n3-6-216.dhcp.drexel.edu (10.250.6.216)
+Host is up (0.14s latency).
+Nmap scan report for n3-7-52.dhcp.drexel.edu (10.250.7.52)
+Host is up (0.0094s latency).
+Nmap scan report for n3-7-85.dhcp.drexel.edu (10.250.7.85)
+Host is up (0.082s latency).
+Nmap scan report for n3-7-93.dhcp.drexel.edu (10.250.7.93)
+Host is up (0.052s latency).
+Nmap scan report for n3-7-114.dhcp.drexel.edu (10.250.7.114)
+Host is up (0.022s latency).
+Nmap scan report for n3-7-131.dhcp.drexel.edu (10.250.7.131)
+Host is up (0.044s latency).
+Nmap scan report for n3-7-143.dhcp.drexel.edu (10.250.7.143)
+Host is up (0.045s latency).
+Nmap scan report for n3-8-28.dhcp.drexel.edu (10.250.8.28)
+Host is up (0.054s latency).
+Nmap scan report for n3-8-52.dhcp.drexel.edu (10.250.8.52)
+Host is up (0.083s latency).
+Nmap scan report for n3-8-113.dhcp.drexel.edu (10.250.8.113)
+Host is up (0.010s latency).
+Nmap scan report for n3-8-137.dhcp.drexel.edu (10.250.8.137)
+Host is up (0.048s latency).
+Nmap scan report for n3-8-140.dhcp.drexel.edu (10.250.8.140)
+Host is up (0.063s latency).
+Nmap scan report for n3-8-180.dhcp.drexel.edu (10.250.8.180)
+Host is up (0.010s latency).
+Nmap scan report for n3-8-195.dhcp.drexel.edu (10.250.8.195)
+Host is up (0.062s latency).
+Nmap scan report for n3-8-211.dhcp.drexel.edu (10.250.8.211)
+Host is up (0.072s latency).
+Nmap scan report for n3-8-223.dhcp.drexel.edu (10.250.8.223)
+Host is up (0.046s latency).
+Nmap scan report for n3-8-244.dhcp.drexel.edu (10.250.8.244)
+Host is up (0.090s latency).
+Nmap scan report for n3-9-8.dhcp.drexel.edu (10.250.9.8)
+Host is up (0.11s latency).
+Nmap scan report for n3-9-65.dhcp.drexel.edu (10.250.9.65)
+Host is up (0.0083s latency).
+Nmap scan report for n3-9-85.dhcp.drexel.edu (10.250.9.85)
+Host is up (0.060s latency).
+Nmap scan report for n3-9-97.dhcp.drexel.edu (10.250.9.97)
+Host is up (0.038s latency).
+Nmap scan report for n3-9-113.dhcp.drexel.edu (10.250.9.113)
+Host is up (0.11s latency).
+Nmap scan report for n3-9-158.dhcp.drexel.edu (10.250.9.158)
+Host is up (0.058s latency).
+Nmap scan report for n3-9-178.dhcp.drexel.edu (10.250.9.178)
+Host is up (0.10s latency).
+Nmap scan report for n3-9-184.dhcp.drexel.edu (10.250.9.184)
+Host is up (0.071s latency).
+Nmap scan report for n3-9-210.dhcp.drexel.edu (10.250.9.210)
+Host is up (0.11s latency).
+Nmap scan report for n3-9-253.dhcp.drexel.edu (10.250.9.253)
+Host is up (0.16s latency).
+Nmap scan report for n3-9-255.dhcp.drexel.edu (10.250.9.255)
+Host is up (0.0059s latency).
+Nmap scan report for n3-10-44.dhcp.drexel.edu (10.250.10.44)
+Host is up (0.10s latency).
+Nmap scan report for n3-10-69.dhcp.drexel.edu (10.250.10.69)
+Host is up (0.13s latency).
+Nmap scan report for n3-10-99.dhcp.drexel.edu (10.250.10.99)
+Host is up (0.12s latency).
+Nmap scan report for n3-10-101.dhcp.drexel.edu (10.250.10.101)
+Host is up (0.10s latency).
+Nmap scan report for n3-10-106.dhcp.drexel.edu (10.250.10.106)
+Host is up (0.035s latency).
+Nmap scan report for n3-11-29.dhcp.drexel.edu (10.250.11.29)
+Host is up (0.0095s latency).
+Nmap scan report for n3-11-67.dhcp.drexel.edu (10.250.11.67)
+Host is up (0.093s latency).
+Nmap scan report for n3-11-123.dhcp.drexel.edu (10.250.11.123)
+Host is up (0.069s latency).
+Nmap scan report for n3-11-124.dhcp.drexel.edu (10.250.11.124)
+Host is up (0.11s latency).
+Nmap scan report for n3-11-149.dhcp.drexel.edu (10.250.11.149)
+Host is up (0.24s latency).
+Nmap scan report for n3-11-214.dhcp.drexel.edu (10.250.11.214)
+Host is up (0.071s latency).
+Nmap scan report for n3-12-39.dhcp.drexel.edu (10.250.12.39)
+Host is up (0.094s latency).
+Nmap scan report for n3-12-105.dhcp.drexel.edu (10.250.12.105)
+Host is up (0.030s latency).
+Nmap scan report for n3-12-122.dhcp.drexel.edu (10.250.12.122)
+Host is up (0.015s latency).
+Nmap scan report for n3-12-140.dhcp.drexel.edu (10.250.12.140)
+Host is up (0.023s latency).
+Nmap scan report for n3-12-149.dhcp.drexel.edu (10.250.12.149)
+Host is up (0.064s latency).
+Nmap scan report for n3-12-155.dhcp.drexel.edu (10.250.12.155)
+Host is up (0.11s latency).
+Nmap scan report for n3-12-200.dhcp.drexel.edu (10.250.12.200)
+Host is up (0.090s latency).
+Nmap scan report for n3-12-210.dhcp.drexel.edu (10.250.12.210)
+Host is up (0.078s latency).
+Nmap scan report for n3-12-238.dhcp.drexel.edu (10.250.12.238)
+Host is up (0.13s latency).
+Nmap scan report for n3-12-240.dhcp.drexel.edu (10.250.12.240)
+Host is up (0.088s latency).
+Nmap scan report for n3-13-1.dhcp.drexel.edu (10.250.13.1)
+Host is up (0.032s latency).
+Nmap scan report for n3-13-47.dhcp.drexel.edu (10.250.13.47)
+Host is up (0.085s latency).
+Nmap scan report for n3-13-99.dhcp.drexel.edu (10.250.13.99)
+Host is up (0.096s latency).
+Nmap scan report for n3-13-100.dhcp.drexel.edu (10.250.13.100)
+Host is up (0.017s latency).
+Nmap scan report for n3-13-122.dhcp.drexel.edu (10.250.13.122)
+Host is up (0.029s latency).
+Nmap scan report for n3-13-129.dhcp.drexel.edu (10.250.13.129)
+Host is up (0.083s latency).
+Nmap scan report for n3-13-145.dhcp.drexel.edu (10.250.13.145)
+Host is up (0.17s latency).
+Nmap scan report for n3-13-146.dhcp.drexel.edu (10.250.13.146)
+Host is up (0.091s latency).
+Nmap scan report for n3-13-154.dhcp.drexel.edu (10.250.13.154)
+Host is up (0.11s latency).
+Nmap scan report for n3-13-157.dhcp.drexel.edu (10.250.13.157)
+Host is up (0.16s latency).
+Nmap scan report for n3-13-219.dhcp.drexel.edu (10.250.13.219)
+Host is up (0.018s latency).
+Nmap scan report for n3-14-0.dhcp.drexel.edu (10.250.14.0)
+Host is up (0.18s latency).
+Nmap scan report for n3-14-11.dhcp.drexel.edu (10.250.14.11)
+Host is up (0.020s latency).
+Nmap scan report for n3-14-37.dhcp.drexel.edu (10.250.14.37)
+Host is up (0.0088s latency).
+Nmap scan report for n3-14-109.dhcp.drexel.edu (10.250.14.109)
+Host is up (0.050s latency).
+Nmap scan report for n3-14-110.dhcp.drexel.edu (10.250.14.110)
+Host is up (0.084s latency).
+Nmap scan report for n3-14-122.dhcp.drexel.edu (10.250.14.122)
+Host is up (0.16s latency).
+Nmap scan report for n3-14-134.dhcp.drexel.edu (10.250.14.134)
+Host is up (0.15s latency).
+Nmap scan report for n3-14-156.dhcp.drexel.edu (10.250.14.156)
+Host is up (0.049s latency).
+Nmap scan report for n3-14-197.dhcp.drexel.edu (10.250.14.197)
+Host is up (0.013s latency).
+Nmap scan report for n3-14-216.dhcp.drexel.edu (10.250.14.216)
+Host is up (0.058s latency).
+Nmap scan report for n3-14-232.dhcp.drexel.edu (10.250.14.232)
+Host is up (0.12s latency).
+Nmap scan report for n3-14-233.dhcp.drexel.edu (10.250.14.233)
+Host is up (0.068s latency).
+Nmap scan report for n3-14-254.dhcp.drexel.edu (10.250.14.254)
+Host is up (0.081s latency).
+Nmap scan report for n3-15-12.dhcp.drexel.edu (10.250.15.12)
+Host is up (0.091s latency).
+Nmap scan report for n3-15-17.dhcp.drexel.edu (10.250.15.17)
+Host is up (0.015s latency).
+Nmap scan report for n3-15-25.dhcp.drexel.edu (10.250.15.25)
+Host is up (0.013s latency).
+Nmap scan report for n3-15-27.dhcp.drexel.edu (10.250.15.27)
+Host is up (0.040s latency).
+Nmap scan report for n3-15-45.dhcp.drexel.edu (10.250.15.45)
+Host is up (0.032s latency).
+Nmap scan report for n3-15-69.dhcp.drexel.edu (10.250.15.69)
+Host is up (0.11s latency).
+Nmap scan report for n3-15-84.dhcp.drexel.edu (10.250.15.84)
+Host is up (0.034s latency).
+Nmap scan report for n3-15-88.dhcp.drexel.edu (10.250.15.88)
+Host is up (0.039s latency).
+Nmap scan report for n3-15-104.dhcp.drexel.edu (10.250.15.104)
+Host is up (0.011s latency).
+Nmap scan report for n3-15-126.dhcp.drexel.edu (10.250.15.126)
+Host is up (0.0080s latency).
+Nmap scan report for n3-15-163.dhcp.drexel.edu (10.250.15.163)
+Host is up (0.11s latency).
+Nmap scan report for n3-15-224.dhcp.drexel.edu (10.250.15.224)
+Host is up (0.039s latency).
+Nmap scan report for n3-15-230.dhcp.drexel.edu (10.250.15.230)
+Host is up (0.056s latency).
+Nmap scan report for n3-16-2.dhcp.drexel.edu (10.250.16.2)
+Host is up (0.022s latency).
+Nmap scan report for n3-16-31.dhcp.drexel.edu (10.250.16.31)
+Host is up (0.072s latency).
+Nmap scan report for n3-16-94.dhcp.drexel.edu (10.250.16.94)
+Host is up (0.094s latency).
+Nmap scan report for n3-16-108.dhcp.drexel.edu (10.250.16.108)
+Host is up (0.015s latency).
+Nmap scan report for n3-16-139.dhcp.drexel.edu (10.250.16.139)
+Host is up (0.082s latency).
+Nmap scan report for n3-16-159.dhcp.drexel.edu (10.250.16.159)
+Host is up (0.030s latency).
+Nmap scan report for n3-16-176.dhcp.drexel.edu (10.250.16.176)
+Host is up (0.044s latency).
+Nmap scan report for n3-16-202.dhcp.drexel.edu (10.250.16.202)
+Host is up (0.069s latency).
+Nmap scan report for n3-16-236.dhcp.drexel.edu (10.250.16.236)
+Host is up (0.18s latency).
+Nmap scan report for n3-17-41.dhcp.drexel.edu (10.250.17.41)
+Host is up (0.029s latency).
+Nmap scan report for n3-17-45.dhcp.drexel.edu (10.250.17.45)
+Host is up (0.11s latency).
+Nmap scan report for n3-17-54.dhcp.drexel.edu (10.250.17.54)
+Host is up (0.11s latency).
+Nmap scan report for n3-17-117.dhcp.drexel.edu (10.250.17.117)
+Host is up (0.084s latency).
+Nmap scan report for n3-17-133.dhcp.drexel.edu (10.250.17.133)
+Host is up (0.023s latency).
+Nmap scan report for n3-17-151.dhcp.drexel.edu (10.250.17.151)
+Host is up (0.024s latency).
+Nmap scan report for n3-17-161.dhcp.drexel.edu (10.250.17.161)
+Host is up (0.028s latency).
+Nmap scan report for n3-17-191.dhcp.drexel.edu (10.250.17.191)
+Host is up (0.11s latency).
+Nmap scan report for n3-17-204.dhcp.drexel.edu (10.250.17.204)
+Host is up (0.10s latency).
+Nmap scan report for n3-17-232.dhcp.drexel.edu (10.250.17.232)
+Host is up (0.069s latency).
+Nmap scan report for n3-17-249.dhcp.drexel.edu (10.250.17.249)
+Host is up (0.036s latency).
+Nmap scan report for n3-18-14.dhcp.drexel.edu (10.250.18.14)
+Host is up (0.085s latency).
+Nmap scan report for n3-18-48.dhcp.drexel.edu (10.250.18.48)
+Host is up (0.062s latency).
+Nmap scan report for n3-18-55.dhcp.drexel.edu (10.250.18.55)
+Host is up (0.11s latency).
+Nmap scan report for n3-18-145.dhcp.drexel.edu (10.250.18.145)
+Host is up (0.084s latency).
+Nmap scan report for n3-18-174.dhcp.drexel.edu (10.250.18.174)
+Host is up (0.047s latency).
+Nmap scan report for n3-18-188.dhcp.drexel.edu (10.250.18.188)
+Host is up (0.032s latency).
+Nmap scan report for n3-18-202.dhcp.drexel.edu (10.250.18.202)
+Host is up (0.0064s latency).
+Nmap scan report for n3-18-226.dhcp.drexel.edu (10.250.18.226)
+Host is up (0.077s latency).
+Nmap scan report for n3-18-233.dhcp.drexel.edu (10.250.18.233)
+Host is up (0.086s latency).
+Nmap scan report for n3-19-13.dhcp.drexel.edu (10.250.19.13)
+Host is up (0.15s latency).
+Nmap scan report for n3-19-14.dhcp.drexel.edu (10.250.19.14)
+Host is up (0.015s latency).
+Nmap scan report for n3-19-21.dhcp.drexel.edu (10.250.19.21)
+Host is up (0.051s latency).
+Nmap scan report for n3-19-93.dhcp.drexel.edu (10.250.19.93)
+Host is up (0.012s latency).
+Nmap scan report for n3-19-196.dhcp.drexel.edu (10.250.19.196)
+Host is up (0.061s latency).
+Nmap scan report for n3-19-200.dhcp.drexel.edu (10.250.19.200)
+Host is up (0.029s latency).
+Nmap scan report for n3-20-13.dhcp.drexel.edu (10.250.20.13)
+Host is up (0.090s latency).
+Nmap scan report for n3-20-23.dhcp.drexel.edu (10.250.20.23)
+Host is up (0.013s latency).
+Nmap scan report for n3-20-56.dhcp.drexel.edu (10.250.20.56)
+Host is up (0.12s latency).
+Nmap scan report for n3-20-59.dhcp.drexel.edu (10.250.20.59)
+Host is up (0.10s latency).
+Nmap scan report for n3-20-65.dhcp.drexel.edu (10.250.20.65)
+Host is up (0.079s latency).
+Nmap scan report for n3-20-82.dhcp.drexel.edu (10.250.20.82)
+Host is up (0.072s latency).
+Nmap scan report for n3-20-197.dhcp.drexel.edu (10.250.20.197)
+Host is up (0.011s latency).
+Nmap scan report for n3-20-214.dhcp.drexel.edu (10.250.20.214)
+Host is up (0.063s latency).
+Nmap scan report for n3-21-10.dhcp.drexel.edu (10.250.21.10)
+Host is up (0.079s latency).
+Nmap scan report for n3-21-13.dhcp.drexel.edu (10.250.21.13)
+Host is up (0.030s latency).
+Nmap scan report for n3-21-66.dhcp.drexel.edu (10.250.21.66)
+Host is up (0.0097s latency).
+Nmap scan report for n3-21-103.dhcp.drexel.edu (10.250.21.103)
+Host is up (0.12s latency).
+Nmap scan report for n3-21-122.dhcp.drexel.edu (10.250.21.122)
+Host is up (0.11s latency).
+Nmap scan report for n3-21-129.dhcp.drexel.edu (10.250.21.129)
+Host is up (0.059s latency).
+Nmap scan report for n3-21-141.dhcp.drexel.edu (10.250.21.141)
+Host is up (0.0065s latency).
+Nmap scan report for n3-21-143.dhcp.drexel.edu (10.250.21.143)
+Host is up (0.14s latency).
+Nmap scan report for n3-21-145.dhcp.drexel.edu (10.250.21.145)
+Host is up (0.019s latency).
+Nmap scan report for n3-21-247.dhcp.drexel.edu (10.250.21.247)
+Host is up (0.053s latency).
+Nmap scan report for n3-22-48.dhcp.drexel.edu (10.250.22.48)
+Host is up (0.095s latency).
+Nmap scan report for n3-22-89.dhcp.drexel.edu (10.250.22.89)
+Host is up (0.13s latency).
+Nmap scan report for n3-22-146.dhcp.drexel.edu (10.250.22.146)
+Host is up (0.081s latency).
+Nmap scan report for n3-22-192.dhcp.drexel.edu (10.250.22.192)
+Host is up (0.13s latency).
+Nmap scan report for n3-22-222.dhcp.drexel.edu (10.250.22.222)
+Host is up (0.0094s latency).
+Nmap scan report for n3-22-235.dhcp.drexel.edu (10.250.22.235)
+Host is up (0.10s latency).
+Nmap scan report for n3-23-17.dhcp.drexel.edu (10.250.23.17)
+Host is up (0.075s latency).
+Nmap scan report for n3-23-81.dhcp.drexel.edu (10.250.23.81)
+Host is up (0.084s latency).
+Nmap scan report for n3-23-104.dhcp.drexel.edu (10.250.23.104)
+Host is up (0.067s latency).
+Nmap scan report for n3-23-113.dhcp.drexel.edu (10.250.23.113)
+Host is up (0.19s latency).
+Nmap scan report for n3-23-132.dhcp.drexel.edu (10.250.23.132)
+Host is up (0.013s latency).
+Nmap scan report for n3-23-139.dhcp.drexel.edu (10.250.23.139)
+Host is up (0.048s latency).
+Nmap scan report for n3-23-144.dhcp.drexel.edu (10.250.23.144)
+Host is up (0.064s latency).
+Nmap scan report for n3-23-158.dhcp.drexel.edu (10.250.23.158)
+Host is up (0.038s latency).
+Nmap scan report for n3-23-163.dhcp.drexel.edu (10.250.23.163)
+Host is up (0.029s latency).
+Nmap scan report for n3-23-164.dhcp.drexel.edu (10.250.23.164)
+Host is up (0.11s latency).
+Nmap scan report for n3-23-180.dhcp.drexel.edu (10.250.23.180)
+Host is up (0.076s latency).
+Nmap scan report for n3-23-194.dhcp.drexel.edu (10.250.23.194)
+Host is up (0.034s latency).
+Nmap scan report for n3-23-237.dhcp.drexel.edu (10.250.23.237)
+Host is up (0.027s latency).
+Nmap scan report for n3-23-242.dhcp.drexel.edu (10.250.23.242)
+Host is up (0.043s latency).
+Nmap scan report for n3-24-54.dhcp.drexel.edu (10.250.24.54)
+Host is up (0.12s latency).
+Nmap scan report for n3-24-99.dhcp.drexel.edu (10.250.24.99)
+Host is up (0.071s latency).
+Nmap scan report for n3-24-117.dhcp.drexel.edu (10.250.24.117)
+Host is up (0.11s latency).
+Nmap scan report for n3-24-170.dhcp.drexel.edu (10.250.24.170)
+Host is up (0.086s latency).
+Nmap scan report for n3-24-176.dhcp.drexel.edu (10.250.24.176)
+Host is up (0.11s latency).
+Nmap scan report for n3-24-200.dhcp.drexel.edu (10.250.24.200)
+Host is up (0.085s latency).
+Nmap scan report for n3-24-201.dhcp.drexel.edu (10.250.24.201)
+Host is up (0.085s latency).
+Nmap scan report for n3-24-206.dhcp.drexel.edu (10.250.24.206)
+Host is up (0.029s latency).
+Nmap scan report for n3-24-207.dhcp.drexel.edu (10.250.24.207)
+Host is up (0.11s latency).
+Nmap scan report for n3-24-229.dhcp.drexel.edu (10.250.24.229)
+Host is up (0.16s latency).
+Nmap scan report for n3-24-230.dhcp.drexel.edu (10.250.24.230)
+Host is up (0.024s latency).
+Nmap scan report for n3-25-59.dhcp.drexel.edu (10.250.25.59)
+Host is up (0.031s latency).
+Nmap scan report for n3-25-65.dhcp.drexel.edu (10.250.25.65)
+Host is up (0.059s latency).
+Nmap scan report for n3-25-113.dhcp.drexel.edu (10.250.25.113)
+Host is up (0.076s latency).
+Nmap scan report for n3-25-177.dhcp.drexel.edu (10.250.25.177)
+Host is up (0.11s latency).
+Nmap scan report for n3-25-196.dhcp.drexel.edu (10.250.25.196)
+Host is up (0.11s latency).
+Nmap scan report for n3-25-220.dhcp.drexel.edu (10.250.25.220)
+Host is up (0.11s latency).
+Nmap scan report for n3-25-233.dhcp.drexel.edu (10.250.25.233)
+Host is up (0.010s latency).
+Nmap scan report for n3-26-23.dhcp.drexel.edu (10.250.26.23)
+Host is up (0.019s latency).
+Nmap scan report for n3-26-24.dhcp.drexel.edu (10.250.26.24)
+Host is up (0.074s latency).
+Nmap scan report for n3-26-40.dhcp.drexel.edu (10.250.26.40)
+Host is up (0.052s latency).
+Nmap scan report for n3-26-45.dhcp.drexel.edu (10.250.26.45)
+Host is up (0.012s latency).
+Nmap scan report for n3-26-49.dhcp.drexel.edu (10.250.26.49)
+Host is up (0.19s latency).
+Nmap scan report for n3-26-50.dhcp.drexel.edu (10.250.26.50)
+Host is up (0.079s latency).
+Nmap scan report for n3-26-75.dhcp.drexel.edu (10.250.26.75)
+Host is up (0.13s latency).
+Nmap scan report for n3-26-124.dhcp.drexel.edu (10.250.26.124)
+Host is up (0.089s latency).
+Nmap scan report for n3-26-161.dhcp.drexel.edu (10.250.26.161)
+Host is up (0.11s latency).
+Nmap scan report for n3-26-192.dhcp.drexel.edu (10.250.26.192)
+Host is up (0.031s latency).
+Nmap scan report for n3-26-209.dhcp.drexel.edu (10.250.26.209)
+Host is up (0.024s latency).
+Nmap scan report for n3-26-247.dhcp.drexel.edu (10.250.26.247)
+Host is up (0.079s latency).
+Nmap scan report for n3-27-25.dhcp.drexel.edu (10.250.27.25)
+Host is up (0.092s latency).
+Nmap scan report for n3-27-47.dhcp.drexel.edu (10.250.27.47)
+Host is up (0.23s latency).
+Nmap scan report for n3-27-85.dhcp.drexel.edu (10.250.27.85)
+Host is up (0.12s latency).
+Nmap scan report for n3-27-89.dhcp.drexel.edu (10.250.27.89)
+Host is up (0.010s latency).
+Nmap scan report for n3-27-106.dhcp.drexel.edu (10.250.27.106)
+Host is up (0.046s latency).
+Nmap scan report for n3-27-114.dhcp.drexel.edu (10.250.27.114)
+Host is up (0.11s latency).
+Nmap scan report for n3-27-171.dhcp.drexel.edu (10.250.27.171)
+Host is up (0.070s latency).
+Nmap scan report for n3-27-175.dhcp.drexel.edu (10.250.27.175)
+Host is up (0.023s latency).
+Nmap scan report for n3-27-178.dhcp.drexel.edu (10.250.27.178)
+Host is up (0.033s latency).
+Nmap scan report for n3-27-179.dhcp.drexel.edu (10.250.27.179)
+Host is up (0.11s latency).
+Nmap scan report for n3-27-211.dhcp.drexel.edu (10.250.27.211)
+Host is up (0.16s latency).
+Nmap scan report for n3-27-215.dhcp.drexel.edu (10.250.27.215)
+Host is up (0.013s latency).
+Nmap scan report for n3-27-233.dhcp.drexel.edu (10.250.27.233)
+Host is up (0.014s latency).
+Nmap scan report for n3-27-254.dhcp.drexel.edu (10.250.27.254)
+Host is up (0.080s latency).
+Nmap scan report for n3-28-8.dhcp.drexel.edu (10.250.28.8)
+Host is up (0.020s latency).
+Nmap scan report for n3-28-9.dhcp.drexel.edu (10.250.28.9)
+Host is up (0.075s latency).
+Nmap scan report for n3-28-18.dhcp.drexel.edu (10.250.28.18)
+Host is up (0.062s latency).
+Nmap scan report for n3-28-28.dhcp.drexel.edu (10.250.28.28)
+Host is up (0.045s latency).
+Nmap scan report for n3-28-48.dhcp.drexel.edu (10.250.28.48)
+Host is up (0.091s latency).
+Nmap scan report for n3-28-90.dhcp.drexel.edu (10.250.28.90)
+Host is up (0.020s latency).
+Nmap scan report for n3-28-93.dhcp.drexel.edu (10.250.28.93)
+Host is up (0.022s latency).
+Nmap scan report for n3-28-95.dhcp.drexel.edu (10.250.28.95)
+Host is up (0.082s latency).
+Nmap scan report for n3-28-112.dhcp.drexel.edu (10.250.28.112)
+Host is up (0.037s latency).
+Nmap scan report for n3-28-198.dhcp.drexel.edu (10.250.28.198)
+Host is up (0.019s latency).
+Nmap scan report for n3-29-8.dhcp.drexel.edu (10.250.29.8)
+Host is up (0.044s latency).
+Nmap scan report for n3-29-17.dhcp.drexel.edu (10.250.29.17)
+Host is up (0.055s latency).
+Nmap scan report for n3-29-37.dhcp.drexel.edu (10.250.29.37)
+Host is up (0.095s latency).
+Nmap scan report for n3-29-45.dhcp.drexel.edu (10.250.29.45)
+Host is up (0.083s latency).
+Nmap scan report for n3-29-47.dhcp.drexel.edu (10.250.29.47)
+Host is up (0.011s latency).
+Nmap scan report for n3-29-159.dhcp.drexel.edu (10.250.29.159)
+Host is up (0.048s latency).
+Nmap scan report for n3-29-184.dhcp.drexel.edu (10.250.29.184)
+Host is up (0.018s latency).
+Nmap scan report for n3-29-254.dhcp.drexel.edu (10.250.29.254)
+Host is up (0.080s latency).
+Nmap scan report for n3-30-218.dhcp.drexel.edu (10.250.30.218)
+Host is up (0.056s latency).
+Nmap scan report for n3-31-31.dhcp.drexel.edu (10.250.31.31)
+Host is up (0.060s latency).
+Nmap scan report for n3-31-55.dhcp.drexel.edu (10.250.31.55)
+Host is up (0.086s latency).
+Nmap scan report for n3-31-80.dhcp.drexel.edu (10.250.31.80)
+Host is up (0.043s latency).
+Nmap scan report for n3-31-225.dhcp.drexel.edu (10.250.31.225)
+Host is up (0.012s latency).
+Nmap scan report for n3-31-231.dhcp.drexel.edu (10.250.31.231)
+Host is up (0.065s latency).
+Nmap scan report for n3-31-254.dhcp.drexel.edu (10.250.31.254)
+Host is up (0.089s latency).
+Nmap scan report for n3-32-32.dhcp.drexel.edu (10.250.32.32)
+Host is up (0.017s latency).
+Nmap scan report for n3-32-40.dhcp.drexel.edu (10.250.32.40)
+Host is up (0.10s latency).
+Nmap scan report for n3-32-114.dhcp.drexel.edu (10.250.32.114)
+Host is up (0.21s latency).
+Nmap scan report for n3-32-145.dhcp.drexel.edu (10.250.32.145)
+Host is up (0.071s latency).
+Nmap scan report for n3-32-146.dhcp.drexel.edu (10.250.32.146)
+Host is up (0.091s latency).
+Nmap scan report for n3-32-239.dhcp.drexel.edu (10.250.32.239)
+Host is up (0.047s latency).
+Nmap scan report for n3-32-244.dhcp.drexel.edu (10.250.32.244)
+Host is up (0.12s latency).
+Nmap scan report for n3-33-58.dhcp.drexel.edu (10.250.33.58)
+Host is up (0.010s latency).
+Nmap scan report for n3-33-66.dhcp.drexel.edu (10.250.33.66)
+Host is up (0.053s latency).
+Nmap scan report for n3-33-73.dhcp.drexel.edu (10.250.33.73)
+Host is up (0.030s latency).
+Nmap scan report for n3-33-78.dhcp.drexel.edu (10.250.33.78)
+Host is up (0.010s latency).
+Nmap scan report for n3-33-97.dhcp.drexel.edu (10.250.33.97)
+Host is up (0.092s latency).
+Nmap scan report for n3-33-110.dhcp.drexel.edu (10.250.33.110)
+Host is up (0.11s latency).
+Nmap scan report for n3-33-116.dhcp.drexel.edu (10.250.33.116)
+Host is up (0.12s latency).
+Nmap scan report for n3-33-129.dhcp.drexel.edu (10.250.33.129)
+Host is up (0.093s latency).
+Nmap scan report for n3-33-133.dhcp.drexel.edu (10.250.33.133)
+Host is up (0.12s latency).
+Nmap scan report for n3-34-33.dhcp.drexel.edu (10.250.34.33)
+Host is up (0.051s latency).
+Nmap scan report for n3-34-42.dhcp.drexel.edu (10.250.34.42)
+Host is up (0.010s latency).
+Nmap scan report for n3-34-94.dhcp.drexel.edu (10.250.34.94)
+Host is up (0.010s latency).
+Nmap scan report for n3-34-108.dhcp.drexel.edu (10.250.34.108)
+Host is up (0.027s latency).
+Nmap scan report for n3-34-164.dhcp.drexel.edu (10.250.34.164)
+Host is up (0.035s latency).
+Nmap scan report for n3-34-167.dhcp.drexel.edu (10.250.34.167)
+Host is up (0.012s latency).
+Nmap scan report for n3-34-213.dhcp.drexel.edu (10.250.34.213)
+Host is up (0.057s latency).
+Nmap scan report for n3-35-92.dhcp.drexel.edu (10.250.35.92)
+Host is up (0.13s latency).
+Nmap scan report for n3-35-103.dhcp.drexel.edu (10.250.35.103)
+Host is up (0.16s latency).
+Nmap scan report for n3-35-104.dhcp.drexel.edu (10.250.35.104)
+Host is up (0.017s latency).
+Nmap scan report for n3-35-136.dhcp.drexel.edu (10.250.35.136)
+Host is up (0.063s latency).
+Nmap scan report for n3-35-141.dhcp.drexel.edu (10.250.35.141)
+Host is up (0.12s latency).
+Nmap scan report for n3-35-236.dhcp.drexel.edu (10.250.35.236)
+Host is up (0.033s latency).
+Nmap scan report for n3-35-248.dhcp.drexel.edu (10.250.35.248)
+Host is up (0.039s latency).
+Nmap scan report for n3-36-38.dhcp.drexel.edu (10.250.36.38)
+Host is up (0.11s latency).
+Nmap scan report for n3-36-47.dhcp.drexel.edu (10.250.36.47)
+Host is up (0.011s latency).
+Nmap scan report for n3-36-68.dhcp.drexel.edu (10.250.36.68)
+Host is up (0.038s latency).
+Nmap scan report for n3-36-83.dhcp.drexel.edu (10.250.36.83)
+Host is up (0.013s latency).
+Nmap scan report for n3-36-86.dhcp.drexel.edu (10.250.36.86)
+Host is up (0.10s latency).
+Nmap scan report for n3-36-173.dhcp.drexel.edu (10.250.36.173)
+Host is up (0.057s latency).
+Nmap scan report for n3-36-237.dhcp.drexel.edu (10.250.36.237)
+Host is up (0.10s latency).
+Nmap scan report for n3-36-253.dhcp.drexel.edu (10.250.36.253)
+Host is up (0.062s latency).
+Nmap scan report for n3-37-4.dhcp.drexel.edu (10.250.37.4)
+Host is up (0.026s latency).
+Nmap scan report for n3-37-60.dhcp.drexel.edu (10.250.37.60)
+Host is up (0.0083s latency).
+Nmap scan report for n3-37-92.dhcp.drexel.edu (10.250.37.92)
+Host is up (0.021s latency).
+Nmap scan report for n3-37-93.dhcp.drexel.edu (10.250.37.93)
+Host is up (0.10s latency).
+Nmap scan report for n3-37-132.dhcp.drexel.edu (10.250.37.132)
+Host is up (0.10s latency).
+Nmap scan report for n3-37-147.dhcp.drexel.edu (10.250.37.147)
+Host is up (0.13s latency).
+Nmap scan report for n3-37-228.dhcp.drexel.edu (10.250.37.228)
+Host is up (0.12s latency).
+Nmap scan report for n3-37-251.dhcp.drexel.edu (10.250.37.251)
+Host is up (0.096s latency).
+Nmap scan report for n3-38-25.dhcp.drexel.edu (10.250.38.25)
+Host is up (0.040s latency).
+Nmap scan report for n3-38-65.dhcp.drexel.edu (10.250.38.65)
+Host is up (0.015s latency).
+Nmap scan report for n3-38-110.dhcp.drexel.edu (10.250.38.110)
+Host is up (0.23s latency).
+Nmap scan report for n3-38-119.dhcp.drexel.edu (10.250.38.119)
+Host is up (0.28s latency).
+Nmap scan report for n3-38-147.dhcp.drexel.edu (10.250.38.147)
+Host is up (0.015s latency).
+Nmap scan report for n3-38-149.dhcp.drexel.edu (10.250.38.149)
+Host is up (0.0070s latency).
+Nmap scan report for n3-38-156.dhcp.drexel.edu (10.250.38.156)
+Host is up (0.060s latency).
+Nmap scan report for n3-38-169.dhcp.drexel.edu (10.250.38.169)
+Host is up (0.087s latency).
+Nmap scan report for n3-38-190.dhcp.drexel.edu (10.250.38.190)
+Host is up (0.031s latency).
+Nmap scan report for n3-38-194.dhcp.drexel.edu (10.250.38.194)
+Host is up (0.14s latency).
+Nmap scan report for n3-38-196.dhcp.drexel.edu (10.250.38.196)
+Host is up (0.16s latency).
+Nmap scan report for n3-38-220.dhcp.drexel.edu (10.250.38.220)
+Host is up (0.14s latency).
+Nmap scan report for n3-38-224.dhcp.drexel.edu (10.250.38.224)
+Host is up (0.11s latency).
+Nmap scan report for n3-38-234.dhcp.drexel.edu (10.250.38.234)
+Host is up (0.064s latency).
+Nmap scan report for n3-38-236.dhcp.drexel.edu (10.250.38.236)
+Host is up (0.044s latency).
+Nmap scan report for n3-39-1.dhcp.drexel.edu (10.250.39.1)
+Host is up (0.066s latency).
+Nmap scan report for n3-39-16.dhcp.drexel.edu (10.250.39.16)
+Host is up (0.093s latency).
+Nmap scan report for n3-39-31.dhcp.drexel.edu (10.250.39.31)
+Host is up (0.15s latency).
+Nmap scan report for n3-39-40.dhcp.drexel.edu (10.250.39.40)
+Host is up (0.012s latency).
+Nmap scan report for n3-39-137.dhcp.drexel.edu (10.250.39.137)
+Host is up (0.12s latency).
+Nmap scan report for n3-39-140.dhcp.drexel.edu (10.250.39.140)
+Host is up (0.091s latency).
+Nmap scan report for n3-39-143.dhcp.drexel.edu (10.250.39.143)
+Host is up (0.017s latency).
+Nmap scan report for n3-39-153.dhcp.drexel.edu (10.250.39.153)
+Host is up (0.014s latency).
+Nmap scan report for n3-39-156.dhcp.drexel.edu (10.250.39.156)
+Host is up (0.20s latency).
+Nmap scan report for n3-39-160.dhcp.drexel.edu (10.250.39.160)
+Host is up (0.20s latency).
+Nmap scan report for n3-39-166.dhcp.drexel.edu (10.250.39.166)
+Host is up (0.11s latency).
+Nmap scan report for n3-39-204.dhcp.drexel.edu (10.250.39.204)
+Host is up (0.071s latency).
+Nmap scan report for n3-39-227.dhcp.drexel.edu (10.250.39.227)
+Host is up (0.023s latency).
+Nmap scan report for n3-40-0.dhcp.drexel.edu (10.250.40.0)
+Host is up (0.040s latency).
+Nmap scan report for n3-40-9.dhcp.drexel.edu (10.250.40.9)
+Host is up (0.093s latency).
+Nmap scan report for n3-40-28.dhcp.drexel.edu (10.250.40.28)
+Host is up (0.016s latency).
+Nmap scan report for n3-40-66.dhcp.drexel.edu (10.250.40.66)
+Host is up (0.051s latency).
+Nmap scan report for n3-40-95.dhcp.drexel.edu (10.250.40.95)
+Host is up (0.13s latency).
+Nmap scan report for n3-40-111.dhcp.drexel.edu (10.250.40.111)
+Host is up (0.0067s latency).
+Nmap scan report for n3-40-120.dhcp.drexel.edu (10.250.40.120)
+Host is up (0.11s latency).
+Nmap scan report for n3-40-132.dhcp.drexel.edu (10.250.40.132)
+Host is up (0.0068s latency).
+Nmap scan report for n3-40-198.dhcp.drexel.edu (10.250.40.198)
+Host is up (0.071s latency).
+Nmap scan report for n3-40-210.dhcp.drexel.edu (10.250.40.210)
+Host is up (0.029s latency).
+Nmap scan report for n3-40-221.dhcp.drexel.edu (10.250.40.221)
+Host is up (0.099s latency).
+Nmap scan report for n3-40-254.dhcp.drexel.edu (10.250.40.254)
+Host is up (0.011s latency).
+Nmap scan report for n3-41-66.dhcp.drexel.edu (10.250.41.66)
+Host is up (0.010s latency).
+Nmap scan report for n3-41-68.dhcp.drexel.edu (10.250.41.68)
+Host is up (0.012s latency).
+Nmap scan report for n3-41-80.dhcp.drexel.edu (10.250.41.80)
+Host is up (0.13s latency).
+Nmap scan report for n3-41-94.dhcp.drexel.edu (10.250.41.94)
+Host is up (0.077s latency).
+Nmap scan report for n3-41-172.dhcp.drexel.edu (10.250.41.172)
+Host is up (0.058s latency).
+Nmap scan report for n3-41-207.dhcp.drexel.edu (10.250.41.207)
+Host is up (0.14s latency).
+Nmap scan report for n3-41-249.dhcp.drexel.edu (10.250.41.249)
+Host is up (0.19s latency).
+Nmap scan report for n3-42-34.dhcp.drexel.edu (10.250.42.34)
+Host is up (0.069s latency).
+Nmap scan report for n3-42-90.dhcp.drexel.edu (10.250.42.90)
+Host is up (0.094s latency).
+Nmap scan report for n3-42-115.dhcp.drexel.edu (10.250.42.115)
+Host is up (0.048s latency).
+Nmap scan report for n3-42-148.dhcp.drexel.edu (10.250.42.148)
+Host is up (0.11s latency).
+Nmap scan report for n3-42-199.dhcp.drexel.edu (10.250.42.199)
+Host is up (0.11s latency).
+Nmap scan report for n3-42-206.dhcp.drexel.edu (10.250.42.206)
+Host is up (0.18s latency).
+Nmap scan report for n3-42-231.dhcp.drexel.edu (10.250.42.231)
+Host is up (0.042s latency).
+Nmap scan report for n3-43-33.dhcp.drexel.edu (10.250.43.33)
+Host is up (0.023s latency).
+Nmap scan report for n3-43-119.dhcp.drexel.edu (10.250.43.119)
+Host is up (0.0084s latency).
+Nmap scan report for n3-43-125.dhcp.drexel.edu (10.250.43.125)
+Host is up (0.11s latency).
+Nmap scan report for n3-43-164.dhcp.drexel.edu (10.250.43.164)
+Host is up (0.079s latency).
+Nmap scan report for n3-43-195.dhcp.drexel.edu (10.250.43.195)
+Host is up (0.091s latency).
+Nmap scan report for n3-43-197.dhcp.drexel.edu (10.250.43.197)
+Host is up (0.069s latency).
+Nmap scan report for n3-44-44.dhcp.drexel.edu (10.250.44.44)
+Host is up (0.065s latency).
+Nmap scan report for n3-44-62.dhcp.drexel.edu (10.250.44.62)
+Host is up (0.12s latency).
+Nmap scan report for n3-44-66.dhcp.drexel.edu (10.250.44.66)
+Host is up (0.094s latency).
+Nmap scan report for n3-44-145.dhcp.drexel.edu (10.250.44.145)
+Host is up (0.12s latency).
+Nmap scan report for n3-44-162.dhcp.drexel.edu (10.250.44.162)
+Host is up (0.091s latency).
+Nmap scan report for n3-44-170.dhcp.drexel.edu (10.250.44.170)
+Host is up (0.030s latency).
+Nmap scan report for n3-44-209.dhcp.drexel.edu (10.250.44.209)
+Host is up (0.075s latency).
+Nmap scan report for n3-44-216.dhcp.drexel.edu (10.250.44.216)
+Host is up (0.11s latency).
+Nmap scan report for n3-44-223.dhcp.drexel.edu (10.250.44.223)
+Host is up (0.097s latency).
+Nmap scan report for n3-45-12.dhcp.drexel.edu (10.250.45.12)
+Host is up (0.091s latency).
+Nmap scan report for n3-45-18.dhcp.drexel.edu (10.250.45.18)
+Host is up (0.16s latency).
+Nmap scan report for n3-45-65.dhcp.drexel.edu (10.250.45.65)
+Host is up (0.050s latency).
+Nmap scan report for n3-45-97.dhcp.drexel.edu (10.250.45.97)
+Host is up (0.035s latency).
+Nmap scan report for n3-45-106.dhcp.drexel.edu (10.250.45.106)
+Host is up (0.090s latency).
+Nmap scan report for n3-45-150.dhcp.drexel.edu (10.250.45.150)
+Host is up (0.0098s latency).
+Nmap scan report for n3-45-191.dhcp.drexel.edu (10.250.45.191)
+Host is up (0.089s latency).
+Nmap scan report for n3-45-209.dhcp.drexel.edu (10.250.45.209)
+Host is up (0.062s latency).
+Nmap scan report for n3-45-211.dhcp.drexel.edu (10.250.45.211)
+Host is up (0.062s latency).
+Nmap scan report for n3-46-10.dhcp.drexel.edu (10.250.46.10)
+Host is up (0.066s latency).
+Nmap scan report for n3-46-27.dhcp.drexel.edu (10.250.46.27)
+Host is up (0.11s latency).
+Nmap scan report for n3-46-55.dhcp.drexel.edu (10.250.46.55)
+Host is up (0.072s latency).
+Nmap scan report for n3-46-71.dhcp.drexel.edu (10.250.46.71)
+Host is up (0.17s latency).
+Nmap scan report for n3-46-83.dhcp.drexel.edu (10.250.46.83)
+Host is up (0.071s latency).
+Nmap scan report for n3-46-108.dhcp.drexel.edu (10.250.46.108)
+Host is up (0.035s latency).
+Nmap scan report for n3-46-136.dhcp.drexel.edu (10.250.46.136)
+Host is up (0.022s latency).
+Nmap scan report for n3-46-148.dhcp.drexel.edu (10.250.46.148)
+Host is up (0.030s latency).
+Nmap scan report for n3-46-167.dhcp.drexel.edu (10.250.46.167)
+Host is up (0.030s latency).
+Nmap scan report for n3-46-170.dhcp.drexel.edu (10.250.46.170)
+Host is up (0.048s latency).
+Nmap scan report for n3-46-172.dhcp.drexel.edu (10.250.46.172)
+Host is up (0.017s latency).
+Nmap scan report for n3-46-226.dhcp.drexel.edu (10.250.46.226)
+Host is up (0.012s latency).
+Nmap scan report for n3-47-0.dhcp.drexel.edu (10.250.47.0)
+Host is up (0.099s latency).
+Nmap scan report for n3-47-12.dhcp.drexel.edu (10.250.47.12)
+Host is up (0.031s latency).
+Nmap scan report for n3-47-38.dhcp.drexel.edu (10.250.47.38)
+Host is up (0.11s latency).
+Nmap scan report for n3-47-47.dhcp.drexel.edu (10.250.47.47)
+Host is up (0.088s latency).
+Nmap scan report for n3-47-52.dhcp.drexel.edu (10.250.47.52)
+Host is up (0.052s latency).
+Nmap scan report for n3-47-60.dhcp.drexel.edu (10.250.47.60)
+Host is up (0.029s latency).
+Nmap scan report for n3-47-120.dhcp.drexel.edu (10.250.47.120)
+Host is up (0.011s latency).
+Nmap scan report for n3-47-139.dhcp.drexel.edu (10.250.47.139)
+Host is up (0.094s latency).
+Nmap scan report for n3-47-182.dhcp.drexel.edu (10.250.47.182)
+Host is up (0.023s latency).
+Nmap scan report for n3-47-183.dhcp.drexel.edu (10.250.47.183)
+Host is up (0.088s latency).
+Nmap scan report for n3-47-191.dhcp.drexel.edu (10.250.47.191)
+Host is up (0.0068s latency).
+Nmap scan report for n3-47-199.dhcp.drexel.edu (10.250.47.199)
+Host is up (0.013s latency).
+Nmap scan report for n3-47-210.dhcp.drexel.edu (10.250.47.210)
+Host is up (0.045s latency).
+Nmap scan report for n3-47-234.dhcp.drexel.edu (10.250.47.234)
+Host is up (0.0038s latency).
+Nmap scan report for drexel-spare3-v3013.noc.drexel.edu (10.250.47.242)
+Host is up (0.048s latency).
+Nmap scan report for drexel-local2-v3013.noc.drexel.edu (10.250.47.247)
+Host is up (0.0088s latency).
+Nmap scan report for n3-48-68.dhcp.drexel.edu (10.250.48.68)
+Host is up (0.11s latency).
+Nmap scan report for n3-48-94.dhcp.drexel.edu (10.250.48.94)
+Host is up (0.11s latency).
+Nmap scan report for n3-48-106.dhcp.drexel.edu (10.250.48.106)
+Host is up (0.018s latency).
+Nmap scan report for n3-48-135.dhcp.drexel.edu (10.250.48.135)
+Host is up (0.076s latency).
+Nmap scan report for n3-48-179.dhcp.drexel.edu (10.250.48.179)
+Host is up (0.16s latency).
+Nmap scan report for n3-48-213.dhcp.drexel.edu (10.250.48.213)
+Host is up (0.024s latency).
+Nmap scan report for n3-48-220.dhcp.drexel.edu (10.250.48.220)
+Host is up (0.070s latency).
+Nmap scan report for n3-48-251.dhcp.drexel.edu (10.250.48.251)
+Host is up (0.16s latency).
+Nmap scan report for n3-49-10.dhcp.drexel.edu (10.250.49.10)
+Host is up (0.085s latency).
+Nmap scan report for n3-49-28.dhcp.drexel.edu (10.250.49.28)
+Host is up (0.074s latency).
+Nmap scan report for n3-49-33.dhcp.drexel.edu (10.250.49.33)
+Host is up (0.0085s latency).
+Nmap scan report for n3-49-83.dhcp.drexel.edu (10.250.49.83)
+Host is up (0.017s latency).
+Nmap scan report for n3-49-93.dhcp.drexel.edu (10.250.49.93)
+Host is up (0.034s latency).
+Nmap scan report for n3-49-138.dhcp.drexel.edu (10.250.49.138)
+Host is up (0.18s latency).
+Nmap scan report for n3-49-140.dhcp.drexel.edu (10.250.49.140)
+Host is up (0.013s latency).
+Nmap scan report for n3-49-147.dhcp.drexel.edu (10.250.49.147)
+Host is up (0.092s latency).
+Nmap scan report for n3-49-152.dhcp.drexel.edu (10.250.49.152)
+Host is up (0.050s latency).
+Nmap scan report for n3-49-163.dhcp.drexel.edu (10.250.49.163)
+Host is up (0.34s latency).
+Nmap scan report for n3-49-181.dhcp.drexel.edu (10.250.49.181)
+Host is up (0.0093s latency).
+Nmap scan report for n3-49-203.dhcp.drexel.edu (10.250.49.203)
+Host is up (0.018s latency).
+Nmap scan report for n3-49-206.dhcp.drexel.edu (10.250.49.206)
+Host is up (0.075s latency).
+Nmap scan report for n3-49-240.dhcp.drexel.edu (10.250.49.240)
+Host is up (0.050s latency).
+Nmap scan report for n3-50-17.dhcp.drexel.edu (10.250.50.17)
+Host is up (0.019s latency).
+Nmap scan report for n3-50-49.dhcp.drexel.edu (10.250.50.49)
+Host is up (0.011s latency).
+Nmap scan report for n3-50-117.dhcp.drexel.edu (10.250.50.117)
+Host is up (0.085s latency).
+Nmap scan report for n3-50-154.dhcp.drexel.edu (10.250.50.154)
+Host is up (0.11s latency).
+Nmap scan report for n3-50-204.dhcp.drexel.edu (10.250.50.204)
+Host is up (0.070s latency).
+Nmap scan report for n3-50-214.dhcp.drexel.edu (10.250.50.214)
+Host is up (0.020s latency).
+Nmap scan report for n3-51-9.dhcp.drexel.edu (10.250.51.9)
+Host is up (0.12s latency).
+Nmap scan report for n3-51-46.dhcp.drexel.edu (10.250.51.46)
+Host is up (0.047s latency).
+Nmap scan report for n3-51-77.dhcp.drexel.edu (10.250.51.77)
+Host is up (0.12s latency).
+Nmap scan report for n3-51-94.dhcp.drexel.edu (10.250.51.94)
+Host is up (0.016s latency).
+Nmap scan report for n3-51-152.dhcp.drexel.edu (10.250.51.152)
+Host is up (0.013s latency).
+Nmap scan report for n3-51-187.dhcp.drexel.edu (10.250.51.187)
+Host is up (0.071s latency).
+Nmap scan report for n3-51-188.dhcp.drexel.edu (10.250.51.188)
+Host is up (0.035s latency).
+Nmap scan report for n3-51-190.dhcp.drexel.edu (10.250.51.190)
+Host is up (0.079s latency).
+Nmap scan report for n3-51-200.dhcp.drexel.edu (10.250.51.200)
+Host is up (0.065s latency).
+Nmap scan report for n3-51-244.dhcp.drexel.edu (10.250.51.244)
+Host is up (0.082s latency).
+Nmap scan report for n3-52-2.dhcp.drexel.edu (10.250.52.2)
+Host is up (0.031s latency).
+Nmap scan report for n3-52-23.dhcp.drexel.edu (10.250.52.23)
+Host is up (0.12s latency).
+Nmap scan report for n3-52-38.dhcp.drexel.edu (10.250.52.38)
+Host is up (0.015s latency).
+Nmap scan report for n3-52-97.dhcp.drexel.edu (10.250.52.97)
+Host is up (0.11s latency).
+Nmap scan report for n3-52-107.dhcp.drexel.edu (10.250.52.107)
+Host is up (0.12s latency).
+Nmap scan report for n3-52-138.dhcp.drexel.edu (10.250.52.138)
+Host is up (0.040s latency).
+Nmap scan report for n3-52-140.dhcp.drexel.edu (10.250.52.140)
+Host is up (0.094s latency).
+Nmap scan report for n3-52-160.dhcp.drexel.edu (10.250.52.160)
+Host is up (0.040s latency).
+Nmap scan report for n3-52-246.dhcp.drexel.edu (10.250.52.246)
+Host is up (0.012s latency).
+Nmap scan report for n3-52-250.dhcp.drexel.edu (10.250.52.250)
+Host is up (0.12s latency).
+Nmap scan report for n3-53-0.dhcp.drexel.edu (10.250.53.0)
+Host is up (0.010s latency).
+Nmap scan report for n3-53-6.dhcp.drexel.edu (10.250.53.6)
+Host is up (0.13s latency).
+Nmap scan report for n3-53-40.dhcp.drexel.edu (10.250.53.40)
+Host is up (0.034s latency).
+Nmap scan report for n3-53-45.dhcp.drexel.edu (10.250.53.45)
+Host is up (0.10s latency).
+Nmap scan report for n3-53-124.dhcp.drexel.edu (10.250.53.124)
+Host is up (0.056s latency).
+Nmap scan report for n3-53-151.dhcp.drexel.edu (10.250.53.151)
+Host is up (0.080s latency).
+Nmap scan report for n3-53-172.dhcp.drexel.edu (10.250.53.172)
+Host is up (0.086s latency).
+Nmap scan report for n3-53-192.dhcp.drexel.edu (10.250.53.192)
+Host is up (0.071s latency).
+Nmap scan report for n3-53-219.dhcp.drexel.edu (10.250.53.219)
+Host is up (0.076s latency).
+Nmap scan report for n3-53-226.dhcp.drexel.edu (10.250.53.226)
+Host is up (0.13s latency).
+Nmap scan report for n3-53-230.dhcp.drexel.edu (10.250.53.230)
+Host is up (0.051s latency).
+Nmap scan report for n3-54-0.dhcp.drexel.edu (10.250.54.0)
+Host is up (0.040s latency).
+Nmap scan report for n3-54-8.dhcp.drexel.edu (10.250.54.8)
+Host is up (0.044s latency).
+Nmap scan report for n3-54-14.dhcp.drexel.edu (10.250.54.14)
+Host is up (0.17s latency).
+Nmap scan report for n3-54-18.dhcp.drexel.edu (10.250.54.18)
+Host is up (0.10s latency).
+Nmap scan report for n3-54-20.dhcp.drexel.edu (10.250.54.20)
+Host is up (0.037s latency).
+Nmap scan report for n3-54-27.dhcp.drexel.edu (10.250.54.27)
+Host is up (0.022s latency).
+Nmap scan report for n3-54-87.dhcp.drexel.edu (10.250.54.87)
+Host is up (0.013s latency).
+Nmap scan report for n3-54-166.dhcp.drexel.edu (10.250.54.166)
+Host is up (0.12s latency).
+Nmap scan report for n3-54-176.dhcp.drexel.edu (10.250.54.176)
+Host is up (0.093s latency).
+Nmap scan report for n3-54-179.dhcp.drexel.edu (10.250.54.179)
+Host is up (0.058s latency).
+Nmap scan report for n3-54-207.dhcp.drexel.edu (10.250.54.207)
+Host is up (0.044s latency).
+Nmap scan report for n3-55-43.dhcp.drexel.edu (10.250.55.43)
+Host is up (0.13s latency).
+Nmap scan report for n3-55-47.dhcp.drexel.edu (10.250.55.47)
+Host is up (0.11s latency).
+Nmap scan report for n3-55-52.dhcp.drexel.edu (10.250.55.52)
+Host is up (0.11s latency).
+Nmap scan report for n3-55-66.dhcp.drexel.edu (10.250.55.66)
+Host is up (0.078s latency).
+Nmap scan report for n3-55-73.dhcp.drexel.edu (10.250.55.73)
+Host is up (0.085s latency).
+Nmap scan report for n3-55-79.dhcp.drexel.edu (10.250.55.79)
+Host is up (0.13s latency).
+Nmap scan report for n3-55-84.dhcp.drexel.edu (10.250.55.84)
+Host is up (0.0046s latency).
+Nmap scan report for n3-55-90.dhcp.drexel.edu (10.250.55.90)
+Host is up (0.053s latency).
+Nmap scan report for n3-55-98.dhcp.drexel.edu (10.250.55.98)
+Host is up (0.094s latency).
+Nmap scan report for n3-55-109.dhcp.drexel.edu (10.250.55.109)
+Host is up (0.050s latency).
+Nmap scan report for n3-55-124.dhcp.drexel.edu (10.250.55.124)
+Host is up (0.11s latency).
+Nmap scan report for n3-55-148.dhcp.drexel.edu (10.250.55.148)
+Host is up (0.059s latency).
+Nmap scan report for n3-55-150.dhcp.drexel.edu (10.250.55.150)
+Host is up (0.12s latency).
+Nmap scan report for n3-55-157.dhcp.drexel.edu (10.250.55.157)
+Host is up (0.075s latency).
+Nmap scan report for n3-55-180.dhcp.drexel.edu (10.250.55.180)
+Host is up (0.23s latency).
+Nmap scan report for n3-55-183.dhcp.drexel.edu (10.250.55.183)
+Host is up (0.22s latency).
+Nmap scan report for n3-55-196.dhcp.drexel.edu (10.250.55.196)
+Host is up (0.20s latency).
+Nmap scan report for n3-55-253.dhcp.drexel.edu (10.250.55.253)
+Host is up (0.094s latency).
+Nmap scan report for n3-56-29.dhcp.drexel.edu (10.250.56.29)
+Host is up (0.11s latency).
+Nmap scan report for n3-56-32.dhcp.drexel.edu (10.250.56.32)
+Host is up (0.013s latency).
+Nmap scan report for n3-56-59.dhcp.drexel.edu (10.250.56.59)
+Host is up (0.074s latency).
+Nmap scan report for n3-56-68.dhcp.drexel.edu (10.250.56.68)
+Host is up (0.011s latency).
+Nmap scan report for n3-56-69.dhcp.drexel.edu (10.250.56.69)
+Host is up (0.10s latency).
+Nmap scan report for n3-56-130.dhcp.drexel.edu (10.250.56.130)
+Host is up (0.021s latency).
+Nmap scan report for n3-56-141.dhcp.drexel.edu (10.250.56.141)
+Host is up (0.015s latency).
+Nmap scan report for n3-56-152.dhcp.drexel.edu (10.250.56.152)
+Host is up (0.13s latency).
+Nmap scan report for n3-56-159.dhcp.drexel.edu (10.250.56.159)
+Host is up (0.12s latency).
+Nmap scan report for n3-56-204.dhcp.drexel.edu (10.250.56.204)
+Host is up (0.045s latency).
+Nmap scan report for n3-56-208.dhcp.drexel.edu (10.250.56.208)
+Host is up (0.017s latency).
+Nmap scan report for n3-56-212.dhcp.drexel.edu (10.250.56.212)
+Host is up (0.019s latency).
+Nmap scan report for n3-57-1.dhcp.drexel.edu (10.250.57.1)
+Host is up (0.059s latency).
+Nmap scan report for n3-57-21.dhcp.drexel.edu (10.250.57.21)
+Host is up (0.24s latency).
+Nmap scan report for n3-57-41.dhcp.drexel.edu (10.250.57.41)
+Host is up (0.046s latency).
+Nmap scan report for n3-57-67.dhcp.drexel.edu (10.250.57.67)
+Host is up (0.20s latency).
+Nmap scan report for n3-57-120.dhcp.drexel.edu (10.250.57.120)
+Host is up (0.17s latency).
+Nmap scan report for n3-57-121.dhcp.drexel.edu (10.250.57.121)
+Host is up (0.011s latency).
+Nmap scan report for n3-57-131.dhcp.drexel.edu (10.250.57.131)
+Host is up (0.089s latency).
+Nmap scan report for n3-57-139.dhcp.drexel.edu (10.250.57.139)
+Host is up (0.053s latency).
+Nmap scan report for n3-57-157.dhcp.drexel.edu (10.250.57.157)
+Host is up (0.015s latency).
+Nmap scan report for n3-57-180.dhcp.drexel.edu (10.250.57.180)
+Host is up (0.11s latency).
+Nmap scan report for n3-58-5.dhcp.drexel.edu (10.250.58.5)
+Host is up (0.058s latency).
+Nmap scan report for n3-58-23.dhcp.drexel.edu (10.250.58.23)
+Host is up (0.012s latency).
+Nmap scan report for n3-58-28.dhcp.drexel.edu (10.250.58.28)
+Host is up (0.073s latency).
+Nmap scan report for n3-58-80.dhcp.drexel.edu (10.250.58.80)
+Host is up (0.17s latency).
+Nmap scan report for n3-58-166.dhcp.drexel.edu (10.250.58.166)
+Host is up (0.24s latency).
+Nmap scan report for n3-58-167.dhcp.drexel.edu (10.250.58.167)
+Host is up (0.073s latency).
+Nmap scan report for n3-58-172.dhcp.drexel.edu (10.250.58.172)
+Host is up (0.24s latency).
+Nmap scan report for n3-58-245.dhcp.drexel.edu (10.250.58.245)
+Host is up (0.16s latency).
+Nmap scan report for n3-58-246.dhcp.drexel.edu (10.250.58.246)
+Host is up (0.20s latency).
+Nmap scan report for n3-59-3.dhcp.drexel.edu (10.250.59.3)
+Host is up (0.11s latency).
+Nmap scan report for n3-59-17.dhcp.drexel.edu (10.250.59.17)
+Host is up (0.039s latency).
+Nmap scan report for n3-59-19.dhcp.drexel.edu (10.250.59.19)
+Host is up (0.075s latency).
+Nmap scan report for n3-59-49.dhcp.drexel.edu (10.250.59.49)
+Host is up (0.030s latency).
+Nmap scan report for n3-59-108.dhcp.drexel.edu (10.250.59.108)
+Host is up (0.11s latency).
+Nmap scan report for n3-59-111.dhcp.drexel.edu (10.250.59.111)
+Host is up (0.013s latency).
+Nmap scan report for n3-59-112.dhcp.drexel.edu (10.250.59.112)
+Host is up (0.012s latency).
+Nmap scan report for n3-59-121.dhcp.drexel.edu (10.250.59.121)
+Host is up (0.11s latency).
+Nmap scan report for n3-59-250.dhcp.drexel.edu (10.250.59.250)
+Host is up (0.0066s latency).
+Nmap scan report for n3-60-82.dhcp.drexel.edu (10.250.60.82)
+Host is up (0.088s latency).
+Nmap scan report for n3-60-152.dhcp.drexel.edu (10.250.60.152)
+Host is up (0.043s latency).
+Nmap scan report for n3-60-161.dhcp.drexel.edu (10.250.60.161)
+Host is up (0.11s latency).
+Nmap scan report for n3-60-173.dhcp.drexel.edu (10.250.60.173)
+Host is up (0.079s latency).
+Nmap scan report for n3-60-176.dhcp.drexel.edu (10.250.60.176)
+Host is up (0.12s latency).
+Nmap scan report for n3-60-197.dhcp.drexel.edu (10.250.60.197)
+Host is up (0.030s latency).
+Nmap scan report for n3-60-234.dhcp.drexel.edu (10.250.60.234)
+Host is up (0.086s latency).
+Nmap scan report for n3-60-236.dhcp.drexel.edu (10.250.60.236)
+Host is up (0.043s latency).
+Nmap scan report for n3-60-240.dhcp.drexel.edu (10.250.60.240)
+Host is up (0.071s latency).
+Nmap scan report for n3-61-140.dhcp.drexel.edu (10.250.61.140)
+Host is up (0.12s latency).
+Nmap scan report for n3-61-159.dhcp.drexel.edu (10.250.61.159)
+Host is up (0.0099s latency).
+Nmap scan report for n3-61-179.dhcp.drexel.edu (10.250.61.179)
+Host is up (0.012s latency).
+Nmap scan report for n3-61-206.dhcp.drexel.edu (10.250.61.206)
+Host is up (0.027s latency).
+Nmap scan report for n3-61-216.dhcp.drexel.edu (10.250.61.216)
+Host is up (0.070s latency).
+Nmap scan report for n3-61-218.dhcp.drexel.edu (10.250.61.218)
+Host is up (0.047s latency).
+Nmap scan report for n3-61-239.dhcp.drexel.edu (10.250.61.239)
+Host is up (0.0078s latency).
+Nmap scan report for n3-61-247.dhcp.drexel.edu (10.250.61.247)
+Host is up (0.13s latency).
+Nmap scan report for n3-62-86.dhcp.drexel.edu (10.250.62.86)
+Host is up (0.11s latency).
+Nmap scan report for n3-62-94.dhcp.drexel.edu (10.250.62.94)
+Host is up (0.058s latency).
+Nmap scan report for n3-62-106.dhcp.drexel.edu (10.250.62.106)
+Host is up (0.087s latency).
+Nmap scan report for n3-62-120.dhcp.drexel.edu (10.250.62.120)
+Host is up (0.020s latency).
+Nmap scan report for n3-62-128.dhcp.drexel.edu (10.250.62.128)
+Host is up (0.17s latency).
+Nmap scan report for n3-62-149.dhcp.drexel.edu (10.250.62.149)
+Host is up (0.11s latency).
+Nmap scan report for n3-62-182.dhcp.drexel.edu (10.250.62.182)
+Host is up (0.039s latency).
+Nmap scan report for n3-62-183.dhcp.drexel.edu (10.250.62.183)
+Host is up (0.094s latency).
+Nmap scan report for n3-62-187.dhcp.drexel.edu (10.250.62.187)
+Host is up (0.11s latency).
+Nmap scan report for n3-63-18.dhcp.drexel.edu (10.250.63.18)
+Host is up (0.061s latency).
+Nmap scan report for n3-63-128.dhcp.drexel.edu (10.250.63.128)
+Host is up (0.016s latency).
+Nmap scan report for n3-63-129.dhcp.drexel.edu (10.250.63.129)
+Host is up (0.024s latency).
+Nmap scan report for n3-63-183.dhcp.drexel.edu (10.250.63.183)
+Host is up (0.029s latency).
+Nmap scan report for n3-64-11.dhcp.drexel.edu (10.250.64.11)
+Host is up (0.041s latency).
+Nmap scan report for n3-64-20.dhcp.drexel.edu (10.250.64.20)
+Host is up (0.065s latency).
+Nmap scan report for n3-64-52.dhcp.drexel.edu (10.250.64.52)
+Host is up (0.037s latency).
+Nmap scan report for n3-64-160.dhcp.drexel.edu (10.250.64.160)
+Host is up (0.012s latency).
+Nmap scan report for n3-64-196.dhcp.drexel.edu (10.250.64.196)
+Host is up (0.0081s latency).
+Nmap scan report for n3-64-202.dhcp.drexel.edu (10.250.64.202)
+Host is up (0.12s latency).
+Nmap scan report for n3-64-215.dhcp.drexel.edu (10.250.64.215)
+Host is up (0.079s latency).
+Nmap scan report for n3-64-233.dhcp.drexel.edu (10.250.64.233)
+Host is up (0.041s latency).
+Nmap scan report for n3-64-247.dhcp.drexel.edu (10.250.64.247)
+Host is up (0.10s latency).
+Nmap scan report for n3-65-21.dhcp.drexel.edu (10.250.65.21)
+Host is up (0.14s latency).
+Nmap scan report for n3-65-45.dhcp.drexel.edu (10.250.65.45)
+Host is up (0.23s latency).
+Nmap scan report for n3-65-134.dhcp.drexel.edu (10.250.65.134)
+Host is up (0.083s latency).
+Nmap scan report for n3-65-147.dhcp.drexel.edu (10.250.65.147)
+Host is up (0.038s latency).
+Nmap scan report for n3-65-173.dhcp.drexel.edu (10.250.65.173)
+Host is up (0.094s latency).
+Nmap scan report for n3-65-195.dhcp.drexel.edu (10.250.65.195)
+Host is up (0.037s latency).
+Nmap scan report for n3-65-227.dhcp.drexel.edu (10.250.65.227)
+Host is up (0.12s latency).
+Nmap scan report for n3-66-11.dhcp.drexel.edu (10.250.66.11)
+Host is up (0.070s latency).
+Nmap scan report for n3-66-37.dhcp.drexel.edu (10.250.66.37)
+Host is up (0.024s latency).
+Nmap scan report for n3-66-44.dhcp.drexel.edu (10.250.66.44)
+Host is up (0.051s latency).
+Nmap scan report for n3-66-101.dhcp.drexel.edu (10.250.66.101)
+Host is up (0.020s latency).
+Nmap scan report for n3-66-105.dhcp.drexel.edu (10.250.66.105)
+Host is up (0.12s latency).
+Nmap scan report for n3-66-123.dhcp.drexel.edu (10.250.66.123)
+Host is up (0.11s latency).
+Nmap scan report for n3-66-138.dhcp.drexel.edu (10.250.66.138)
+Host is up (0.093s latency).
+Nmap scan report for n3-66-153.dhcp.drexel.edu (10.250.66.153)
+Host is up (0.0099s latency).
+Nmap scan report for n3-66-230.dhcp.drexel.edu (10.250.66.230)
+Host is up (0.017s latency).
+Nmap scan report for n3-67-0.dhcp.drexel.edu (10.250.67.0)
+Host is up (0.097s latency).
+Nmap scan report for n3-67-1.dhcp.drexel.edu (10.250.67.1)
+Host is up (0.10s latency).
+Nmap scan report for n3-67-31.dhcp.drexel.edu (10.250.67.31)
+Host is up (0.078s latency).
+Nmap scan report for n3-67-54.dhcp.drexel.edu (10.250.67.54)
+Host is up (0.024s latency).
+Nmap scan report for n3-67-116.dhcp.drexel.edu (10.250.67.116)
+Host is up (0.069s latency).
+Nmap scan report for n3-67-173.dhcp.drexel.edu (10.250.67.173)
+Host is up (0.0055s latency).
+Nmap scan report for n3-67-180.dhcp.drexel.edu (10.250.67.180)
+Host is up (0.051s latency).
+Nmap scan report for n3-67-192.dhcp.drexel.edu (10.250.67.192)
+Host is up (0.037s latency).
+Nmap scan report for n3-67-204.dhcp.drexel.edu (10.250.67.204)
+Host is up (0.0077s latency).
+Nmap scan report for n3-67-223.dhcp.drexel.edu (10.250.67.223)
+Host is up (0.088s latency).
+Nmap scan report for n3-68-7.dhcp.drexel.edu (10.250.68.7)
+Host is up (0.019s latency).
+Nmap scan report for n3-68-9.dhcp.drexel.edu (10.250.68.9)
+Host is up (0.11s latency).
+Nmap scan report for n3-68-37.dhcp.drexel.edu (10.250.68.37)
+Host is up (0.068s latency).
+Nmap scan report for n3-68-60.dhcp.drexel.edu (10.250.68.60)
+Host is up (0.090s latency).
+Nmap scan report for n3-68-76.dhcp.drexel.edu (10.250.68.76)
+Host is up (0.055s latency).
+Nmap scan report for n3-68-126.dhcp.drexel.edu (10.250.68.126)
+Host is up (0.0071s latency).
+Nmap scan report for n3-68-140.dhcp.drexel.edu (10.250.68.140)
+Host is up (0.100s latency).
+Nmap scan report for n3-68-180.dhcp.drexel.edu (10.250.68.180)
+Host is up (0.037s latency).
+Nmap scan report for n3-68-191.dhcp.drexel.edu (10.250.68.191)
+Host is up (0.043s latency).
+Nmap scan report for n3-68-247.dhcp.drexel.edu (10.250.68.247)
+Host is up (0.043s latency).
+Nmap scan report for n3-69-36.dhcp.drexel.edu (10.250.69.36)
+Host is up (0.075s latency).
+Nmap scan report for n3-69-56.dhcp.drexel.edu (10.250.69.56)
+Host is up (0.067s latency).
+Nmap scan report for n3-69-67.dhcp.drexel.edu (10.250.69.67)
+Host is up (0.0085s latency).
+Nmap scan report for n3-69-170.dhcp.drexel.edu (10.250.69.170)
+Host is up (0.13s latency).
+Nmap scan report for n3-69-195.dhcp.drexel.edu (10.250.69.195)
+Host is up (0.086s latency).
+Nmap scan report for n3-69-203.dhcp.drexel.edu (10.250.69.203)
+Host is up (0.045s latency).
+Nmap scan report for n3-69-231.dhcp.drexel.edu (10.250.69.231)
+Host is up (0.078s latency).
+Nmap scan report for n3-70-0.dhcp.drexel.edu (10.250.70.0)
+Host is up (0.10s latency).
+Nmap scan report for n3-70-46.dhcp.drexel.edu (10.250.70.46)
+Host is up (0.059s latency).
+Nmap scan report for n3-70-48.dhcp.drexel.edu (10.250.70.48)
+Host is up (0.12s latency).
+Nmap scan report for n3-70-49.dhcp.drexel.edu (10.250.70.49)
+Host is up (0.094s latency).
+Nmap scan report for n3-70-51.dhcp.drexel.edu (10.250.70.51)
+Host is up (0.077s latency).
+Nmap scan report for n3-70-69.dhcp.drexel.edu (10.250.70.69)
+Host is up (0.044s latency).
+Nmap scan report for n3-70-89.dhcp.drexel.edu (10.250.70.89)
+Host is up (0.14s latency).
+Nmap scan report for n3-70-91.dhcp.drexel.edu (10.250.70.91)
+Host is up (0.097s latency).
+Nmap scan report for n3-70-113.dhcp.drexel.edu (10.250.70.113)
+Host is up (0.034s latency).
+Nmap scan report for n3-70-130.dhcp.drexel.edu (10.250.70.130)
+Host is up (0.069s latency).
+Nmap scan report for n3-70-136.dhcp.drexel.edu (10.250.70.136)
+Host is up (0.12s latency).
+Nmap scan report for n3-70-142.dhcp.drexel.edu (10.250.70.142)
+Host is up (0.093s latency).
+Nmap scan report for n3-70-235.dhcp.drexel.edu (10.250.70.235)
+Host is up (0.094s latency).
+Nmap scan report for n3-70-241.dhcp.drexel.edu (10.250.70.241)
+Host is up (0.055s latency).
+Nmap scan report for n3-70-254.dhcp.drexel.edu (10.250.70.254)
+Host is up (0.028s latency).
+Nmap scan report for n3-71-9.dhcp.drexel.edu (10.250.71.9)
+Host is up (0.043s latency).
+Nmap scan report for n3-71-36.dhcp.drexel.edu (10.250.71.36)
+Host is up (0.034s latency).
+Nmap scan report for n3-71-64.dhcp.drexel.edu (10.250.71.64)
+Host is up (0.012s latency).
+Nmap scan report for n3-71-66.dhcp.drexel.edu (10.250.71.66)
+Host is up (0.076s latency).
+Nmap scan report for n3-71-88.dhcp.drexel.edu (10.250.71.88)
+Host is up (0.046s latency).
+Nmap scan report for n3-71-107.dhcp.drexel.edu (10.250.71.107)
+Host is up (0.019s latency).
+Nmap scan report for n3-71-114.dhcp.drexel.edu (10.250.71.114)
+Host is up (0.019s latency).
+Nmap scan report for n3-71-122.dhcp.drexel.edu (10.250.71.122)
+Host is up (0.021s latency).
+Nmap scan report for n3-71-138.dhcp.drexel.edu (10.250.71.138)
+Host is up (0.022s latency).
+Nmap scan report for n3-71-145.dhcp.drexel.edu (10.250.71.145)
+Host is up (0.10s latency).
+Nmap scan report for n3-71-156.dhcp.drexel.edu (10.250.71.156)
+Host is up (0.053s latency).
+Nmap scan report for n3-71-183.dhcp.drexel.edu (10.250.71.183)
+Host is up (0.031s latency).
+Nmap scan report for n3-71-195.dhcp.drexel.edu (10.250.71.195)
+Host is up (0.11s latency).
+Nmap scan report for n3-71-206.dhcp.drexel.edu (10.250.71.206)
+Host is up (0.068s latency).
+Nmap scan report for n3-71-208.dhcp.drexel.edu (10.250.71.208)
+Host is up (0.095s latency).
+Nmap scan report for n3-71-210.dhcp.drexel.edu (10.250.71.210)
+Host is up (0.026s latency).
+Nmap scan report for n3-71-242.dhcp.drexel.edu (10.250.71.242)
+Host is up (0.11s latency).
+Nmap scan report for n3-72-3.dhcp.drexel.edu (10.250.72.3)
+Host is up (0.069s latency).
+Nmap scan report for n3-72-65.dhcp.drexel.edu (10.250.72.65)
+Host is up (0.0098s latency).
+Nmap scan report for n3-72-89.dhcp.drexel.edu (10.250.72.89)
+Host is up (0.010s latency).
+Nmap scan report for n3-72-169.dhcp.drexel.edu (10.250.72.169)
+Host is up (0.035s latency).
+Nmap scan report for n3-72-171.dhcp.drexel.edu (10.250.72.171)
+Host is up (0.12s latency).
+Nmap scan report for n3-72-193.dhcp.drexel.edu (10.250.72.193)
+Host is up (0.065s latency).
+Nmap scan report for n3-72-196.dhcp.drexel.edu (10.250.72.196)
+Host is up (0.12s latency).
+Nmap scan report for n3-73-11.dhcp.drexel.edu (10.250.73.11)
+Host is up (0.037s latency).
+Nmap scan report for n3-73-43.dhcp.drexel.edu (10.250.73.43)
+Host is up (0.0092s latency).
+Nmap scan report for n3-73-83.dhcp.drexel.edu (10.250.73.83)
+Host is up (0.0097s latency).
+Nmap scan report for n3-73-103.dhcp.drexel.edu (10.250.73.103)
+Host is up (0.020s latency).
+Nmap scan report for n3-73-150.dhcp.drexel.edu (10.250.73.150)
+Host is up (0.070s latency).
+Nmap scan report for n3-73-194.dhcp.drexel.edu (10.250.73.194)
+Host is up (0.013s latency).
+Nmap scan report for n3-73-220.dhcp.drexel.edu (10.250.73.220)
+Host is up (0.0097s latency).
+Nmap scan report for n3-73-222.dhcp.drexel.edu (10.250.73.222)
+Host is up (0.091s latency).
+Nmap scan report for n3-73-227.dhcp.drexel.edu (10.250.73.227)
+Host is up (0.011s latency).
+Nmap scan report for n3-73-236.dhcp.drexel.edu (10.250.73.236)
+Host is up (0.062s latency).
+Nmap scan report for n3-73-250.dhcp.drexel.edu (10.250.73.250)
+Host is up (0.077s latency).
+Nmap scan report for n3-73-255.dhcp.drexel.edu (10.250.73.255)
+Host is up (0.036s latency).
+Nmap scan report for n3-74-6.dhcp.drexel.edu (10.250.74.6)
+Host is up (0.059s latency).
+Nmap scan report for n3-74-22.dhcp.drexel.edu (10.250.74.22)
+Host is up (0.069s latency).
+Nmap scan report for n3-74-71.dhcp.drexel.edu (10.250.74.71)
+Host is up (0.037s latency).
+Nmap scan report for n3-74-72.dhcp.drexel.edu (10.250.74.72)
+Host is up (0.10s latency).
+Nmap scan report for n3-74-108.dhcp.drexel.edu (10.250.74.108)
+Host is up (0.0089s latency).
+Nmap scan report for n3-74-151.dhcp.drexel.edu (10.250.74.151)
+Host is up (0.056s latency).
+Nmap scan report for n3-74-203.dhcp.drexel.edu (10.250.74.203)
+Host is up (0.054s latency).
+Nmap scan report for n3-75-31.dhcp.drexel.edu (10.250.75.31)
+Host is up (0.097s latency).
+Nmap scan report for n3-75-38.dhcp.drexel.edu (10.250.75.38)
+Host is up (0.018s latency).
+Nmap scan report for n3-75-42.dhcp.drexel.edu (10.250.75.42)
+Host is up (0.013s latency).
+Nmap scan report for n3-75-55.dhcp.drexel.edu (10.250.75.55)
+Host is up (0.020s latency).
+Nmap scan report for n3-75-58.dhcp.drexel.edu (10.250.75.58)
+Host is up (0.0071s latency).
+Nmap scan report for n3-75-72.dhcp.drexel.edu (10.250.75.72)
+Host is up (0.056s latency).
+Nmap scan report for n3-75-88.dhcp.drexel.edu (10.250.75.88)
+Host is up (0.028s latency).
+Nmap scan report for n3-75-111.dhcp.drexel.edu (10.250.75.111)
+Host is up (0.012s latency).
+Nmap scan report for n3-75-155.dhcp.drexel.edu (10.250.75.155)
+Host is up (0.022s latency).
+Nmap scan report for n3-75-173.dhcp.drexel.edu (10.250.75.173)
+Host is up (0.018s latency).
+Nmap scan report for n3-75-192.dhcp.drexel.edu (10.250.75.192)
+Host is up (0.099s latency).
+Nmap scan report for n3-76-24.dhcp.drexel.edu (10.250.76.24)
+Host is up (0.046s latency).
+Nmap scan report for n3-76-72.dhcp.drexel.edu (10.250.76.72)
+Host is up (0.045s latency).
+Nmap scan report for n3-76-76.dhcp.drexel.edu (10.250.76.76)
+Host is up (0.095s latency).
+Nmap scan report for n3-76-90.dhcp.drexel.edu (10.250.76.90)
+Host is up (0.11s latency).
+Nmap scan report for n3-76-100.dhcp.drexel.edu (10.250.76.100)
+Host is up (0.014s latency).
+Nmap scan report for n3-76-102.dhcp.drexel.edu (10.250.76.102)
+Host is up (0.055s latency).
+Nmap scan report for n3-76-106.dhcp.drexel.edu (10.250.76.106)
+Host is up (0.11s latency).
+Nmap scan report for n3-76-107.dhcp.drexel.edu (10.250.76.107)
+Host is up (0.019s latency).
+Nmap scan report for n3-76-122.dhcp.drexel.edu (10.250.76.122)
+Host is up (0.042s latency).
+Nmap scan report for n3-76-142.dhcp.drexel.edu (10.250.76.142)
+Host is up (0.010s latency).
+Nmap scan report for n3-76-200.dhcp.drexel.edu (10.250.76.200)
+Host is up (0.0077s latency).
+Nmap scan report for n3-76-237.dhcp.drexel.edu (10.250.76.237)
+Host is up (0.059s latency).
+Nmap scan report for n3-77-13.dhcp.drexel.edu (10.250.77.13)
+Host is up (0.080s latency).
+Nmap scan report for n3-77-31.dhcp.drexel.edu (10.250.77.31)
+Host is up (0.083s latency).
+Nmap scan report for n3-77-42.dhcp.drexel.edu (10.250.77.42)
+Host is up (0.030s latency).
+Nmap scan report for n3-77-53.dhcp.drexel.edu (10.250.77.53)
+Host is up (0.11s latency).
+Nmap scan report for n3-77-72.dhcp.drexel.edu (10.250.77.72)
+Host is up (0.068s latency).
+Nmap scan report for n3-77-75.dhcp.drexel.edu (10.250.77.75)
+Host is up (0.021s latency).
+Nmap scan report for n3-77-85.dhcp.drexel.edu (10.250.77.85)
+Host is up (0.19s latency).
+Nmap scan report for n3-77-116.dhcp.drexel.edu (10.250.77.116)
+Host is up (0.0072s latency).
+Nmap scan report for n3-77-132.dhcp.drexel.edu (10.250.77.132)
+Host is up (0.031s latency).
+Nmap scan report for n3-77-167.dhcp.drexel.edu (10.250.77.167)
+Host is up (0.053s latency).
+Nmap scan report for n3-77-196.dhcp.drexel.edu (10.250.77.196)
+Host is up (0.047s latency).
+Nmap scan report for n3-77-201.dhcp.drexel.edu (10.250.77.201)
+Host is up (0.011s latency).
+Nmap scan report for n3-77-216.dhcp.drexel.edu (10.250.77.216)
+Host is up (0.16s latency).
+Nmap scan report for n3-77-229.dhcp.drexel.edu (10.250.77.229)
+Host is up (0.14s latency).
+Nmap scan report for n3-77-232.dhcp.drexel.edu (10.250.77.232)
+Host is up (0.14s latency).
+Nmap scan report for n3-78-28.dhcp.drexel.edu (10.250.78.28)
+Host is up (0.097s latency).
+Nmap scan report for n3-78-45.dhcp.drexel.edu (10.250.78.45)
+Host is up (0.055s latency).
+Nmap scan report for n3-78-62.dhcp.drexel.edu (10.250.78.62)
+Host is up (0.050s latency).
+Nmap scan report for n3-78-80.dhcp.drexel.edu (10.250.78.80)
+Host is up (0.22s latency).
+Nmap scan report for n3-78-83.dhcp.drexel.edu (10.250.78.83)
+Host is up (0.091s latency).
+Nmap scan report for n3-78-87.dhcp.drexel.edu (10.250.78.87)
+Host is up (0.28s latency).
+Nmap scan report for n3-78-107.dhcp.drexel.edu (10.250.78.107)
+Host is up (0.012s latency).
+Nmap scan report for n3-78-133.dhcp.drexel.edu (10.250.78.133)
+Host is up (0.10s latency).
+Nmap scan report for n3-78-199.dhcp.drexel.edu (10.250.78.199)
+Host is up (0.13s latency).
+Nmap scan report for n3-78-233.dhcp.drexel.edu (10.250.78.233)
+Host is up (0.010s latency).
+Nmap scan report for n3-78-235.dhcp.drexel.edu (10.250.78.235)
+Host is up (0.0077s latency).
+Nmap scan report for n3-79-37.dhcp.drexel.edu (10.250.79.37)
+Host is up (0.050s latency).
+Nmap scan report for n3-79-41.dhcp.drexel.edu (10.250.79.41)
+Host is up (0.11s latency).
+Nmap scan report for n3-79-49.dhcp.drexel.edu (10.250.79.49)
+Host is up (0.073s latency).
+Nmap scan report for n3-79-122.dhcp.drexel.edu (10.250.79.122)
+Host is up (0.020s latency).
+Nmap scan report for n3-79-158.dhcp.drexel.edu (10.250.79.158)
+Host is up (0.075s latency).
+Nmap scan report for n3-79-166.dhcp.drexel.edu (10.250.79.166)
+Host is up (0.0081s latency).
+Nmap scan report for n3-79-175.dhcp.drexel.edu (10.250.79.175)
+Host is up (0.024s latency).
+Nmap scan report for n3-79-187.dhcp.drexel.edu (10.250.79.187)
+Host is up (0.012s latency).
+Nmap scan report for n3-79-219.dhcp.drexel.edu (10.250.79.219)
+Host is up (0.086s latency).
+Nmap scan report for n3-79-254.dhcp.drexel.edu (10.250.79.254)
+Host is up (0.094s latency).
+Stats: 0:06:03 elapsed; 20480 hosts completed (775 up), 4096 undergoing Ping Scan
+Ping Scan Timing: About 52.48% done; ETC: 19:48 (0:00:25 remaining)
+Nmap scan report for n3-80-6.dhcp.drexel.edu (10.250.80.6)
+Host is up (0.13s latency).
+Nmap scan report for n3-80-18.dhcp.drexel.edu (10.250.80.18)
+Host is up (0.026s latency).
+Nmap scan report for n3-80-40.dhcp.drexel.edu (10.250.80.40)
+Host is up (0.063s latency).
+Nmap scan report for n3-80-74.dhcp.drexel.edu (10.250.80.74)
+Host is up (0.036s latency).
+Nmap scan report for n3-80-90.dhcp.drexel.edu (10.250.80.90)
+Host is up (0.056s latency).
+Nmap scan report for n3-80-96.dhcp.drexel.edu (10.250.80.96)
+Host is up (0.023s latency).
+Nmap scan report for n3-80-116.dhcp.drexel.edu (10.250.80.116)
+Host is up (0.054s latency).
+Nmap scan report for n3-80-122.dhcp.drexel.edu (10.250.80.122)
+Host is up (0.073s latency).
+Nmap scan report for n3-80-130.dhcp.drexel.edu (10.250.80.130)
+Host is up (0.022s latency).
+Nmap scan report for n3-80-181.dhcp.drexel.edu (10.250.80.181)
+Host is up (0.056s latency).
+Nmap scan report for n3-80-196.dhcp.drexel.edu (10.250.80.196)
+Host is up (0.046s latency).
+Nmap scan report for n3-80-222.dhcp.drexel.edu (10.250.80.222)
+Host is up (0.028s latency).
+Nmap scan report for n3-80-238.dhcp.drexel.edu (10.250.80.238)
+Host is up (0.027s latency).
+Nmap scan report for n3-80-241.dhcp.drexel.edu (10.250.80.241)
+Host is up (0.070s latency).
+Nmap scan report for n3-81-3.dhcp.drexel.edu (10.250.81.3)
+Host is up (0.0077s latency).
+Nmap scan report for n3-81-56.dhcp.drexel.edu (10.250.81.56)
+Host is up (0.012s latency).
+Nmap scan report for n3-81-63.dhcp.drexel.edu (10.250.81.63)
+Host is up (0.0056s latency).
+Nmap scan report for n3-81-86.dhcp.drexel.edu (10.250.81.86)
+Host is up (0.0072s latency).
+Nmap scan report for n3-81-87.dhcp.drexel.edu (10.250.81.87)
+Host is up (0.046s latency).
+Nmap scan report for n3-81-118.dhcp.drexel.edu (10.250.81.118)
+Host is up (0.016s latency).
+Nmap scan report for n3-81-197.dhcp.drexel.edu (10.250.81.197)
+Host is up (0.025s latency).
+Nmap scan report for n3-81-201.dhcp.drexel.edu (10.250.81.201)
+Host is up (0.0042s latency).
+Nmap scan report for n3-81-215.dhcp.drexel.edu (10.250.81.215)
+Host is up (0.088s latency).
+Nmap scan report for n3-82-42.dhcp.drexel.edu (10.250.82.42)
+Host is up (0.076s latency).
+Nmap scan report for n3-82-78.dhcp.drexel.edu (10.250.82.78)
+Host is up (0.093s latency).
+Nmap scan report for n3-82-80.dhcp.drexel.edu (10.250.82.80)
+Host is up (0.0092s latency).
+Nmap scan report for n3-82-83.dhcp.drexel.edu (10.250.82.83)
+Host is up (0.084s latency).
+Nmap scan report for n3-82-149.dhcp.drexel.edu (10.250.82.149)
+Host is up (0.097s latency).
+Nmap scan report for n3-82-171.dhcp.drexel.edu (10.250.82.171)
+Host is up (0.047s latency).
+Nmap scan report for n3-82-177.dhcp.drexel.edu (10.250.82.177)
+Host is up (0.055s latency).
+Nmap scan report for n3-83-48.dhcp.drexel.edu (10.250.83.48)
+Host is up (0.11s latency).
+Nmap scan report for n3-83-72.dhcp.drexel.edu (10.250.83.72)
+Host is up (0.011s latency).
+Nmap scan report for n3-83-86.dhcp.drexel.edu (10.250.83.86)
+Host is up (0.013s latency).
+Nmap scan report for n3-83-108.dhcp.drexel.edu (10.250.83.108)
+Host is up (0.094s latency).
+Nmap scan report for n3-83-116.dhcp.drexel.edu (10.250.83.116)
+Host is up (0.11s latency).
+Nmap scan report for n3-83-123.dhcp.drexel.edu (10.250.83.123)
+Host is up (0.016s latency).
+Nmap scan report for n3-83-169.dhcp.drexel.edu (10.250.83.169)
+Host is up (0.032s latency).
+Nmap scan report for n3-83-194.dhcp.drexel.edu (10.250.83.194)
+Host is up (0.020s latency).
+Nmap scan report for n3-83-211.dhcp.drexel.edu (10.250.83.211)
+Host is up (0.00019s latency).
+Nmap scan report for n3-83-228.dhcp.drexel.edu (10.250.83.228)
+Host is up (0.12s latency).
+Nmap scan report for n3-83-230.dhcp.drexel.edu (10.250.83.230)
+Host is up (0.042s latency).
+Nmap scan report for n3-84-7.dhcp.drexel.edu (10.250.84.7)
+Host is up (0.028s latency).
+Nmap scan report for n3-84-10.dhcp.drexel.edu (10.250.84.10)
+Host is up (0.14s latency).
+Nmap scan report for n3-84-25.dhcp.drexel.edu (10.250.84.25)
+Host is up (0.066s latency).
+Nmap scan report for n3-84-45.dhcp.drexel.edu (10.250.84.45)
+Host is up (0.092s latency).
+Nmap scan report for n3-84-50.dhcp.drexel.edu (10.250.84.50)
+Host is up (0.041s latency).
+Nmap scan report for n3-84-90.dhcp.drexel.edu (10.250.84.90)
+Host is up (0.054s latency).
+Nmap scan report for n3-84-107.dhcp.drexel.edu (10.250.84.107)
+Host is up (0.028s latency).
+Nmap scan report for n3-84-119.dhcp.drexel.edu (10.250.84.119)
+Host is up (0.0061s latency).
+Nmap scan report for n3-84-160.dhcp.drexel.edu (10.250.84.160)
+Host is up (0.046s latency).
+Nmap scan report for n3-84-190.dhcp.drexel.edu (10.250.84.190)
+Host is up (0.12s latency).
+Nmap scan report for n3-84-218.dhcp.drexel.edu (10.250.84.218)
+Host is up (0.035s latency).
+Nmap scan report for n3-84-225.dhcp.drexel.edu (10.250.84.225)
+Host is up (0.093s latency).
+Nmap scan report for n3-85-28.dhcp.drexel.edu (10.250.85.28)
+Host is up (0.084s latency).
+Nmap scan report for n3-85-40.dhcp.drexel.edu (10.250.85.40)
+Host is up (0.12s latency).
+Nmap scan report for n3-85-53.dhcp.drexel.edu (10.250.85.53)
+Host is up (0.080s latency).
+Nmap scan report for n3-85-66.dhcp.drexel.edu (10.250.85.66)
+Host is up (0.024s latency).
+Nmap scan report for n3-85-68.dhcp.drexel.edu (10.250.85.68)
+Host is up (0.026s latency).
+Nmap scan report for n3-85-71.dhcp.drexel.edu (10.250.85.71)
+Host is up (0.10s latency).
+Nmap scan report for n3-85-149.dhcp.drexel.edu (10.250.85.149)
+Host is up (0.13s latency).
+Nmap scan report for n3-85-175.dhcp.drexel.edu (10.250.85.175)
+Host is up (0.085s latency).
+Nmap scan report for n3-85-198.dhcp.drexel.edu (10.250.85.198)
+Host is up (0.092s latency).
+Nmap scan report for n3-85-199.dhcp.drexel.edu (10.250.85.199)
+Host is up (0.042s latency).
+Nmap scan report for n3-85-223.dhcp.drexel.edu (10.250.85.223)
+Host is up (0.012s latency).
+Nmap scan report for n3-85-228.dhcp.drexel.edu (10.250.85.228)
+Host is up (0.054s latency).
+Nmap scan report for n3-85-229.dhcp.drexel.edu (10.250.85.229)
+Host is up (0.042s latency).
+Nmap scan report for n3-85-236.dhcp.drexel.edu (10.250.85.236)
+Host is up (0.061s latency).
+Nmap scan report for n3-86-63.dhcp.drexel.edu (10.250.86.63)
+Host is up (0.11s latency).
+Nmap scan report for n3-86-68.dhcp.drexel.edu (10.250.86.68)
+Host is up (0.025s latency).
+Nmap scan report for n3-86-100.dhcp.drexel.edu (10.250.86.100)
+Host is up (0.088s latency).
+Nmap scan report for n3-86-104.dhcp.drexel.edu (10.250.86.104)
+Host is up (0.069s latency).
+Nmap scan report for n3-86-244.dhcp.drexel.edu (10.250.86.244)
+Host is up (0.073s latency).
+Nmap scan report for n3-86-252.dhcp.drexel.edu (10.250.86.252)
+Host is up (0.041s latency).
+Nmap scan report for n3-87-116.dhcp.drexel.edu (10.250.87.116)
+Host is up (0.037s latency).
+Nmap scan report for n3-87-125.dhcp.drexel.edu (10.250.87.125)
+Host is up (0.11s latency).
+Nmap scan report for n3-87-126.dhcp.drexel.edu (10.250.87.126)
+Host is up (0.057s latency).
+Nmap scan report for n3-87-154.dhcp.drexel.edu (10.250.87.154)
+Host is up (0.087s latency).
+Nmap scan report for n3-87-155.dhcp.drexel.edu (10.250.87.155)
+Host is up (0.024s latency).
+Nmap scan report for n3-87-164.dhcp.drexel.edu (10.250.87.164)
+Host is up (0.0089s latency).
+Nmap scan report for n3-87-172.dhcp.drexel.edu (10.250.87.172)
+Host is up (0.12s latency).
+Nmap scan report for n3-87-190.dhcp.drexel.edu (10.250.87.190)
+Host is up (0.086s latency).
+Nmap scan report for n3-87-194.dhcp.drexel.edu (10.250.87.194)
+Host is up (0.018s latency).
+Nmap scan report for n3-87-203.dhcp.drexel.edu (10.250.87.203)
+Host is up (0.013s latency).
+Nmap scan report for n3-87-213.dhcp.drexel.edu (10.250.87.213)
+Host is up (0.024s latency).
+Nmap scan report for n3-87-218.dhcp.drexel.edu (10.250.87.218)
+Host is up (0.099s latency).
+Nmap scan report for n3-87-235.dhcp.drexel.edu (10.250.87.235)
+Host is up (0.098s latency).
+Nmap scan report for n3-88-95.dhcp.drexel.edu (10.250.88.95)
+Host is up (0.073s latency).
+Nmap scan report for n3-88-166.dhcp.drexel.edu (10.250.88.166)
+Host is up (0.085s latency).
+Nmap scan report for n3-88-187.dhcp.drexel.edu (10.250.88.187)
+Host is up (0.14s latency).
+Nmap scan report for n3-88-226.dhcp.drexel.edu (10.250.88.226)
+Host is up (0.036s latency).
+Nmap scan report for n3-89-48.dhcp.drexel.edu (10.250.89.48)
+Host is up (0.13s latency).
+Nmap scan report for n3-89-64.dhcp.drexel.edu (10.250.89.64)
+Host is up (0.066s latency).
+Nmap scan report for n3-89-89.dhcp.drexel.edu (10.250.89.89)
+Host is up (0.037s latency).
+Nmap scan report for n3-89-122.dhcp.drexel.edu (10.250.89.122)
+Host is up (0.087s latency).
+Nmap scan report for n3-89-127.dhcp.drexel.edu (10.250.89.127)
+Host is up (0.084s latency).
+Nmap scan report for n3-89-141.dhcp.drexel.edu (10.250.89.141)
+Host is up (0.045s latency).
+Nmap scan report for n3-89-186.dhcp.drexel.edu (10.250.89.186)
+Host is up (0.050s latency).
+Nmap scan report for n3-89-197.dhcp.drexel.edu (10.250.89.197)
+Host is up (0.033s latency).
+Nmap scan report for n3-89-205.dhcp.drexel.edu (10.250.89.205)
+Host is up (0.12s latency).
+Nmap scan report for n3-89-226.dhcp.drexel.edu (10.250.89.226)
+Host is up (0.095s latency).
+Nmap scan report for n3-89-253.dhcp.drexel.edu (10.250.89.253)
+Host is up (0.021s latency).
+Nmap scan report for n3-90-18.dhcp.drexel.edu (10.250.90.18)
+Host is up (0.043s latency).
+Nmap scan report for n3-90-51.dhcp.drexel.edu (10.250.90.51)
+Host is up (0.11s latency).
+Nmap scan report for n3-90-58.dhcp.drexel.edu (10.250.90.58)
+Host is up (0.054s latency).
+Nmap scan report for n3-90-91.dhcp.drexel.edu (10.250.90.91)
+Host is up (0.030s latency).
+Nmap scan report for n3-90-110.dhcp.drexel.edu (10.250.90.110)
+Host is up (0.043s latency).
+Nmap scan report for n3-90-120.dhcp.drexel.edu (10.250.90.120)
+Host is up (0.026s latency).
+Nmap scan report for n3-90-133.dhcp.drexel.edu (10.250.90.133)
+Host is up (0.083s latency).
+Nmap scan report for n3-90-139.dhcp.drexel.edu (10.250.90.139)
+Host is up (0.011s latency).
+Nmap scan report for n3-90-166.dhcp.drexel.edu (10.250.90.166)
+Host is up (0.077s latency).
+Nmap scan report for n3-90-169.dhcp.drexel.edu (10.250.90.169)
+Host is up (0.10s latency).
+Nmap scan report for n3-90-170.dhcp.drexel.edu (10.250.90.170)
+Host is up (0.092s latency).
+Nmap scan report for n3-90-195.dhcp.drexel.edu (10.250.90.195)
+Host is up (0.016s latency).
+Nmap scan report for n3-90-242.dhcp.drexel.edu (10.250.90.242)
+Host is up (0.095s latency).
+Nmap scan report for n3-91-7.dhcp.drexel.edu (10.250.91.7)
+Host is up (0.013s latency).
+Nmap scan report for n3-91-16.dhcp.drexel.edu (10.250.91.16)
+Host is up (0.090s latency).
+Nmap scan report for n3-91-23.dhcp.drexel.edu (10.250.91.23)
+Host is up (0.039s latency).
+Nmap scan report for n3-91-88.dhcp.drexel.edu (10.250.91.88)
+Host is up (0.056s latency).
+Nmap scan report for n3-91-106.dhcp.drexel.edu (10.250.91.106)
+Host is up (0.087s latency).
+Nmap scan report for n3-91-110.dhcp.drexel.edu (10.250.91.110)
+Host is up (0.072s latency).
+Nmap scan report for n3-91-152.dhcp.drexel.edu (10.250.91.152)
+Host is up (0.19s latency).
+Nmap scan report for n3-91-235.dhcp.drexel.edu (10.250.91.235)
+Host is up (0.068s latency).
+Nmap scan report for n3-91-237.dhcp.drexel.edu (10.250.91.237)
+Host is up (0.013s latency).
+Nmap scan report for n3-92-24.dhcp.drexel.edu (10.250.92.24)
+Host is up (0.049s latency).
+Nmap scan report for n3-92-50.dhcp.drexel.edu (10.250.92.50)
+Host is up (0.060s latency).
+Nmap scan report for n3-92-54.dhcp.drexel.edu (10.250.92.54)
+Host is up (0.035s latency).
+Nmap scan report for n3-92-161.dhcp.drexel.edu (10.250.92.161)
+Host is up (0.043s latency).
+Nmap scan report for n3-92-249.dhcp.drexel.edu (10.250.92.249)
+Host is up (0.038s latency).
+Nmap scan report for n3-93-108.dhcp.drexel.edu (10.250.93.108)
+Host is up (0.081s latency).
+Nmap scan report for n3-93-150.dhcp.drexel.edu (10.250.93.150)
+Host is up (0.093s latency).
+Nmap scan report for n3-93-153.dhcp.drexel.edu (10.250.93.153)
+Host is up (0.15s latency).
+Nmap scan report for n3-93-178.dhcp.drexel.edu (10.250.93.178)
+Host is up (0.070s latency).
+Nmap scan report for n3-93-214.dhcp.drexel.edu (10.250.93.214)
+Host is up (0.027s latency).
+Nmap scan report for n3-94-5.dhcp.drexel.edu (10.250.94.5)
+Host is up (0.044s latency).
+Nmap scan report for n3-94-55.dhcp.drexel.edu (10.250.94.55)
+Host is up (0.15s latency).
+Nmap scan report for n3-94-137.dhcp.drexel.edu (10.250.94.137)
+Host is up (0.10s latency).
+Nmap scan report for n3-94-152.dhcp.drexel.edu (10.250.94.152)
+Host is up (0.075s latency).
+Nmap scan report for n3-94-159.dhcp.drexel.edu (10.250.94.159)
+Host is up (0.089s latency).
+Nmap scan report for n3-94-181.dhcp.drexel.edu (10.250.94.181)
+Host is up (0.042s latency).
+Nmap scan report for n3-94-203.dhcp.drexel.edu (10.250.94.203)
+Host is up (0.0100s latency).
+Nmap scan report for n3-94-232.dhcp.drexel.edu (10.250.94.232)
+Host is up (0.066s latency).
+Nmap scan report for n3-95-3.dhcp.drexel.edu (10.250.95.3)
+Host is up (0.049s latency).
+Nmap scan report for n3-95-19.dhcp.drexel.edu (10.250.95.19)
+Host is up (0.11s latency).
+Nmap scan report for n3-95-37.dhcp.drexel.edu (10.250.95.37)
+Host is up (0.012s latency).
+Nmap scan report for n3-95-59.dhcp.drexel.edu (10.250.95.59)
+Host is up (0.040s latency).
+Nmap scan report for n3-95-65.dhcp.drexel.edu (10.250.95.65)
+Host is up (0.11s latency).
+Nmap scan report for n3-95-74.dhcp.drexel.edu (10.250.95.74)
+Host is up (0.012s latency).
+Nmap scan report for n3-95-139.dhcp.drexel.edu (10.250.95.139)
+Host is up (0.098s latency).
+Nmap scan report for n3-95-167.dhcp.drexel.edu (10.250.95.167)
+Host is up (0.22s latency).
+Nmap scan report for n3-95-199.dhcp.drexel.edu (10.250.95.199)
+Host is up (0.14s latency).
+Nmap scan report for n3-95-210.dhcp.drexel.edu (10.250.95.210)
+Host is up (0.028s latency).
+Nmap scan report for n3-95-217.dhcp.drexel.edu (10.250.95.217)
+Host is up (0.051s latency).
+Nmap scan report for n3-95-219.dhcp.drexel.edu (10.250.95.219)
+Host is up (0.030s latency).
+Nmap scan report for n3-95-233.dhcp.drexel.edu (10.250.95.233)
+Host is up (0.0094s latency).
+Nmap scan report for n3-95-252.dhcp.drexel.edu (10.250.95.252)
+Host is up (0.030s latency).
+Nmap scan report for n3-96-14.dhcp.drexel.edu (10.250.96.14)
+Host is up (0.13s latency).
+Nmap scan report for n3-96-84.dhcp.drexel.edu (10.250.96.84)
+Host is up (0.11s latency).
+Nmap scan report for n3-96-85.dhcp.drexel.edu (10.250.96.85)
+Host is up (0.084s latency).
+Nmap scan report for n3-96-94.dhcp.drexel.edu (10.250.96.94)
+Host is up (0.062s latency).
+Nmap scan report for n3-96-189.dhcp.drexel.edu (10.250.96.189)
+Host is up (0.042s latency).
+Nmap scan report for n3-96-239.dhcp.drexel.edu (10.250.96.239)
+Host is up (0.031s latency).
+Nmap scan report for n3-96-254.dhcp.drexel.edu (10.250.96.254)
+Host is up (0.14s latency).
+Nmap scan report for n3-97-54.dhcp.drexel.edu (10.250.97.54)
+Host is up (0.066s latency).
+Nmap scan report for n3-97-73.dhcp.drexel.edu (10.250.97.73)
+Host is up (0.12s latency).
+Nmap scan report for n3-97-100.dhcp.drexel.edu (10.250.97.100)
+Host is up (0.11s latency).
+Nmap scan report for n3-97-104.dhcp.drexel.edu (10.250.97.104)
+Host is up (0.11s latency).
+Nmap scan report for n3-97-125.dhcp.drexel.edu (10.250.97.125)
+Host is up (0.0076s latency).
+Nmap scan report for n3-97-136.dhcp.drexel.edu (10.250.97.136)
+Host is up (0.069s latency).
+Nmap scan report for n3-97-190.dhcp.drexel.edu (10.250.97.190)
+Host is up (0.011s latency).
+Nmap scan report for n3-97-213.dhcp.drexel.edu (10.250.97.213)
+Host is up (0.096s latency).
+Nmap scan report for n3-97-222.dhcp.drexel.edu (10.250.97.222)
+Host is up (0.14s latency).
+Nmap scan report for n3-98-2.dhcp.drexel.edu (10.250.98.2)
+Host is up (0.066s latency).
+Nmap scan report for n3-98-25.dhcp.drexel.edu (10.250.98.25)
+Host is up (0.038s latency).
+Nmap scan report for n3-98-30.dhcp.drexel.edu (10.250.98.30)
+Host is up (0.079s latency).
+Nmap scan report for n3-98-41.dhcp.drexel.edu (10.250.98.41)
+Host is up (0.16s latency).
+Nmap scan report for n3-98-77.dhcp.drexel.edu (10.250.98.77)
+Host is up (0.082s latency).
+Nmap scan report for n3-98-102.dhcp.drexel.edu (10.250.98.102)
+Host is up (0.012s latency).
+Nmap scan report for n3-98-106.dhcp.drexel.edu (10.250.98.106)
+Host is up (0.12s latency).
+Nmap scan report for n3-98-109.dhcp.drexel.edu (10.250.98.109)
+Host is up (0.076s latency).
+Nmap scan report for n3-98-153.dhcp.drexel.edu (10.250.98.153)
+Host is up (0.098s latency).
+Nmap scan report for n3-98-235.dhcp.drexel.edu (10.250.98.235)
+Host is up (0.079s latency).
+Nmap scan report for n3-98-254.dhcp.drexel.edu (10.250.98.254)
+Host is up (0.014s latency).
+Nmap scan report for n3-99-1.dhcp.drexel.edu (10.250.99.1)
+Host is up (0.12s latency).
+Nmap scan report for n3-99-24.dhcp.drexel.edu (10.250.99.24)
+Host is up (0.012s latency).
+Nmap scan report for n3-99-41.dhcp.drexel.edu (10.250.99.41)
+Host is up (0.013s latency).
+Nmap scan report for n3-99-58.dhcp.drexel.edu (10.250.99.58)
+Host is up (0.033s latency).
+Nmap scan report for n3-99-72.dhcp.drexel.edu (10.250.99.72)
+Host is up (0.027s latency).
+Nmap scan report for n3-99-103.dhcp.drexel.edu (10.250.99.103)
+Host is up (0.013s latency).
+Nmap scan report for n3-99-108.dhcp.drexel.edu (10.250.99.108)
+Host is up (0.030s latency).
+Nmap scan report for n3-99-121.dhcp.drexel.edu (10.250.99.121)
+Host is up (0.072s latency).
+Nmap scan report for n3-99-203.dhcp.drexel.edu (10.250.99.203)
+Host is up (0.077s latency).
+Nmap scan report for n3-99-207.dhcp.drexel.edu (10.250.99.207)
+Host is up (0.090s latency).
+Nmap scan report for n3-100-32.dhcp.drexel.edu (10.250.100.32)
+Host is up (0.29s latency).
+Nmap scan report for n3-100-55.dhcp.drexel.edu (10.250.100.55)
+Host is up (0.088s latency).
+Nmap scan report for n3-100-61.dhcp.drexel.edu (10.250.100.61)
+Host is up (0.077s latency).
+Nmap scan report for n3-100-81.dhcp.drexel.edu (10.250.100.81)
+Host is up (0.033s latency).
+Nmap scan report for n3-100-155.dhcp.drexel.edu (10.250.100.155)
+Host is up (0.14s latency).
+Nmap scan report for n3-100-182.dhcp.drexel.edu (10.250.100.182)
+Host is up (0.072s latency).
+Nmap scan report for n3-100-228.dhcp.drexel.edu (10.250.100.228)
+Host is up (0.10s latency).
+Nmap scan report for n3-100-235.dhcp.drexel.edu (10.250.100.235)
+Host is up (0.051s latency).
+Nmap scan report for n3-101-3.dhcp.drexel.edu (10.250.101.3)
+Host is up (0.024s latency).
+Nmap scan report for n3-101-12.dhcp.drexel.edu (10.250.101.12)
+Host is up (0.034s latency).
+Nmap scan report for n3-101-35.dhcp.drexel.edu (10.250.101.35)
+Host is up (0.0053s latency).
+Nmap scan report for n3-101-41.dhcp.drexel.edu (10.250.101.41)
+Host is up (0.035s latency).
+Nmap scan report for n3-101-52.dhcp.drexel.edu (10.250.101.52)
+Host is up (0.0030s latency).
+Nmap scan report for n3-101-105.dhcp.drexel.edu (10.250.101.105)
+Host is up (0.016s latency).
+Nmap scan report for n3-101-122.dhcp.drexel.edu (10.250.101.122)
+Host is up (0.032s latency).
+Nmap scan report for n3-101-156.dhcp.drexel.edu (10.250.101.156)
+Host is up (0.0063s latency).
+Nmap scan report for n3-101-197.dhcp.drexel.edu (10.250.101.197)
+Host is up (0.091s latency).
+Nmap scan report for n3-101-198.dhcp.drexel.edu (10.250.101.198)
+Host is up (0.081s latency).
+Nmap scan report for n3-102-1.dhcp.drexel.edu (10.250.102.1)
+Host is up (0.045s latency).
+Nmap scan report for n3-102-20.dhcp.drexel.edu (10.250.102.20)
+Host is up (0.032s latency).
+Nmap scan report for n3-102-53.dhcp.drexel.edu (10.250.102.53)
+Host is up (0.022s latency).
+Nmap scan report for n3-102-134.dhcp.drexel.edu (10.250.102.134)
+Host is up (0.012s latency).
+Nmap scan report for n3-102-148.dhcp.drexel.edu (10.250.102.148)
+Host is up (0.10s latency).
+Nmap scan report for n3-102-155.dhcp.drexel.edu (10.250.102.155)
+Host is up (0.096s latency).
+Nmap scan report for n3-102-194.dhcp.drexel.edu (10.250.102.194)
+Host is up (0.061s latency).
+Nmap scan report for n3-102-237.dhcp.drexel.edu (10.250.102.237)
+Host is up (0.019s latency).
+Nmap scan report for n3-102-240.dhcp.drexel.edu (10.250.102.240)
+Host is up (0.019s latency).
+Nmap scan report for n3-103-17.dhcp.drexel.edu (10.250.103.17)
+Host is up (0.13s latency).
+Nmap scan report for n3-103-21.dhcp.drexel.edu (10.250.103.21)
+Host is up (0.12s latency).
+Nmap scan report for n3-103-87.dhcp.drexel.edu (10.250.103.87)
+Host is up (0.050s latency).
+Nmap scan report for n3-103-127.dhcp.drexel.edu (10.250.103.127)
+Host is up (0.052s latency).
+Nmap scan report for n3-103-177.dhcp.drexel.edu (10.250.103.177)
+Host is up (0.059s latency).
+Nmap scan report for n3-104-32.dhcp.drexel.edu (10.250.104.32)
+Host is up (0.11s latency).
+Nmap scan report for n3-104-41.dhcp.drexel.edu (10.250.104.41)
+Host is up (0.022s latency).
+Nmap scan report for n3-104-67.dhcp.drexel.edu (10.250.104.67)
+Host is up (0.084s latency).
+Nmap scan report for n3-104-90.dhcp.drexel.edu (10.250.104.90)
+Host is up (0.12s latency).
+Nmap scan report for n3-104-92.dhcp.drexel.edu (10.250.104.92)
+Host is up (0.14s latency).
+Nmap scan report for n3-104-106.dhcp.drexel.edu (10.250.104.106)
+Host is up (0.036s latency).
+Nmap scan report for n3-104-112.dhcp.drexel.edu (10.250.104.112)
+Host is up (0.075s latency).
+Nmap scan report for n3-104-131.dhcp.drexel.edu (10.250.104.131)
+Host is up (0.051s latency).
+Nmap scan report for n3-104-151.dhcp.drexel.edu (10.250.104.151)
+Host is up (0.054s latency).
+Nmap scan report for n3-104-165.dhcp.drexel.edu (10.250.104.165)
+Host is up (0.028s latency).
+Nmap scan report for n3-105-4.dhcp.drexel.edu (10.250.105.4)
+Host is up (0.040s latency).
+Nmap scan report for n3-105-25.dhcp.drexel.edu (10.250.105.25)
+Host is up (0.028s latency).
+Nmap scan report for n3-105-52.dhcp.drexel.edu (10.250.105.52)
+Host is up (0.094s latency).
+Nmap scan report for n3-105-97.dhcp.drexel.edu (10.250.105.97)
+Host is up (0.034s latency).
+Nmap scan report for n3-105-152.dhcp.drexel.edu (10.250.105.152)
+Host is up (0.039s latency).
+Nmap scan report for n3-105-180.dhcp.drexel.edu (10.250.105.180)
+Host is up (0.025s latency).
+Nmap scan report for n3-105-207.dhcp.drexel.edu (10.250.105.207)
+Host is up (0.0076s latency).
+Nmap scan report for n3-106-13.dhcp.drexel.edu (10.250.106.13)
+Host is up (0.038s latency).
+Nmap scan report for n3-106-19.dhcp.drexel.edu (10.250.106.19)
+Host is up (0.080s latency).
+Nmap scan report for n3-106-59.dhcp.drexel.edu (10.250.106.59)
+Host is up (0.12s latency).
+Nmap scan report for n3-106-89.dhcp.drexel.edu (10.250.106.89)
+Host is up (0.029s latency).
+Nmap scan report for n3-106-107.dhcp.drexel.edu (10.250.106.107)
+Host is up (0.045s latency).
+Nmap scan report for n3-106-124.dhcp.drexel.edu (10.250.106.124)
+Host is up (0.095s latency).
+Nmap scan report for n3-106-165.dhcp.drexel.edu (10.250.106.165)
+Host is up (0.019s latency).
+Nmap scan report for n3-106-218.dhcp.drexel.edu (10.250.106.218)
+Host is up (0.086s latency).
+Nmap scan report for n3-106-225.dhcp.drexel.edu (10.250.106.225)
+Host is up (0.010s latency).
+Nmap scan report for n3-106-248.dhcp.drexel.edu (10.250.106.248)
+Host is up (0.033s latency).
+Nmap scan report for n3-107-25.dhcp.drexel.edu (10.250.107.25)
+Host is up (0.13s latency).
+Nmap scan report for n3-107-47.dhcp.drexel.edu (10.250.107.47)
+Host is up (0.018s latency).
+Nmap scan report for n3-107-67.dhcp.drexel.edu (10.250.107.67)
+Host is up (0.11s latency).
+Nmap scan report for n3-107-88.dhcp.drexel.edu (10.250.107.88)
+Host is up (0.013s latency).
+Nmap scan report for n3-107-112.dhcp.drexel.edu (10.250.107.112)
+Host is up (0.097s latency).
+Nmap scan report for n3-107-117.dhcp.drexel.edu (10.250.107.117)
+Host is up (0.010s latency).
+Nmap scan report for n3-107-128.dhcp.drexel.edu (10.250.107.128)
+Host is up (0.10s latency).
+Nmap scan report for n3-107-146.dhcp.drexel.edu (10.250.107.146)
+Host is up (0.0053s latency).
+Nmap scan report for n3-107-178.dhcp.drexel.edu (10.250.107.178)
+Host is up (0.074s latency).
+Nmap scan report for n3-107-212.dhcp.drexel.edu (10.250.107.212)
+Host is up (0.025s latency).
+Nmap scan report for n3-107-244.dhcp.drexel.edu (10.250.107.244)
+Host is up (0.054s latency).
+Nmap scan report for n3-108-0.dhcp.drexel.edu (10.250.108.0)
+Host is up (0.12s latency).
+Nmap scan report for n3-108-15.dhcp.drexel.edu (10.250.108.15)
+Host is up (0.25s latency).
+Nmap scan report for n3-108-50.dhcp.drexel.edu (10.250.108.50)
+Host is up (0.29s latency).
+Nmap scan report for n3-108-143.dhcp.drexel.edu (10.250.108.143)
+Host is up (0.10s latency).
+Nmap scan report for n3-108-151.dhcp.drexel.edu (10.250.108.151)
+Host is up (0.089s latency).
+Nmap scan report for n3-108-155.dhcp.drexel.edu (10.250.108.155)
+Host is up (0.084s latency).
+Nmap scan report for n3-108-185.dhcp.drexel.edu (10.250.108.185)
+Host is up (0.10s latency).
+Nmap scan report for n3-108-210.dhcp.drexel.edu (10.250.108.210)
+Host is up (0.040s latency).
+Nmap scan report for n3-109-22.dhcp.drexel.edu (10.250.109.22)
+Host is up (0.092s latency).
+Nmap scan report for n3-109-48.dhcp.drexel.edu (10.250.109.48)
+Host is up (0.092s latency).
+Nmap scan report for n3-109-64.dhcp.drexel.edu (10.250.109.64)
+Host is up (0.016s latency).
+Nmap scan report for n3-109-78.dhcp.drexel.edu (10.250.109.78)
+Host is up (0.080s latency).
+Nmap scan report for n3-109-85.dhcp.drexel.edu (10.250.109.85)
+Host is up (0.067s latency).
+Nmap scan report for n3-109-86.dhcp.drexel.edu (10.250.109.86)
+Host is up (0.0052s latency).
+Nmap scan report for n3-109-118.dhcp.drexel.edu (10.250.109.118)
+Host is up (0.048s latency).
+Nmap scan report for n3-109-125.dhcp.drexel.edu (10.250.109.125)
+Host is up (0.13s latency).
+Nmap scan report for n3-109-175.dhcp.drexel.edu (10.250.109.175)
+Host is up (0.066s latency).
+Nmap scan report for n3-109-200.dhcp.drexel.edu (10.250.109.200)
+Host is up (0.011s latency).
+Nmap scan report for n3-109-212.dhcp.drexel.edu (10.250.109.212)
+Host is up (0.10s latency).
+Nmap scan report for n3-109-231.dhcp.drexel.edu (10.250.109.231)
+Host is up (0.086s latency).
+Nmap scan report for n3-109-252.dhcp.drexel.edu (10.250.109.252)
+Host is up (0.013s latency).
+Nmap scan report for n3-110-5.dhcp.drexel.edu (10.250.110.5)
+Host is up (0.048s latency).
+Nmap scan report for n3-110-26.dhcp.drexel.edu (10.250.110.26)
+Host is up (0.068s latency).
+Nmap scan report for n3-110-36.dhcp.drexel.edu (10.250.110.36)
+Host is up (0.010s latency).
+Nmap scan report for n3-110-51.dhcp.drexel.edu (10.250.110.51)
+Host is up (0.052s latency).
+Nmap scan report for n3-110-55.dhcp.drexel.edu (10.250.110.55)
+Host is up (0.083s latency).
+Nmap scan report for n3-110-114.dhcp.drexel.edu (10.250.110.114)
+Host is up (0.11s latency).
+Nmap scan report for n3-110-186.dhcp.drexel.edu (10.250.110.186)
+Host is up (0.21s latency).
+Nmap scan report for n3-110-189.dhcp.drexel.edu (10.250.110.189)
+Host is up (0.088s latency).
+Nmap scan report for n3-110-208.dhcp.drexel.edu (10.250.110.208)
+Host is up (0.036s latency).
+Nmap scan report for n3-111-34.dhcp.drexel.edu (10.250.111.34)
+Host is up (0.091s latency).
+Nmap scan report for n3-111-37.dhcp.drexel.edu (10.250.111.37)
+Host is up (0.095s latency).
+Nmap scan report for n3-111-40.dhcp.drexel.edu (10.250.111.40)
+Host is up (0.11s latency).
+Nmap scan report for n3-111-48.dhcp.drexel.edu (10.250.111.48)
+Host is up (0.016s latency).
+Nmap scan report for n3-111-55.dhcp.drexel.edu (10.250.111.55)
+Host is up (0.069s latency).
+Nmap scan report for n3-111-112.dhcp.drexel.edu (10.250.111.112)
+Host is up (0.10s latency).
+Nmap scan report for n3-111-138.dhcp.drexel.edu (10.250.111.138)
+Host is up (0.0095s latency).
+Nmap scan report for n3-111-153.dhcp.drexel.edu (10.250.111.153)
+Host is up (0.067s latency).
+Nmap scan report for n3-111-167.dhcp.drexel.edu (10.250.111.167)
+Host is up (0.46s latency).
+Nmap scan report for n3-111-229.dhcp.drexel.edu (10.250.111.229)
+Host is up (0.046s latency).
+Nmap scan report for drexel-spare1-v3017.noc.drexel.edu (10.250.111.244)
+Host is up (0.0066s latency).
+Nmap scan report for n3-112-21.dhcp.drexel.edu (10.250.112.21)
+Host is up (0.032s latency).
+Nmap scan report for n3-112-114.dhcp.drexel.edu (10.250.112.114)
+Host is up (0.13s latency).
+Nmap scan report for n3-112-127.dhcp.drexel.edu (10.250.112.127)
+Host is up (0.069s latency).
+Nmap scan report for n3-112-236.dhcp.drexel.edu (10.250.112.236)
+Host is up (0.077s latency).
+Nmap scan report for n3-112-252.dhcp.drexel.edu (10.250.112.252)
+Host is up (0.12s latency).
+Nmap scan report for n3-113-69.dhcp.drexel.edu (10.250.113.69)
+Host is up (0.032s latency).
+Nmap scan report for n3-113-96.dhcp.drexel.edu (10.250.113.96)
+Host is up (0.045s latency).
+Nmap scan report for n3-113-108.dhcp.drexel.edu (10.250.113.108)
+Host is up (0.031s latency).
+Nmap scan report for n3-113-114.dhcp.drexel.edu (10.250.113.114)
+Host is up (0.081s latency).
+Nmap scan report for n3-113-177.dhcp.drexel.edu (10.250.113.177)
+Host is up (0.027s latency).
+Nmap scan report for n3-113-184.dhcp.drexel.edu (10.250.113.184)
+Host is up (0.036s latency).
+Nmap scan report for n3-113-215.dhcp.drexel.edu (10.250.113.215)
+Host is up (0.11s latency).
+Nmap scan report for n3-114-60.dhcp.drexel.edu (10.250.114.60)
+Host is up (0.018s latency).
+Nmap scan report for n3-114-67.dhcp.drexel.edu (10.250.114.67)
+Host is up (0.14s latency).
+Nmap scan report for n3-114-84.dhcp.drexel.edu (10.250.114.84)
+Host is up (0.094s latency).
+Nmap scan report for n3-114-92.dhcp.drexel.edu (10.250.114.92)
+Host is up (0.017s latency).
+Nmap scan report for n3-114-117.dhcp.drexel.edu (10.250.114.117)
+Host is up (0.022s latency).
+Nmap scan report for n3-114-196.dhcp.drexel.edu (10.250.114.196)
+Host is up (0.074s latency).
+Nmap scan report for n3-114-204.dhcp.drexel.edu (10.250.114.204)
+Host is up (0.21s latency).
+Nmap scan report for n3-115-1.dhcp.drexel.edu (10.250.115.1)
+Host is up (0.088s latency).
+Nmap scan report for n3-115-2.dhcp.drexel.edu (10.250.115.2)
+Host is up (0.022s latency).
+Nmap scan report for n3-115-121.dhcp.drexel.edu (10.250.115.121)
+Host is up (0.29s latency).
+Nmap scan report for n3-115-141.dhcp.drexel.edu (10.250.115.141)
+Host is up (0.20s latency).
+Nmap scan report for n3-115-165.dhcp.drexel.edu (10.250.115.165)
+Host is up (0.064s latency).
+Nmap scan report for n3-115-175.dhcp.drexel.edu (10.250.115.175)
+Host is up (0.059s latency).
+Nmap scan report for n3-115-186.dhcp.drexel.edu (10.250.115.186)
+Host is up (0.074s latency).
+Nmap scan report for n3-115-192.dhcp.drexel.edu (10.250.115.192)
+Host is up (0.015s latency).
+Nmap scan report for n3-116-18.dhcp.drexel.edu (10.250.116.18)
+Host is up (0.11s latency).
+Nmap scan report for n3-116-36.dhcp.drexel.edu (10.250.116.36)
+Host is up (0.089s latency).
+Nmap scan report for n3-116-70.dhcp.drexel.edu (10.250.116.70)
+Host is up (0.095s latency).
+Nmap scan report for n3-116-129.dhcp.drexel.edu (10.250.116.129)
+Host is up (0.0091s latency).
+Nmap scan report for n3-116-153.dhcp.drexel.edu (10.250.116.153)
+Host is up (0.0088s latency).
+Nmap scan report for n3-116-157.dhcp.drexel.edu (10.250.116.157)
+Host is up (0.054s latency).
+Nmap scan report for n3-116-170.dhcp.drexel.edu (10.250.116.170)
+Host is up (0.012s latency).
+Nmap scan report for n3-116-176.dhcp.drexel.edu (10.250.116.176)
+Host is up (0.084s latency).
+Nmap scan report for n3-116-188.dhcp.drexel.edu (10.250.116.188)
+Host is up (0.048s latency).
+Nmap scan report for n3-116-202.dhcp.drexel.edu (10.250.116.202)
+Host is up (0.19s latency).
+Nmap scan report for n3-116-214.dhcp.drexel.edu (10.250.116.214)
+Host is up (0.091s latency).
+Nmap scan report for n3-116-247.dhcp.drexel.edu (10.250.116.247)
+Host is up (0.0072s latency).
+Nmap scan report for n3-117-18.dhcp.drexel.edu (10.250.117.18)
+Host is up (0.030s latency).
+Nmap scan report for n3-117-24.dhcp.drexel.edu (10.250.117.24)
+Host is up (0.10s latency).
+Nmap scan report for n3-117-33.dhcp.drexel.edu (10.250.117.33)
+Host is up (0.16s latency).
+Nmap scan report for n3-117-69.dhcp.drexel.edu (10.250.117.69)
+Host is up (0.16s latency).
+Nmap scan report for n3-117-174.dhcp.drexel.edu (10.250.117.174)
+Host is up (0.045s latency).
+Nmap scan report for n3-117-183.dhcp.drexel.edu (10.250.117.183)
+Host is up (0.059s latency).
+Nmap scan report for n3-117-193.dhcp.drexel.edu (10.250.117.193)
+Host is up (0.19s latency).
+Nmap scan report for n3-117-224.dhcp.drexel.edu (10.250.117.224)
+Host is up (0.021s latency).
+Nmap scan report for n3-117-227.dhcp.drexel.edu (10.250.117.227)
+Host is up (0.26s latency).
+Nmap scan report for n3-117-229.dhcp.drexel.edu (10.250.117.229)
+Host is up (0.055s latency).
+Nmap scan report for n3-117-233.dhcp.drexel.edu (10.250.117.233)
+Host is up (0.024s latency).
+Nmap scan report for n3-117-248.dhcp.drexel.edu (10.250.117.248)
+Host is up (0.052s latency).
+Nmap scan report for n3-118-22.dhcp.drexel.edu (10.250.118.22)
+Host is up (0.018s latency).
+Nmap scan report for n3-118-38.dhcp.drexel.edu (10.250.118.38)
+Host is up (0.025s latency).
+Nmap scan report for n3-118-74.dhcp.drexel.edu (10.250.118.74)
+Host is up (0.013s latency).
+Nmap scan report for n3-118-103.dhcp.drexel.edu (10.250.118.103)
+Host is up (0.016s latency).
+Nmap scan report for n3-118-105.dhcp.drexel.edu (10.250.118.105)
+Host is up (0.089s latency).
+Nmap scan report for n3-118-106.dhcp.drexel.edu (10.250.118.106)
+Host is up (0.017s latency).
+Nmap scan report for n3-118-108.dhcp.drexel.edu (10.250.118.108)
+Host is up (0.085s latency).
+Nmap scan report for n3-118-127.dhcp.drexel.edu (10.250.118.127)
+Host is up (0.085s latency).
+Nmap scan report for n3-118-175.dhcp.drexel.edu (10.250.118.175)
+Host is up (0.064s latency).
+Nmap scan report for n3-118-180.dhcp.drexel.edu (10.250.118.180)
+Host is up (0.078s latency).
+Nmap scan report for n3-119-107.dhcp.drexel.edu (10.250.119.107)
+Host is up (0.029s latency).
+Nmap scan report for n3-119-227.dhcp.drexel.edu (10.250.119.227)
+Host is up (0.013s latency).
+Nmap scan report for n3-120-48.dhcp.drexel.edu (10.250.120.48)
+Host is up (0.026s latency).
+Nmap scan report for n3-120-87.dhcp.drexel.edu (10.250.120.87)
+Host is up (0.060s latency).
+Nmap scan report for n3-120-99.dhcp.drexel.edu (10.250.120.99)
+Host is up (0.044s latency).
+Nmap scan report for n3-120-111.dhcp.drexel.edu (10.250.120.111)
+Host is up (0.098s latency).
+Nmap scan report for n3-120-186.dhcp.drexel.edu (10.250.120.186)
+Host is up (0.11s latency).
+Nmap scan report for n3-120-214.dhcp.drexel.edu (10.250.120.214)
+Host is up (0.017s latency).
+Nmap scan report for n3-120-222.dhcp.drexel.edu (10.250.120.222)
+Host is up (0.091s latency).
+Nmap scan report for n3-121-10.dhcp.drexel.edu (10.250.121.10)
+Host is up (0.14s latency).
+Nmap scan report for n3-121-28.dhcp.drexel.edu (10.250.121.28)
+Host is up (0.11s latency).
+Nmap scan report for n3-121-63.dhcp.drexel.edu (10.250.121.63)
+Host is up (0.096s latency).
+Nmap scan report for n3-121-88.dhcp.drexel.edu (10.250.121.88)
+Host is up (0.012s latency).
+Nmap scan report for n3-121-107.dhcp.drexel.edu (10.250.121.107)
+Host is up (0.079s latency).
+Nmap scan report for n3-121-145.dhcp.drexel.edu (10.250.121.145)
+Host is up (0.068s latency).
+Nmap scan report for n3-121-168.dhcp.drexel.edu (10.250.121.168)
+Host is up (0.091s latency).
+Nmap scan report for n3-121-192.dhcp.drexel.edu (10.250.121.192)
+Host is up (0.014s latency).
+Nmap scan report for n3-121-212.dhcp.drexel.edu (10.250.121.212)
+Host is up (0.038s latency).
+Nmap scan report for n3-122-16.dhcp.drexel.edu (10.250.122.16)
+Host is up (0.019s latency).
+Nmap scan report for n3-122-39.dhcp.drexel.edu (10.250.122.39)
+Host is up (0.027s latency).
+Nmap scan report for n3-122-51.dhcp.drexel.edu (10.250.122.51)
+Host is up (0.069s latency).
+Nmap scan report for n3-122-58.dhcp.drexel.edu (10.250.122.58)
+Host is up (0.14s latency).
+Nmap scan report for n3-122-133.dhcp.drexel.edu (10.250.122.133)
+Host is up (0.099s latency).
+Nmap scan report for n3-122-192.dhcp.drexel.edu (10.250.122.192)
+Host is up (0.093s latency).
+Nmap scan report for n3-122-202.dhcp.drexel.edu (10.250.122.202)
+Host is up (0.030s latency).
+Nmap scan report for n3-122-213.dhcp.drexel.edu (10.250.122.213)
+Host is up (0.011s latency).
+Nmap scan report for n3-122-215.dhcp.drexel.edu (10.250.122.215)
+Host is up (0.018s latency).
+Nmap scan report for n3-123-76.dhcp.drexel.edu (10.250.123.76)
+Host is up (0.0099s latency).
+Nmap scan report for n3-123-91.dhcp.drexel.edu (10.250.123.91)
+Host is up (0.042s latency).
+Nmap scan report for n3-123-112.dhcp.drexel.edu (10.250.123.112)
+Host is up (0.12s latency).
+Nmap scan report for n3-123-124.dhcp.drexel.edu (10.250.123.124)
+Host is up (0.023s latency).
+Nmap scan report for n3-123-125.dhcp.drexel.edu (10.250.123.125)
+Host is up (0.096s latency).
+Nmap scan report for n3-123-128.dhcp.drexel.edu (10.250.123.128)
+Host is up (0.0066s latency).
+Nmap scan report for n3-123-143.dhcp.drexel.edu (10.250.123.143)
+Host is up (0.019s latency).
+Nmap scan report for n3-123-165.dhcp.drexel.edu (10.250.123.165)
+Host is up (0.050s latency).
+Nmap scan report for n3-123-180.dhcp.drexel.edu (10.250.123.180)
+Host is up (0.073s latency).
+Nmap scan report for n3-124-11.dhcp.drexel.edu (10.250.124.11)
+Host is up (0.012s latency).
+Nmap scan report for n3-124-24.dhcp.drexel.edu (10.250.124.24)
+Host is up (0.12s latency).
+Nmap scan report for n3-124-50.dhcp.drexel.edu (10.250.124.50)
+Host is up (0.0064s latency).
+Nmap scan report for n3-124-74.dhcp.drexel.edu (10.250.124.74)
+Host is up (0.024s latency).
+Nmap scan report for n3-124-95.dhcp.drexel.edu (10.250.124.95)
+Host is up (0.055s latency).
+Nmap scan report for n3-124-124.dhcp.drexel.edu (10.250.124.124)
+Host is up (0.066s latency).
+Nmap scan report for n3-124-127.dhcp.drexel.edu (10.250.124.127)
+Host is up (0.16s latency).
+Nmap scan report for n3-124-130.dhcp.drexel.edu (10.250.124.130)
+Host is up (0.010s latency).
+Nmap scan report for n3-124-152.dhcp.drexel.edu (10.250.124.152)
+Host is up (0.079s latency).
+Nmap scan report for n3-124-180.dhcp.drexel.edu (10.250.124.180)
+Host is up (0.064s latency).
+Nmap scan report for n3-124-225.dhcp.drexel.edu (10.250.124.225)
+Host is up (0.10s latency).
+Nmap scan report for n3-124-235.dhcp.drexel.edu (10.250.124.235)
+Host is up (0.062s latency).
+Nmap scan report for n3-124-239.dhcp.drexel.edu (10.250.124.239)
+Host is up (0.075s latency).
+Nmap scan report for n3-125-0.dhcp.drexel.edu (10.250.125.0)
+Host is up (0.23s latency).
+Nmap scan report for n3-125-31.dhcp.drexel.edu (10.250.125.31)
+Host is up (0.11s latency).
+Nmap scan report for n3-125-63.dhcp.drexel.edu (10.250.125.63)
+Host is up (0.064s latency).
+Nmap scan report for n3-125-117.dhcp.drexel.edu (10.250.125.117)
+Host is up (0.15s latency).
+Nmap scan report for n3-125-168.dhcp.drexel.edu (10.250.125.168)
+Host is up (0.016s latency).
+Nmap scan report for n3-125-230.dhcp.drexel.edu (10.250.125.230)
+Host is up (0.085s latency).
+Nmap scan report for n3-126-28.dhcp.drexel.edu (10.250.126.28)
+Host is up (0.040s latency).
+Nmap scan report for n3-126-34.dhcp.drexel.edu (10.250.126.34)
+Host is up (0.053s latency).
+Nmap scan report for n3-126-35.dhcp.drexel.edu (10.250.126.35)
+Host is up (0.12s latency).
+Nmap scan report for n3-126-43.dhcp.drexel.edu (10.250.126.43)
+Host is up (0.054s latency).
+Nmap scan report for n3-126-64.dhcp.drexel.edu (10.250.126.64)
+Host is up (0.016s latency).
+Nmap scan report for n3-126-93.dhcp.drexel.edu (10.250.126.93)
+Host is up (0.0097s latency).
+Nmap scan report for n3-126-95.dhcp.drexel.edu (10.250.126.95)
+Host is up (0.0096s latency).
+Nmap scan report for n3-126-125.dhcp.drexel.edu (10.250.126.125)
+Host is up (0.025s latency).
+Nmap scan report for n3-126-150.dhcp.drexel.edu (10.250.126.150)
+Host is up (0.053s latency).
+Nmap scan report for n3-126-155.dhcp.drexel.edu (10.250.126.155)
+Host is up (0.12s latency).
+Nmap scan report for n3-126-180.dhcp.drexel.edu (10.250.126.180)
+Host is up (0.100s latency).
+Nmap scan report for n3-126-219.dhcp.drexel.edu (10.250.126.219)
+Host is up (0.046s latency).
+Nmap done: 32768 IP addresses (1206 hosts up) scanned in 567.76 seconds
