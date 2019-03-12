@@ -1,0 +1,10 @@
+public enum StrategyType
+{
+	PAIR,
+	PAIR_COUNT,
+	HARD_VALUE,
+	HARD_VALUE_COUNT,
+	SOFT_VALUE,
+	SOFT_VALUE_COUNT,
+}
+
