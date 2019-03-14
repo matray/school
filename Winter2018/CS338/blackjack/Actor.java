@@ -24,8 +24,10 @@ public abstract class Actor implements Iterable<Hand>
 
     public abstract boolean isPlaying();
 
+    public abstract boolean hasBank();
     public abstract PlayerAction desiredAction(Hand hand);
 
+    public abstract int bankroll();
 
     public Iterator<Hand> iterator()
     {

@@ -22,6 +22,11 @@ public class Player extends Actor
         String message = String.format("Initial bankroll: %d", bankroll);
         logger.log(Level.FINE, message);
     }
+    @Override
+    public boolean hasBank()
+    {
+        return true;
+    }
 
     @Override
     public String toString()
@@ -64,6 +69,7 @@ public class Player extends Actor
         return result;
     }
 
+    @Override
     public int bankroll()
     {
         return bankroll;

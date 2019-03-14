@@ -26,6 +26,18 @@ public class Dealer extends Actor
         return Card.normalizeValue(hands.get(0).getCard(0).getValue());
     }
 
+    @Override
+    public boolean hasBank()
+    {
+        return false;
+    }
+
+    @Override
+    public int bankroll()
+    {
+        return 0;
+    }
+
     public void addDealerObserver(DealerObserver observer)
     {
         observers.add(observer);

@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.logging.Logger;
 import java.util.logging.Level;
 import java.math.BigInteger;
+import javax.swing.*;
 
 public class Table
 {
@@ -15,6 +16,8 @@ public class Table
     private ShoeObserver observer;
     private Logger logger;
     private DealerObserver dealerObserver;
+    private int numberOfHands;
+    private ProgressMonitor pm;
 
     public Table(Shoe shoe, House house, int minimumBet, DealerObserver dealerObserver)
     {
@@ -26,6 +29,11 @@ public class Table
         this.dealerObserver = dealerObserver;
         dealer.addDealerObserver(dealerObserver);
         logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+    }
+
+    public void setNumberOfHands(int count)
+    {
+        numberOfHands = count;
     }
 
     public void addPlayer(Player player)
@@ -44,17 +52,34 @@ public class Table
         hand.addCard(card);
     }
 
+    public void setProgressMonitor(ProgressMonitor pm)
+    {
+        this.pm = pm;
+    }
+
+    public Integer getPlayerBankroll(int index)
+    {
+        return players.get(index).bankroll();
+    }
+
     public void play()
     {
         logger.log(Level.INFO, "Opening the table");
-        int counter = 0;
-        while(true)
+        for(int counter = 0; counter < numberOfHands; counter++)
         {
-            counter++;
             String countMessage = String.format("Game count: %d", counter);
             logger.log(Level.INFO, countMessage);
             if (counter % 1000 == 0)
-                System.out.println(countMessage);
+            {
+                if(pm != null)
+                {
+                    if(pm.isCanceled())
+                    {
+                        throw new UnsupportedOperationException("Canceled");
+                    }
+                    pm.setProgress(counter);
+                }
+            }
             if(shoe.isPenetrated())
             {
                 logger.log(Level.INFO, "Resetting shoe");
@@ -226,6 +251,14 @@ public class Table
                 player.clear();
             }
             dealer.clear();
+        }
+        if(pm != null)
+        {
+            if(pm.isCanceled())
+            {
+                throw new UnsupportedOperationException("Canceled");
+            }
+            pm.setProgress(numberOfHands);
         }
     }
 }
