@@ -1,4 +1,4 @@
-#Assistive Technology
+# Assistive Technology
 ## Basics of Impairment, disability, & handicap
 * Impairment: Any loss or abnormality of psychological, physiological, or anatomical structure or function
 * Disability: Any restriction or lack (resulting from an impairment) of ability to perform an activity in the manner or within the range considered normal for a human being
